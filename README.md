@@ -99,7 +99,7 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 [Bulb](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows
 
-[Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/master/icons/youtube.png)
+[Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
 ### Shaders
 
