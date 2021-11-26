@@ -9,7 +9,7 @@ A majority of these libraries I use in my personal and commercial projects. Many
 
 Please note that older libraries will not be included from GameMaker 1 unless they have been updated.
 
-This is based on a list from [FaultyFunctions](https://github.com/FaultyFunctions/GameMakerLibraries) and the resource [Google Doc](https://docs.google.com/document/d/1wUm8FZPm8AKLZgC-P76TPJAMXs0EN2s5mJGvvUFwycw/edit). I just categorized it and added some additional links/details.
+This is based on a list from [FaultyFunctions](https://github.com/FaultyFunctions/GameMakerLibraries) and from Gleb Tsereteli's [Google Doc](https://docs.google.com/document/d/1wUm8FZPm8AKLZgC-P76TPJAMXs0EN2s5mJGvvUFwycw/edit). I just categorized it and added some additional links/details.
 
 ## Frameworks
 
@@ -23,8 +23,9 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 [Crispy](https://github.com/bfrymire/crispy) - Unit testing in GameMaker
 
-### UI
+### UI & Text
 
+[Scribble](https://github.com/JujuAdams/scribble)
 [Emu UI](https://github.com/DragoniteSpam/Emu)
 
 ### Levels
@@ -37,13 +38,21 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 [lexicon](https://github.com/tabularelf/lexicon)
 
+### Lighting
+
+[Bulb](https://github.com/JujuAdams/Bulb)
+
 ### Utilities
 
 [Polarca](https://github.com/VitorEstevam/polarca) - Interpolation Functions
 
+[Input](https://github.com/JujuAdams/input) - No nonsense controller/keyboard library
+
 ### Shaders
 
 [TransFX](https://short-bread.itch.io/transfx) - Transition Library
+
+## Software
 
 ## Snippets
 
@@ -51,7 +60,7 @@ GMLScripts.com
 
 ## Tutorials/Guides
 
-[Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy)
+[Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) ![YouTube](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/youtube-icon.png)
 
 ## Community
 
