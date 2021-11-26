@@ -32,6 +32,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Timer](https://github.com/nommiin/Timers) - Timer methods based on setTimeout and setInterval from JS
 
+[EventGML](https://github.com/Soves/EventGML) - Lightweight and fast Node.js style Events Library
+
 [Polarca](https://github.com/VitorEstevam/polarca) - Interpolation functions
 
 [Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker
@@ -191,6 +193,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 [Smile](https://github.com/zbanack/smile) - Sentiment analysis
 
 [Danmaku Project](https://github.com/OmegaX1000/DanmakuProject)
+
+[Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection)
 
 ## Software 💿
 
