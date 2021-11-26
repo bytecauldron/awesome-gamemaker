@@ -222,4 +222,4 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 ## Special Thanks 💖
 
-Gleb Tsereteli of Gutpunch Studios
+JujuAdamns, FaultyFunctions, Gleb Tsereteli (Gutpunch Studios)
