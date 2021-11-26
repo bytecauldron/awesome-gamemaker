@@ -3,7 +3,7 @@
 </p>
 
 # Awesome GameMaker 2 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-An awesome list of great libraries, snippets, guides, and projects for GameMaker 2.
+An awesome list of great libraries, snippets, guides, and projects for GameMaker Studio 2. 😎
 
 A majority of these libraries I use in my personal and commercial projects. Many of them will completely replace native tools in the IDE. If you have used GameMaker long enough, you know why some of these are an "absolute nessesity" for building larger commercial games. I highly recommend exploring everything here so you can start making games as quick as possible!
 
@@ -13,7 +13,7 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 ## Libraries
 
 
-### Utilities
+### Utilities 🛠️
 
 [gm-core](https://github.com/gm-core) - Foundational Utilities
 
@@ -39,7 +39,7 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration)
 
-### Debugging
+### Debugging 🪲🔨
 
 [rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell
 
@@ -53,7 +53,7 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 [Meta](https://github.com/nommiin/meta) - Runtime asset inspector
 
-### Input Handling
+### Input Handling 🖱️
 
 [Input](https://github.com/JujuAdams/input) - No nonsense controller/keyboard library
 
@@ -63,11 +63,19 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors)
 
-### Physics and Collisions
+### Physics and Collisions ☄️
 
 [Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider)
 
-### UI & Text
+### Levels 🏔️
+
+[LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) - LDtk Importer
+
+[LDtkParser](https://github.com/evolutionleo/LDtkParser) - Advanced LDtk Importer
+
+[Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Get data about a different room
+
+### UI & Text 📜
 
 [Scribble](https://github.com/JujuAdams/scribble)
 
@@ -79,15 +87,7 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 [Shampoo](https://zackbanack.itch.io/shampoo)
 
-### Levels
-
-[LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) - LDtk Importer
-
-[LDtkParser](https://github.com/evolutionleo/LDtkParser) - Advanced LDtk Importer
-
-[Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Get data about a different room
-
-### Localization
+### Localization 🔣
 
 [gm-i18n](https://github.com/CreativeHandOficial/gm-i18n)
 
@@ -95,23 +95,23 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2)
 
-### Lighting
+### Lighting 💡
 
 [Bulb](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows
 
 [Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
-### Shaders
+### Shaders ✨
 
 [TransFX](https://short-bread.itch.io/transfx) - Transition Library
 
 [GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com"
 
-### Networking
+### Networking 🌐
 
 [GM-Online-Framework](https://github.com/evolutionleo/GM-Online-Framework)
 
-### Integrations
+### Integrations 🔌
 
 [DHook](https://github.com/tabularelf/DHook) - Discord integration
 
@@ -119,23 +119,23 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 [NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) - Discord integration
 
-### Others (need to categorize still)
+### Others ❔ (need to categorize)
 
 [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/)
 
 [SnowState](https://github.com/sohomsahaun/SnowState)
 
-## Software
+## Software 💿
 
-## Snippets
+## Snippets 📝
 
 [GMLScripts.com](https://www.gmlscripts.com/script/index)
 
-## Community
+## Community 🌎
 
 [Community Forums](https://forum.yoyogames.com/index.php)
 
-## Useful Extras
+## Useful Extras ⚗️
 
 [GitHub Yacc to GML Fix](https://www.reddit.com/r/gamemaker/comments/n5m35l/a_simple_fix_for_github_incorrectly_detecting/)
 
