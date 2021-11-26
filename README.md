@@ -9,6 +9,7 @@ A majority of these libraries I use in my personal and commercial projects. Many
 
 This is based on a list from [FaultyFunctions](https://github.com/FaultyFunctions/GameMakerLibraries) and from Gleb Tsereteli's [Google Doc](https://docs.google.com/document/d/1wUm8FZPm8AKLZgC-P76TPJAMXs0EN2s5mJGvvUFwycw/edit). I just categorized it and added some additional links/details.
 
+If you need more general game development resources, look up "Awesome Gamedev".
 
 ## Libraries
 
@@ -27,17 +28,33 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 [DoLater](https://github.co/JujuAdams/DoLater) - Deferred code execution
 
+[fuwafuwa](https://github.com/kemonologic/fuwafuwa) - Easy-to-use timer system
+
+[Timer](https://github.com/nommiin/Timers) - Timer methods based on setTimeout and setInterval from JS
+
 [Polarca](https://github.com/VitorEstevam/polarca) - Interpolation functions
 
 [Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker
+
+[Map](https://github.com/GameMakerDiscord/Map.gml) - Hash table implementations
+
+[gm-stream](https://github.com/daikon-games/gm-stream) - Data structure manipulation
+
+[Promises](https://github.com/YAL-GameMaker/Promise.gml)
+
+[Destructors](https://github.com/DatZach/Destructors)
+
+[SNAP](https://github.com/JujuAdams/SNAP) - Easy data format saving and loading
 
 [LWO](https://github.com/tabularelf/lwo) - Light weight objects using structs
 
 [Lock And Key](https://github.com/AlubJ/Lock-And-Key) - Encryption
 
-[fuwafuwa](https://github.com/kemonologic/fuwafuwa) - Easy-to-use timer system
-
 [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration)
+
+[Cottonwool](https://github.com/JujuAdams/Cottonwool) - Safe surfaces
+
+[GMLive](https://yellowafterlife.itch.io/gamemaker-live)
 
 ### Debugging 🪲🔨
 
@@ -53,7 +70,9 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 [Meta](https://github.com/nommiin/meta) - Runtime asset inspector
 
-### Input Handling 🖱️
+[FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker)
+
+### Input Handling 🕹️
 
 [Input](https://github.com/JujuAdams/input) - No nonsense controller/keyboard library
 
@@ -67,6 +86,12 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 [Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider)
 
+[On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/)
+
+### Sprites 👾
+
+[AESnips](https://github.com/angelwire/AESnips) - A sprite playback system
+
 ### Levels 🏔️
 
 [LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) - LDtk Importer
@@ -75,9 +100,15 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 [Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Get data about a different room
 
+[Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3)
+
+### Audio 🎵
+
+[wavload](https://github.com/nkrapivin/wavload)
+
 ### UI & Text 📜
 
-[Scribble](https://github.com/JujuAdams/scribble)
+[Scribble](https://github.com/JujuAdams/scribble) - Efficient multi-effects text renderer
 
 [Chatterbox](https://github.com/JujuAdams/chatterbox) - Narrative scripting tool
 
@@ -95,21 +126,37 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2)
 
+### Particles ✨
+
+[particles](https://github.com/GamemakerCasts/particles)
+
 ### Lighting 💡
 
 [Bulb](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows
 
 [Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
-### Shaders ✨
+### Shaders 🌟
 
 [TransFX](https://short-bread.itch.io/transfx) - Transition Library
 
 [GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com"
 
+[Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels)
+
+### 3D 🧊
+
+[dotobj](https://github.com/JujuAdams/dotobj)
+
+[Bronze Box](https://github.com/cicadian/Bronze-Box)
+
 ### Networking 🌐
 
 [GM-Online-Framework](https://github.com/evolutionleo/GM-Online-Framework)
+
+[GMHandshake](https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8)
+
+[HTTP GML](https://github.com/Sidorakh/http.gml)
 
 ### Integrations 🔌
 
@@ -119,24 +166,56 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 [NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) - Discord integration
 
+### Camera 🎥
+
+[Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/)
+
+### Sequences ⏰
+
+[Sequences Tutorial](https://www.youtube.com/watch?v=WO6gzhrx5b8) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+
+[Making Splash Screens](https://www.youtube.com/watch?v=hTh5UpFxx1E) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+
+### Game Design 🖼️
+
+[Making Attacks Feel Good](https://www.youtube.com/watch?v=RWkMsD2WUz8) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+
 ### Others ❔ (need to categorize)
 
 [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/)
 
 [SnowState](https://github.com/sohomsahaun/SnowState)
 
+[wFSM](https://mors-games.itch.io/wfsm)
+
+[Smile](https://github.com/zbanack/smile) - Sentiment analysis
+
+[Danmaku Project](https://github.com/OmegaX1000/DanmakuProject)
+
 ## Software 💿
+
+[YYP Maker](https://sahaun.itch.io/yyp-maker)
+
+[ASESync](https://sahaun.itch.io/asesync)
 
 ## Snippets 📝
 
 [GMLScripts.com](https://www.gmlscripts.com/script/index)
-
-## Community 🌎
-
-[Community Forums](https://forum.yoyogames.com/index.php)
 
 ## Useful Extras ⚗️
 
 [GitHub Yacc to GML Fix](https://www.reddit.com/r/gamemaker/comments/n5m35l/a_simple_fix_for_github_incorrectly_detecting/)
 
 [Tony Str's Articles](https://tonystr.net/articles)
+
+[2.3 Syntax in Detail](https://yal.cc/gamemaker-2-3-syntax-in-details/)
+
+[Advanced Macro Usage](https://nuxiigit.github.io/content/blog/post/gml+syntax+extensions.html)
+
+## Community 🌎
+
+[Community Forums](https://forum.yoyogames.com/index.php)
+
+## Special Thanks 💖
+
+Gleb Tsereteli of Gutpunch Studios
