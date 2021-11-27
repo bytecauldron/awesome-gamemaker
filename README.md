@@ -94,6 +94,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [AESnips](https://github.com/angelwire/AESnips) - A sprite playback system
 
+[phgen](https://github.com/squircledev/phgen) - Placeholder asset generation
+
 ### Levels 🏔️
 
 [LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) - LDtk Importer
@@ -127,6 +129,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 [lexicon](https://github.com/tabularelf/lexicon)
 
 [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2)
+
+[Small Pentapop](https://github.com/AntonBergaker/small_pp_localization_tool)
 
 ### Particles ✨
 
@@ -164,19 +168,19 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [DHook](https://github.com/tabularelf/DHook) - Discord integration
 
-[GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) - Discord integration
+[GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) - Another Discord integration
 
-[NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) - Discord integration
+[NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) - Oops, all Discord integration
 
 ### Camera 🎥
 
-[Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/)
+[Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/) - Getting started with cameras in GMS2
 
 ### Sequences ⏰
 
 [Sequences Tutorial](https://www.youtube.com/watch?v=WO6gzhrx5b8) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
-[Making Splash Screens](https://www.youtube.com/watch?v=hTh5UpFxx1E) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+[Making Splash Screen Sequences](https://www.youtube.com/watch?v=hTh5UpFxx1E) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
 ### Game Design 🖼️
 
@@ -184,17 +188,21 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 ### Others ❔ (need to categorize)
 
-[Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/)
+[Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos
 
-[SnowState](https://github.com/sohomsahaun/SnowState)
+[GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) - Webcam capture
 
-[wFSM](https://mors-games.itch.io/wfsm)
+[SnowState](https://github.com/sohomsahaun/SnowState) - State machine
+
+[wFSM](https://mors-games.itch.io/wfsm) - State machine
 
 [Smile](https://github.com/zbanack/smile) - Sentiment analysis
 
-[Danmaku Project](https://github.com/OmegaX1000/DanmakuProject)
+[Danmaku Project](https://github.com/OmegaX1000/DanmakuProject) - Bullet hell engine
 
-[Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection)
+[Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection) - A suite of various extensions
+
+[Three Mice In a Trench Coat](https://github.com/XorDev/ThreeMiceInaTrenchcoat) - Source for 3D game
 
 ## Software 💿
 
@@ -219,6 +227,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 ## Community 🌎
 
 [Community Forums](https://forum.yoyogames.com/index.php)
+
+[Offcial Discord](https://discord.gg/gamemaker)
 
 ## Special Thanks 💖
 
