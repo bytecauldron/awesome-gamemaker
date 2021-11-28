@@ -24,6 +24,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Stitch](https://github.com/bscotch/stitch#readme) - Pipeline Development Kit
 
+[GML+](https://xgasoft.itch.io/gmlp)💸 - a script collection with a goal to "fill the gaps" in GML
+
 [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor
 
 [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library
@@ -244,7 +246,9 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Community Forums](https://forum.yoyogames.com/index.php)
 
-[Offcial Discord](https://discord.gg/gamemaker)
+[Subreddit](https://www.reddit.com/r/gamemaker/)
+
+[Discord](https://discord.gg/gamemaker)
 
 ## Special Thanks 💖
 
