@@ -11,127 +11,141 @@ This is based on a list from [FaultyFunctions](https://github.com/FaultyFunction
 
 If you need more general game development resources, look up "Awesome Gamedev".
 
-💸 is stuff you can buy. Everything else is free. Most stuff here is MIT but double check before you use these in your commericial projects.
+💸 is stuff you can buy. Everything else is free. Most stuff here is MIT/CC but double check before you use these in your commericial projects.
 
 ## Utilities 🛠️
 
-[gm-core](https://github.com/gm-core) - Foundational Utilities
+[gm-core](https://github.com/gm-core) - Foundational Utilities.
 
-[FAST](https://github.com/Hyomoto/FAST) - Flexible Assistant Toolkit
+[FAST](https://github.com/Hyomoto/FAST) - Flexible Assistant Toolkit.
 
-[Stitch](https://github.com/bscotch/stitch#readme) - Pipeline Development Kit
+[Stitch](https://github.com/bscotch/stitch#readme) - Pipeline Development Kit.
 
-[GML+](https://xgasoft.itch.io/gmlp)💸 - a script collection with a goal to "fill the gaps" in GML
+[GML+](https://xgasoft.itch.io/gmlp)💸 - a script collection with a goal to "fill the gaps" in GML.
 
-[DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor
+[DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor.
 
-[Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library
+[Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library.
 
-[Stopwatch](https://github.com/Lojemiru/Stopwatch) - Replacement for GameMaker Studio 2.3 alarms
+[Stopwatch](https://github.com/Lojemiru/Stopwatch) - Replacement for GameMaker Studio 2.3 alarms.
 
-[DoLater](https://github.co/JujuAdams/DoLater) - Deferred code execution
+[DoLater](https://github.co/JujuAdams/DoLater) - Deferred code execution.
 
-[fuwafuwa](https://github.com/kemonologic/fuwafuwa) - Easy-to-use timer system
+[fuwafuwa](https://github.com/kemonologic/fuwafuwa) - Easy-to-use timer system.
 
-[Timer](https://github.com/nommiin/Timers) - Timer methods based on setTimeout and setInterval from JS
+[wTimer](https://mors-games.itch.io/wtimer) - Robust alternative for alarms.
 
-[EventGML](https://github.com/Soves/EventGML) - Lightweight and fast Node.js style Events Library
+[Timer](https://github.com/nommiin/Timers) - Timer methods based on setTimeout and setInterval from JS.
 
-[Polarca](https://github.com/VitorEstevam/polarca) - Interpolation functions
+[EventGML](https://github.com/Soves/EventGML) - Lightweight and fast Node.js style Events Library.
 
-[Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker
+[Polarca](https://github.com/VitorEstevam/polarca) - Interpolation functions.
 
-[Map](https://github.com/GameMakerDiscord/Map.gml) - Hash table implementations
+[Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker.
 
-[Matrices](https://github.com/JujuAdams/matrices) - A collection of matrix handling scripts
+[Map](https://github.com/GameMakerDiscord/Map.gml) - Hash table implementations.
 
-[gm-stream](https://github.com/daikon-games/gm-stream) - Data structure manipulation
+[Matrices](https://github.com/JujuAdams/matrices) - A collection of matrix handling scripts.
 
-[Promises](https://github.com/YAL-GameMaker/Promise.gml) - An adaptation of JavaScript Promises
+[gm-stream](https://github.com/daikon-games/gm-stream) - Data structure manipulation.
 
-[Destructors](https://github.com/DatZach/Destructors) - Allows you to use ds_* types such as lists and maps inside of structs
+[Promises](https://github.com/YAL-GameMaker/Promise.gml) - An adaptation of JavaScript Promises.
 
-[SNAP](https://github.com/JujuAdams/SNAP) - Easy data format saving and loading
+[Destructors](https://github.com/DatZach/Destructors) - Allows you to use ds_* types such as lists and maps inside of structs.
 
-[LWO](https://github.com/tabularelf/lwo) - Light weight objects using structs
+[SNAP](https://github.com/JujuAdams/SNAP) - Easy data format saving and loading.
 
-[Lock And Key](https://github.com/AlubJ/Lock-And-Key) - String and file encryption
+[LWO](https://github.com/tabularelf/lwo) - Light weight objects using structs.
+
+[Lock And Key](https://github.com/AlubJ/Lock-And-Key) - String and file encryption.
+
+[Mathematical Scripts](https://adam-rumpf.itch.io/gamemaker-studio-2-mathematical-scripts) - A collection of math scripts.
 
 [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) - Verlet integration example used for visuals.
 
-[Cottonwool](https://github.com/JujuAdams/Cottonwool) - Safe surfaces
+[Cottonwool](https://github.com/JujuAdams/Cottonwool) - Safe surfaces.
 
-[GMLive](https://yellowafterlife.itch.io/gamemaker-live)💸 - Livecoding / interactive programming
+[GMLive](https://yellowafterlife.itch.io/gamemaker-live)💸 - Livecoding / interactive programming.
+
+[zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) - Simple compression/decompression functions.
+
+[Window Taskbar](https://yellowafterlife.itch.io/gamemaker-window-taskbar) - Windows only. Flash the game window border and/or its taskbar button.
 
 ## Debugging 🪲🔨
 
-[rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell
+[rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell.
 
-[Olympus](https://github.com/bscotch/olympus#readme) - Testing Framework
+[Olympus](https://github.com/bscotch/olympus#readme) - Testing Framework.
 
-[Crispy](https://github.com/bfrymire/crispy) - Unit testing in GameMaker
+[Crispy](https://github.com/bfrymire/crispy) - Unit testing in GameMaker.
 
 [gms2-test](https://github.com/pmarincak/gms2-test) - Another unit testing framework.
 
-[Snitch](https://github.com/JujuAdams/Snitch) - Crash and logging system
+[Snitch](https://github.com/JujuAdams/Snitch) - Crash and logging system.
 
-[Meta](https://github.com/nommiin/meta) - Runtime asset inspector
+[Meta](https://github.com/nommiin/meta) - Runtime asset inspector.
 
-[FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display
+[FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
+
+[DeerLog](https://mulfok.itch.io/gamemaker-deerlog) - Small log writer.
 
 ## Input Handling 🕹️
 
-[Input](https://github.com/JujuAdams/input) - No nonsense controller/keyboard library
+[Input](https://github.com/JujuAdams/input) - No nonsense controller/keyboard library.
 
 [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
 
-[Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration
+[Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration.
 
-[Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors)💸 - System-level custom cursors
+[Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors)💸 - System-level custom cursors.
 
 ## Physics and Collisions ☄️
 
-[Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) - A robust, pixel-perfect collision engine
+[Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) - A robust, pixel-perfect collision engine.
 
 [On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/)
 
 ## Sprites 👾
 
-[AESnips](https://github.com/angelwire/AESnips) - A sprite playback system
+[AESnips](https://github.com/angelwire/AESnips) - A sprite playback system.
 
-[phgen](https://github.com/squircledev/phgen) - Placeholder asset generation
+[phgen](https://github.com/squircledev/phgen) - Placeholder asset generation.
 
 ## Levels 🏔️
 
-[LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) - LDtk Importer
+[LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) - LDtk Importer.
 
-[LDtkParser](https://github.com/evolutionleo/LDtkParser) - Advanced LDtk Importer
+[LDtkParser](https://github.com/evolutionleo/LDtkParser) - Advanced LDtk Importer.
 
-[Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Get data about a different room
+[Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Get data about a different room.
 
-[Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) - Combines user-defined chambers to create a dungeon
+[Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) - Combines user-defined chambers to create a dungeon.
 
 ## Audio 🎵
+
+[Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2)💸 - Optimized delay effect.
 
 [wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
 
 ## UI & Text 📜
 
-[Scribble](https://github.com/JujuAdams/scribble) - Efficient multi-effects text renderer
+[Scribble](https://github.com/JujuAdams/scribble) - Efficient multi-effects text renderer.
 
-[Chatterbox](https://github.com/JujuAdams/chatterbox) - Narrative scripting tool
+[Chatterbox](https://github.com/JujuAdams/chatterbox) - Narrative scripting tool.
 
-[NotificationSystem](https://github.com/babaganosch/NotificationSystem) - Notifications in GameMaker
+[NotificationSystem](https://github.com/babaganosch/NotificationSystem) - Notifications in GameMaker.
 
-[Stream](https://github.com/OmegaX1000/StreamUI) - An efficient Framework for Creating UI
+[Stream](https://github.com/OmegaX1000/StreamUI) - An efficient Framework for Creating UI.
 
-[Bento](https://github.com/JujuAdams/bento) - A modern UI framework
+[Bento](https://github.com/JujuAdams/bento) - A modern UI framework.
 
-[Guido](https://github.com/JujuAdams/Guido) - Simple immediate mode GUI framework
+[Guido](https://github.com/JujuAdams/Guido) - Simple immediate mode GUI framework.
 
-[Emu UI](https://github.com/DragoniteSpam/Emu) - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc)
+[Emu UI](https://github.com/DragoniteSpam/Emu) - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
 
-[Shampoo](https://zackbanack.itch.io/shampoo)💸 - GUIs using a markup-like language
+[Shampoo](https://zackbanack.itch.io/shampoo)💸 - GUIs using a markup-like language.
+
+[Pause Menu](https://jasontomlee.itch.io/pause-menu-gamemaker-1-2)
 
 ## Localization 🔣
 
@@ -149,21 +163,21 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 ## Lighting 💡
 
-[Bulb](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows
+[Bulb](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows.
 
 [Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
 ## Shaders 🌟
 
-[TransFX](https://short-bread.itch.io/transfx) - Transition Library
+[TransFX](https://short-bread.itch.io/transfx) - Transition Library.
 
-[bktGlitch](https://odditica.itch.io/bktglitch) - Glitch shader
+[bktGlitch](https://odditica.itch.io/bktglitch) - Glitch shader.
 
-[H O R R I - F I](https://gizmo199.itch.io/horri-fi) - VHS Shader
+[H O R R I - F I](https://gizmo199.itch.io/horri-fi) - VHS Shader.
 
-[GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com"
+[GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com".
 
-[Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels) - Sampled pixels on a Voronoi diagram
+[Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels) - Sampled pixels on a Voronoi diagram.
 
 [Shader Tutorials](https://www.youtube.com/watch?v=ch4BYqkL1w8&list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - Gaming Reverends
 
@@ -171,9 +185,9 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 ## 3D 🧊
 
-[dotobj](https://github.com/JujuAdams/dotobj) - Lightweight .obj/.mtl 3D model loader written in native GML
+[dotobj](https://github.com/JujuAdams/dotobj) - Lightweight .obj/.mtl 3D model loader written in native GML.
 
-[Bronze Box](https://github.com/cicadian/Bronze-Box) - Example of how to build 3d world models from a 2d grid
+[Bronze Box](https://github.com/cicadian/Bronze-Box) - Example of how to build 3d world models from a 2d grid.
 
 [3D GameMaker Playlist](https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
 
@@ -181,9 +195,13 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [3D Optimization Playlist](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
 
-[Camera3D](https://gizmo199.itch.io/camera3d) - Simple 3D camera setup
+[Camera3D](https://gizmo199.itch.io/camera3d) - Simple 3D camera setup.
 
-[Fauxton3D](https://gizmo199.itch.io/fauxton3d) - Sprite stacking engine
+[Fauxton3D](https://gizmo199.itch.io/fauxton3d) - Sprite stacking engine.
+
+## Sprite Stacking
+
+[Sprite Stacking Tutorials](https://www.youtube.com/watch?v=VIDN-nG3EOU&list=PL3Kbpztq9qwT9MbW_k4yyJU__or1r8P2j) - Gizmo199
 
 ## Networking 🌐
 
@@ -195,15 +213,17 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 ## Integrations 🔌
 
-[DHook](https://github.com/tabularelf/DHook) - Discord integration
+[DHook](https://github.com/tabularelf/DHook) - Discord integration.
 
-[GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) - Another Discord integration
+[GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) - Another Discord integration.
 
-[NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) - Oops, all Discord integration
+[NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) - Oops, all Discord integration.
 
 ## Camera 🎥
 
-[Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/) - Getting started with cameras in GMS2
+[Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/) - Getting started with cameras in GMS2.
+
+[Camera All-In-One](https://jasontomlee.itch.io/allinone-camera)💸 - Editor, screenshake, view-resizing, follow modes, screen effects, etc.
 
 ## Sequences ⏰
 
@@ -215,23 +235,33 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Making Attacks Feel Good](https://www.youtube.com/watch?v=RWkMsD2WUz8) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
-## Others ❔ (need to categorize)
+## Others ❔ (need to organize)
 
-[Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos
+[Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos.
 
-[GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) - Webcam capture
+[GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) - Webcam capture.
 
-[SnowState](https://github.com/sohomsahaun/SnowState) - State machine
+[SnowState](https://github.com/sohomsahaun/SnowState) - State machine.
 
-[wFSM](https://mors-games.itch.io/wfsm) - State machine
+[wFSM](https://mors-games.itch.io/wfsm) - State machine.
 
-[Smile](https://github.com/zbanack/smile) - Sentiment analysis
+[Smile](https://github.com/zbanack/smile) - Sentiment analysis.
 
 [Danmaku Project](https://github.com/OmegaX1000/DanmakuProject) - Bullet hell engine
 
-[Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection) - A suite of various extensions
+[Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection) - A suite of various extensions.
 
-[Three Mice In a Trench Coat](https://github.com/XorDev/ThreeMiceInaTrenchcoat) - Source for 3D game
+[Three Mice In a Trench Coat](https://github.com/XorDev/ThreeMiceInaTrenchcoat) - Source for a GMS 3D game.
+
+[Cyberpunk Hologram Effect](https://gentoogames.itch.io/cyberpunk-hologram-effect)
+
+[Dynamic Turn System](https://gentoogames.itch.io/turn-based-combat-system-for-gamemaker)
+
+[Aquila](https://dragonite.itch.io/aquila) - A* Pathfinding.
+
+[Cellular Automata](https://alessiogamedev.itch.io/gms-cellular-automata-algorithm) - Generates huge caves in a few hundred milliseconds.
+
+[Trixscript](https://trixelized.itch.io/trixscript) - Juices up your game with useful functions.
 
 ## Software 💿
 
@@ -253,6 +283,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Advanced Macro Usage](https://nuxiigit.github.io/content/blog/post/gml+syntax+extensions.html)
 
+[GMS2 Tutorials](https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - Shaun Spalding
+
 ## Community 🌎
 
 [Community Forums](https://forum.yoyogames.com/index.php)
@@ -263,4 +295,4 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 ## Special Thanks 💖
 
-JujuAdams, FaultyFunctions, Gleb Tsereteli (Gutpunch Studios)
+JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, PixelatedPope, Tony Strømsnæs, HeartBeast, Xor, Gaming Reverends, Matharoo, YellowAfterlife, Gizmo199, Avis, Josh Wilson
