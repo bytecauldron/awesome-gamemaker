@@ -21,8 +21,6 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Stitch](https://github.com/bscotch/stitch#readme) - Pipeline Development Kit.
 
-[GML+](https://xgasoft.itch.io/gmlp)💸 - a script collection with a goal to "fill the gaps" in GML.
-
 [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor.
 
 [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library.
@@ -65,11 +63,13 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Cottonwool](https://github.com/JujuAdams/Cottonwool) - Safe surfaces.
 
-[GMLive](https://yellowafterlife.itch.io/gamemaker-live)💸 - Livecoding / interactive programming.
-
 [zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) - Simple compression/decompression functions.
 
 [Window Taskbar](https://yellowafterlife.itch.io/gamemaker-window-taskbar) - Windows only. Flash the game window border and/or its taskbar button.
+
+[GML+](https://xgasoft.itch.io/gmlp)💸 - a script collection with a goal to "fill the gaps" in GML.
+
+[GMLive](https://yellowafterlife.itch.io/gamemaker-live)💸 - Livecoding / interactive programming.
 
 ## Debugging 🪲🔨
 
@@ -143,11 +143,11 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Emu UI](https://github.com/DragoniteSpam/Emu) - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
 
-[Shampoo](https://zackbanack.itch.io/shampoo)💸 - GUIs using a markup-like language.
-
-[Easy And Fast Menu](https://pkgames.itch.io/easy-and-fast-menus-for-gms-23) - 
+[Easy And Fast Menu](https://pkgames.itch.io/easy-and-fast-menus-for-gms-23)
 
 [Pause Menu](https://jasontomlee.itch.io/pause-menu-gamemaker-1-2)
+
+[Shampoo](https://zackbanack.itch.io/shampoo)💸 - GUIs using a markup-like language.
 
 ## Localization 🔣
 
