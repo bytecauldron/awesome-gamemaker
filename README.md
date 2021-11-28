@@ -15,7 +15,6 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 ## Libraries
 
-
 ### Utilities 🛠️
 
 [gm-core](https://github.com/gm-core) - Foundational Utilities
@@ -29,6 +28,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor
 
 [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library
+
+[Stopwatch](https://github.com/Lojemiru/Stopwatch) - Replacement for GameMaker Studio 2.3 alarms
 
 [DoLater](https://github.co/JujuAdams/DoLater) - Deferred code execution
 
