@@ -157,6 +157,10 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [TransFX](https://short-bread.itch.io/transfx) - Transition Library
 
+[bktGlitch](https://odditica.itch.io/bktglitch) - Glitch shader
+
+[H O R R I - F I](https://gizmo199.itch.io/horri-fi) - VHS Shader
+
 [GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com"
 
 [Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels) - Sampled pixels on a Voronoi diagram
@@ -176,6 +180,10 @@ If you need more general game development resources, look up "Awesome Gamedev".
 [3D Collisions Playlist](https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
 
 [3D Optimization Playlist](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
+
+[Camera3D](https://gizmo199.itch.io/camera3d) - Simple 3D camera setup
+
+[Fauxton3D](https://gizmo199.itch.io/fauxton3d) - Sprite stacking engine
 
 ## Networking 🌐
 
