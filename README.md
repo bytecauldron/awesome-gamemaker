@@ -181,7 +181,7 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Shader Tutorials](https://www.youtube.com/watch?v=ch4BYqkL1w8&list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - Gaming Reverends
 
-[Shader Videos](https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
+[Shader Tutorials](https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
 
 ## 3D 🧊
 
@@ -197,9 +197,9 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Camera3D](https://gizmo199.itch.io/camera3d) - Simple 3D camera setup.
 
-[Fauxton3D](https://gizmo199.itch.io/fauxton3d) - Sprite stacking engine.
-
 ## Sprite Stacking
+
+[Fauxton3D](https://gizmo199.itch.io/fauxton3d) - Sprite stacking engine.
 
 [Sprite Stacking Tutorials](https://www.youtube.com/watch?v=VIDN-nG3EOU&list=PL3Kbpztq9qwT9MbW_k4yyJU__or1r8P2j) - Gizmo199
 
