@@ -145,6 +145,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Shampoo](https://zackbanack.itch.io/shampoo)💸 - GUIs using a markup-like language.
 
+[Easy And Fast Menu](https://pkgames.itch.io/easy-and-fast-menus-for-gms-23) - 
+
 [Pause Menu](https://jasontomlee.itch.io/pause-menu-gamemaker-1-2)
 
 ## Localization 🔣
@@ -208,6 +210,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 [GM-Online-Framework](https://github.com/evolutionleo/GM-Online-Framework)
 
 [GMHandshake](https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8)
+
+[EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build)
 
 [HTTP GML](https://github.com/Sidorakh/http.gml)
 
