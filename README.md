@@ -29,7 +29,7 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Stopwatch](https://github.com/Lojemiru/Stopwatch) - Replacement for GameMaker Studio 2.3 alarms.
 
-[DoLater](https://github.co/JujuAdams/DoLater) - Deferred code execution.
+[DoLater](https://github.com/JujuAdams/DoLater) - Deferred code execution.
 
 [fuwafuwa](https://github.com/kemonologic/fuwafuwa) - Easy-to-use timer system.
 
