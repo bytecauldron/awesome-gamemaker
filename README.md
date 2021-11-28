@@ -5,11 +5,13 @@
 # Awesome GameMaker 2 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 An awesome list of great libraries, snippets, guides, and projects for GameMaker Studio 2. 😎
 
-A majority of these libraries I use in my personal and commercial projects. Many of them will completely replace native tools in the IDE. If you have used GameMaker long enough, you know why some of these are an "absolute nessesity" for building larger commercial games. I highly recommend exploring everything here so you can start making games as quick as possible!
+Many libraries here will completely replace native tools in the IDE. If you have used GameMaker long enough, you know why some of these are an "absolute nessesity" for building larger commercial games. I highly recommend exploring everything here so you can start making games as quick as possible!
 
 This is based on a list from [FaultyFunctions](https://github.com/FaultyFunctions/GameMakerLibraries) and from Gleb Tsereteli's [Google Doc](https://docs.google.com/document/d/1wUm8FZPm8AKLZgC-P76TPJAMXs0EN2s5mJGvvUFwycw/edit). I just categorized it and added some additional links/details.
 
 If you need more general game development resources, look up "Awesome Gamedev".
+
+💸 is stuff you can buy. Everything else is free. Most stuff here is MIT but double check before you use these in your commericial projects.
 
 ## Libraries
 
@@ -42,21 +44,21 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [gm-stream](https://github.com/daikon-games/gm-stream) - Data structure manipulation
 
-[Promises](https://github.com/YAL-GameMaker/Promise.gml)
+[Promises](https://github.com/YAL-GameMaker/Promise.gml) - An adaptation of JavaScript Promises
 
-[Destructors](https://github.com/DatZach/Destructors)
+[Destructors](https://github.com/DatZach/Destructors) - Allows you to use ds_* types such as lists and maps inside of structs
 
 [SNAP](https://github.com/JujuAdams/SNAP) - Easy data format saving and loading
 
 [LWO](https://github.com/tabularelf/lwo) - Light weight objects using structs
 
-[Lock And Key](https://github.com/AlubJ/Lock-And-Key) - Encryption
+[Lock And Key](https://github.com/AlubJ/Lock-And-Key) - String and file encryption
 
 [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration)
 
 [Cottonwool](https://github.com/JujuAdams/Cottonwool) - Safe surfaces
 
-[GMLive](https://yellowafterlife.itch.io/gamemaker-live)
+[GMLive](https://yellowafterlife.itch.io/gamemaker-live)💸 - Livecoding / interactive programming
 
 ### Debugging 🪲🔨
 
@@ -72,21 +74,21 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Meta](https://github.com/nommiin/meta) - Runtime asset inspector
 
-[FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker)
+[FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display
 
 ### Input Handling 🕹️
 
 [Input](https://github.com/JujuAdams/input) - No nonsense controller/keyboard library
 
-[XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/)
+[XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
 
 [Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration
 
-[Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors)
+[Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) - System-level custom cursors
 
 ### Physics and Collisions ☄️
 
-[Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider)
+[Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) - A robust, pixel-perfect collision engine
 
 [On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/)
 
@@ -104,11 +106,11 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Get data about a different room
 
-[Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3)
+[Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) - Combines user-defined chambers to create a dungeon
 
 ### Audio 🎵
 
-[wavload](https://github.com/nkrapivin/wavload)
+[wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
 
 ### UI & Text 📜
 
@@ -116,11 +118,11 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Chatterbox](https://github.com/JujuAdams/chatterbox) - Narrative scripting tool
 
-[Stream](https://github.com/OmegaX1000/StreamUI)
+[Stream](https://github.com/OmegaX1000/StreamUI) - An efficient Framework for Creating UI
 
-[Emu UI](https://github.com/DragoniteSpam/Emu)
+[Emu UI](https://github.com/DragoniteSpam/Emu) - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc)
 
-[Shampoo](https://zackbanack.itch.io/shampoo)
+[Shampoo](https://zackbanack.itch.io/shampoo)💸 - GUIs using a markup-like language
 
 ### Localization 🔣
 
