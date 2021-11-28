@@ -65,8 +65,6 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [GMLive](https://yellowafterlife.itch.io/gamemaker-live)💸 - Livecoding / interactive programming
 
-[NotificationSystem](https://github.com/babaganosch/NotificationSystem) - Notifications in GameMaker
-
 ### Debugging 🪲🔨
 
 [rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell
@@ -124,6 +122,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 [Scribble](https://github.com/JujuAdams/scribble) - Efficient multi-effects text renderer
 
 [Chatterbox](https://github.com/JujuAdams/chatterbox) - Narrative scripting tool
+
+[NotificationSystem](https://github.com/babaganosch/NotificationSystem) - Notifications in GameMaker
 
 [Stream](https://github.com/OmegaX1000/StreamUI) - An efficient Framework for Creating UI
 
