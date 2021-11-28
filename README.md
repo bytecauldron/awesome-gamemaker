@@ -42,6 +42,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Map](https://github.com/GameMakerDiscord/Map.gml) - Hash table implementations
 
+[Matrices](https://github.com/JujuAdams/matrices) - A collection of matrix handling scripts
+
 [gm-stream](https://github.com/daikon-games/gm-stream) - Data structure manipulation
 
 [Promises](https://github.com/YAL-GameMaker/Promise.gml) - An adaptation of JavaScript Promises
@@ -54,7 +56,7 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Lock And Key](https://github.com/AlubJ/Lock-And-Key) - String and file encryption
 
-[GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration)
+[GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) - Verlet integration example used for visuals.
 
 [Cottonwool](https://github.com/JujuAdams/Cottonwool) - Safe surfaces
 
@@ -120,6 +122,10 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Stream](https://github.com/OmegaX1000/StreamUI) - An efficient Framework for Creating UI
 
+[Bento](https://github.com/JujuAdams/bento) - A modern UI framework
+
+[Guido](https://github.com/JujuAdams/Guido) - Simple immediate mode GUI framework
+
 [Emu UI](https://github.com/DragoniteSpam/Emu) - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc)
 
 [Shampoo](https://zackbanack.itch.io/shampoo)💸 - GUIs using a markup-like language
@@ -154,9 +160,9 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 ### 3D 🧊
 
-[dotobj](https://github.com/JujuAdams/dotobj)
+[dotobj](https://github.com/JujuAdams/dotobj) - Lightweight .obj/.mtl 3D model loader written in native GML
 
-[Bronze Box](https://github.com/cicadian/Bronze-Box)
+[Bronze Box](https://github.com/cicadian/Bronze-Box) - Example of how to build 3d world models from a 2d grid
 
 ### Networking 🌐
 
