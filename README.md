@@ -156,13 +156,21 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com"
 
-[Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels)
+[Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels) - Sampled pixels on a Voronoi diagram
+
+[Shader Videos](https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
 
 ### 3D 🧊
 
 [dotobj](https://github.com/JujuAdams/dotobj) - Lightweight .obj/.mtl 3D model loader written in native GML
 
 [Bronze Box](https://github.com/cicadian/Bronze-Box) - Example of how to build 3d world models from a 2d grid
+
+[3D GameMaker Playlist](https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
+
+[3D Collisions Playlist](https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
+
+[3D Optimization Playlist](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
 
 ### Networking 🌐
 
