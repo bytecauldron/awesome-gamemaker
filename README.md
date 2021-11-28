@@ -65,6 +65,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [GMLive](https://yellowafterlife.itch.io/gamemaker-live)💸 - Livecoding / interactive programming
 
+[NotificationSystem](https://github.com/babaganosch/NotificationSystem) - Notifications in GameMaker
+
 ### Debugging 🪲🔨
 
 [rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell
