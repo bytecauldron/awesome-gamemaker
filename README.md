@@ -88,7 +88,7 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration
 
-[Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) - System-level custom cursors
+[Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors)💸 - System-level custom cursors
 
 ### Physics and Collisions ☄️
 
