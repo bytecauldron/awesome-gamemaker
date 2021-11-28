@@ -13,9 +13,7 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 💸 is stuff you can buy. Everything else is free. Most stuff here is MIT but double check before you use these in your commericial projects.
 
-## Libraries
-
-### Utilities 🛠️
+## Utilities 🛠️
 
 [gm-core](https://github.com/gm-core) - Foundational Utilities
 
@@ -65,7 +63,7 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [GMLive](https://yellowafterlife.itch.io/gamemaker-live)💸 - Livecoding / interactive programming
 
-### Debugging 🪲🔨
+## Debugging 🪲🔨
 
 [rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell
 
@@ -81,7 +79,7 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display
 
-### Input Handling 🕹️
+## Input Handling 🕹️
 
 [Input](https://github.com/JujuAdams/input) - No nonsense controller/keyboard library
 
@@ -91,19 +89,19 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors)💸 - System-level custom cursors
 
-### Physics and Collisions ☄️
+## Physics and Collisions ☄️
 
 [Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) - A robust, pixel-perfect collision engine
 
 [On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/)
 
-### Sprites 👾
+## Sprites 👾
 
 [AESnips](https://github.com/angelwire/AESnips) - A sprite playback system
 
 [phgen](https://github.com/squircledev/phgen) - Placeholder asset generation
 
-### Levels 🏔️
+## Levels 🏔️
 
 [LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) - LDtk Importer
 
@@ -113,11 +111,11 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) - Combines user-defined chambers to create a dungeon
 
-### Audio 🎵
+## Audio 🎵
 
 [wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
 
-### UI & Text 📜
+## UI & Text 📜
 
 [Scribble](https://github.com/JujuAdams/scribble) - Efficient multi-effects text renderer
 
@@ -135,7 +133,7 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Shampoo](https://zackbanack.itch.io/shampoo)💸 - GUIs using a markup-like language
 
-### Localization 🔣
+## Localization 🔣
 
 [gm-i18n](https://github.com/CreativeHandOficial/gm-i18n)
 
@@ -145,17 +143,17 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Small Pentapop](https://github.com/AntonBergaker/small_pp_localization_tool)
 
-### Particles ✨
+## Particles ✨
 
 [particles](https://github.com/GamemakerCasts/particles)
 
-### Lighting 💡
+## Lighting 💡
 
 [Bulb](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows
 
 [Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
-### Shaders 🌟
+## Shaders 🌟
 
 [TransFX](https://short-bread.itch.io/transfx) - Transition Library
 
@@ -167,7 +165,7 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Shader Videos](https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
 
-### 3D 🧊
+## 3D 🧊
 
 [dotobj](https://github.com/JujuAdams/dotobj) - Lightweight .obj/.mtl 3D model loader written in native GML
 
@@ -179,7 +177,7 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [3D Optimization Playlist](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
 
-### Networking 🌐
+## Networking 🌐
 
 [GM-Online-Framework](https://github.com/evolutionleo/GM-Online-Framework)
 
@@ -187,7 +185,7 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [HTTP GML](https://github.com/Sidorakh/http.gml)
 
-### Integrations 🔌
+## Integrations 🔌
 
 [DHook](https://github.com/tabularelf/DHook) - Discord integration
 
@@ -195,21 +193,21 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) - Oops, all Discord integration
 
-### Camera 🎥
+## Camera 🎥
 
 [Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/) - Getting started with cameras in GMS2
 
-### Sequences ⏰
+## Sequences ⏰
 
 [Sequences Tutorial](https://www.youtube.com/watch?v=WO6gzhrx5b8) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
 [Making Splash Screen Sequences](https://www.youtube.com/watch?v=hTh5UpFxx1E) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
-### Game Design 🖼️
+## Design 🖼️
 
 [Making Attacks Feel Good](https://www.youtube.com/watch?v=RWkMsD2WUz8) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
-### Others ❔ (need to categorize)
+## Others ❔ (need to categorize)
 
 [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos
 
