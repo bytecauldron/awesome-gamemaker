@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Before submitting new links or making a pull request, please review the following information in order for your links to be included.
+Thank you for showing interest in contributing to this list! Before submitting new links, please review the following in order for your links to be approved/included.
 
 ## New Links
 
