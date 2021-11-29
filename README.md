@@ -7,9 +7,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 Many libraries here will completely replace native tools in the IDE. I highly recommend exploring everything here so you can start making games as quickly as possible!
 
-This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) and from Gleb Tsereteli's [Google Doc](https://docs.google.com/document/d/1wUm8FZPm8AKLZgC-P76TPJAMXs0EN2s5mJGvvUFwycw/edit). I just categorized it and added some additional links/details.
-
-If you need more general game development resources, check out [Awesome Gamedev](https://notabug.org/Calinou/awesome-gamedev).
+This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) and from Gleb Tsereteli's [Google Doc](https://docs.google.com/document/d/1wUm8FZPm8AKLZgC-P76TPJAMXs0EN2s5mJGvvUFwycw/edit). I just categorized it and added some additional links/details. If you need more general game development resources, check out [Awesome Gamedev](https://notabug.org/Calinou/awesome-gamedev).
 
 💸 are premium assets. Everything else is free. Most stuff here is licensed MIT/CC but double check before you use these in your commercial projects.
 
