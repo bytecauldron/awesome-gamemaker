@@ -5,13 +5,13 @@
 # Awesome GameMaker 2 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 An awesome list of great libraries, snippets, guides, and projects for GameMaker Studio 2. 😎
 
-Many libraries here will completely replace native tools in the IDE. If you have used GameMaker long enough, you know why some of these are an "absolute nessesity" for building larger commercial games. I highly recommend exploring everything here so you can start making games as quick as possible!
+Many libraries here will completely replace native tools in the IDE. I highly recommend exploring everything here so you can start making games as quickly as possible!
 
 This is based on a list from [FaultyFunctions](https://github.com/FaultyFunctions/GameMakerLibraries) and from Gleb Tsereteli's [Google Doc](https://docs.google.com/document/d/1wUm8FZPm8AKLZgC-P76TPJAMXs0EN2s5mJGvvUFwycw/edit). I just categorized it and added some additional links/details.
 
 If you need more general game development resources, look up "Awesome Gamedev".
 
-💸 is stuff you can buy. Everything else is free. Most stuff here is MIT/CC but double check before you use these in your commericial projects.
+💸 are premium assets. Everything else is free. Most stuff here is licensed MIT/CC but double check before you use these in your commercial projects.
 
 ## Utilities 🛠️
 
@@ -20,6 +20,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 [FAST](https://github.com/Hyomoto/FAST) - Flexible Assistant Toolkit.
 
 [Stitch](https://github.com/bscotch/stitch#readme) - Pipeline Development Kit.
+
+[Outside the Box](https://rousr.itch.io/outsidethebox) - More system-level utility tools.
 
 [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor.
 
@@ -61,7 +63,7 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) - Verlet integration example used for visuals.
 
-[Cottonwool](https://github.com/JujuAdams/Cottonwool) - Safe surfaces.
+[Cottonwool](https://github.com/JujuAdams/Cottonwool) - Safe surfaces without memory leaks.
 
 [zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) - Simple compression/decompression functions.
 
@@ -103,7 +105,9 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) - A robust, pixel-perfect collision engine.
 
-[On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/)
+[On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45° slopes.
+
+[GMS2 Platforming System](https://benal.itch.io/basic-modern-platforming-system) - Example project by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.
 
 ## Sprites 👾
 
@@ -149,13 +153,17 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Shampoo](https://zackbanack.itch.io/shampoo)💸 - GUIs using a markup-like language.
 
+[ImGuiGML](https://rousr.itch.io/imguigml) - DLL/GML wrapper of Dear ImGui.
+
+[GUI Framework](https://niris.itch.io/gui-framework) - GUI implementation from Niris Games.
+
 ## Localization 🔣
 
-[gm-i18n](https://github.com/CreativeHandOficial/gm-i18n)
-
-[lexicon](https://github.com/tabularelf/lexicon)
+[gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) - Internationalization of texts simply and quickly, using JSON files.
 
 [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2)
+
+[lexicon](https://github.com/tabularelf/lexicon)
 
 [Small Pentapop](https://github.com/AntonBergaker/small_pp_localization_tool)
 
@@ -169,6 +177,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
+[3D Fragment Point Lights](https://danieldavis.itch.io/ddg-point-light-shader-system)💸 - 3D point lights using shaders.
+
 ## Shaders 🌟
 
 [TransFX](https://short-bread.itch.io/transfx) - Transition Library.
@@ -176,6 +186,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 [bktGlitch](https://odditica.itch.io/bktglitch) - Glitch shader.
 
 [H O R R I - F I](https://gizmo199.itch.io/horri-fi) - VHS Shader.
+
+[Depth Sorted Sillouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example)
 
 [GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com".
 
@@ -223,6 +235,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) - Oops, all Discord integration.
 
+[Dissonance](https://rousr.itch.io/dissonance) - Knock knock. Who's there? Discord integration.
+
 ## Camera 🎥
 
 [Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/) - Getting started with cameras in GMS2.
@@ -249,6 +263,8 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [wFSM](https://mors-games.itch.io/wfsm) - State machine.
 
+[True State](https://pixelatedpope.itch.io/truestate)💸 - Robust finite state machine.
+
 [Smile](https://github.com/zbanack/smile) - Sentiment analysis.
 
 [Danmaku Project](https://github.com/OmegaX1000/DanmakuProject) - Bullet hell engine
@@ -263,15 +279,21 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Aquila](https://dragonite.itch.io/aquila) - A* Pathfinding.
 
+[Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) -  Flexible pathfinding system with 3 pathfinding algorithms.
+
 [Cellular Automata](https://alessiogamedev.itch.io/gms-cellular-automata-algorithm) - Generates huge caves in a few hundred milliseconds.
 
 [Trixscript](https://trixelized.itch.io/trixscript) - Juices up your game with useful functions.
 
+[Mouse Trail Effect](https://all-x.itch.io/gms2-mouse-trail-effect)
+
+[Dynamic Splitscreen](https://maddestudios.itch.io/gms2-project-dynamic-splitscreen)
+
 ## Software 💿
 
-[YYP Maker](https://sahaun.itch.io/yyp-maker)
+[YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes yyp files for you.
 
-[ASESync](https://sahaun.itch.io/asesync)
+[ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
 
 ## Snippets 📝
 
@@ -287,7 +309,7 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Advanced Macro Usage](https://nuxiigit.github.io/content/blog/post/gml+syntax+extensions.html)
 
-[GMS2 Tutorials](https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - Shaun Spalding
+[GMS2 Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP) - Shaun Spalding
 
 ## Community 🌎
 
