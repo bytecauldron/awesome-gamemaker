@@ -143,7 +143,7 @@ This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunc
 
 [On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45° slopes.
 
-[GMS2 Platforming System](https://benal.itch.io/basic-modern-platforming-system) - Example project by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.
+[GMS2 Platforming System](https://benal.itch.io/basic-modern-platforming-system) - GMS2 implementation by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.
 
 ## Sprites 👾
 
