@@ -3,7 +3,7 @@
 </p>
 
 # Awesome GameMaker 2 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-An awesome list of great libraries, snippets, guides, and projects for GameMaker Studio 2. 😎
+An awesome list of 100+ great libraries, snippets, guides, and projects for GameMaker Studio 2. 😎
 
 Many libraries here will completely replace native tools in the IDE. I highly recommend exploring everything here so you can start making games as quickly as possible!
 
