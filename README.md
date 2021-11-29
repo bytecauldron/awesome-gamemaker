@@ -53,7 +53,7 @@ This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunc
 
 [SNAP](https://github.com/JujuAdams/SNAP) - Easy data format saving and loading.
 
-[LWO](https://github.com/tabularelf/lwo) - Light weight objects using structs.
+[LWO](https://github.com/tabularelf/lwo) - Lightweight objects using structs.
 
 [Lock And Key](https://github.com/AlubJ/Lock-And-Key) - String and file encryption.
 
