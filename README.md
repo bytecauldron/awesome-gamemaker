@@ -15,13 +15,13 @@ If you need more general game development resources, check out [Awesome Gamedev]
 
 ## Utilities 🛠️
 
-[gm-core](https://github.com/gm-core) - Foundational Utilities.
+[gm-core](https://github.com/gm-core) - Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.
 
-[FAST](https://github.com/Hyomoto/FAST) - Flexible Assistant Toolkit.
+[FAST](https://github.com/Hyomoto/FAST) - Flexible Assistant Toolkit. Similar to gm-core but comes with input and resolution handling.
 
 [Stitch](https://github.com/bscotch/stitch#readme) - Pipeline Development Kit.
 
-[Outside the Box](https://rousr.itch.io/outsidethebox) - More system-level utility tools.
+[Outside the Box](https://rousr.itch.io/outsidethebox) - More system-level utility tools. Includes saving/loading files outside of the GMS2 sandbox, toggling borderless/windowed modes at runtime, and querying detailed memory usage information.
 
 [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor.
 
@@ -68,6 +68,8 @@ If you need more general game development resources, check out [Awesome Gamedev]
 [zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) - Simple compression/decompression functions.
 
 [Window Taskbar](https://yellowafterlife.itch.io/gamemaker-window-taskbar) - Windows only. Flash the game window border and/or its taskbar button.
+
+[Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection) - A suite of various extensions.
 
 [GML+](https://xgasoft.itch.io/gmlp)💸 - a script collection with a goal to "fill the gaps" in GML.
 
@@ -187,6 +189,8 @@ If you need more general game development resources, check out [Awesome Gamedev]
 
 [H O R R I - F I](https://gizmo199.itch.io/horri-fi) - VHS Shader.
 
+[Cyberpunk Hologram Effect](https://gentoogames.itch.io/cyberpunk-hologram-effect)
+
 [Depth Sorted Sillouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example)
 
 [GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com".
@@ -203,13 +207,15 @@ If you need more general game development resources, check out [Awesome Gamedev]
 
 [Bronze Box](https://github.com/cicadian/Bronze-Box) - Example of how to build 3d world models from a 2d grid.
 
+[Camera3D](https://gizmo199.itch.io/camera3d) - Simple 3D camera setup.
+
+[Three Mice In a Trench Coat](https://github.com/XorDev/ThreeMiceInaTrenchcoat) - Source for a GMS 3D game.
+
 [3D GameMaker Playlist ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V) - DragoniteSpam
 
 [3D Collisions Playlist ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC) - DragoniteSpam
 
 [3D Optimization Playlist ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) - DragoniteSpam
-
-[Camera3D](https://gizmo199.itch.io/camera3d) - Simple 3D camera setup.
 
 ## Sprite Stacking
 
@@ -253,33 +259,29 @@ If you need more general game development resources, check out [Awesome Gamedev]
 
 [Making Attacks Feel Good ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RWkMsD2WUz8)
 
+## State Machines
+
+[SnowState](https://github.com/sohomsahaun/SnowState)
+
+[wFSM](https://mors-games.itch.io/wfsm)
+
+[True State](https://pixelatedpope.itch.io/truestate)💸
+
 ## Others ❔ (need to organize)
 
 [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos.
 
 [GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) - Webcam capture.
 
-[SnowState](https://github.com/sohomsahaun/SnowState) - State machine.
-
-[wFSM](https://mors-games.itch.io/wfsm) - State machine.
-
-[True State](https://pixelatedpope.itch.io/truestate)💸 - Robust finite state machine.
-
 [Smile](https://github.com/zbanack/smile) - Sentiment analysis.
 
-[Danmaku Project](https://github.com/OmegaX1000/DanmakuProject) - Bullet hell engine
-
-[Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection) - A suite of various extensions.
-
-[Three Mice In a Trench Coat](https://github.com/XorDev/ThreeMiceInaTrenchcoat) - Source for a GMS 3D game.
-
-[Cyberpunk Hologram Effect](https://gentoogames.itch.io/cyberpunk-hologram-effect)
+[Danmaku Project](https://github.com/OmegaX1000/DanmakuProject) - Bullet hell engine.
 
 [Dynamic Turn System](https://gentoogames.itch.io/turn-based-combat-system-for-gamemaker)
 
 [Aquila](https://dragonite.itch.io/aquila) - A* Pathfinding.
 
-[Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) -  Flexible pathfinding system with 3 pathfinding algorithms.
+[Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 pathfinding algorithms.
 
 [Cellular Automata](https://alessiogamedev.itch.io/gms-cellular-automata-algorithm) - Generates huge caves in a few hundred milliseconds.
 
