@@ -101,36 +101,6 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors)💸 - System-level custom cursors.
 
-## Physics and Collisions ☄️
-
-[Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) - A robust, pixel-perfect collision engine.
-
-[On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45° slopes.
-
-[GMS2 Platforming System](https://benal.itch.io/basic-modern-platforming-system) - Example project by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.
-
-## Sprites 👾
-
-[AESnips](https://github.com/angelwire/AESnips) - A sprite playback system.
-
-[phgen](https://github.com/squircledev/phgen) - Placeholder asset generation.
-
-## Levels 🏔️
-
-[LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) - LDtk Importer.
-
-[LDtkParser](https://github.com/evolutionleo/LDtkParser) - Advanced LDtk Importer.
-
-[Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Get data about a different room.
-
-[Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) - Combines user-defined chambers to create a dungeon.
-
-## Audio 🎵
-
-[Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2)💸 - Optimized delay effect.
-
-[wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
-
 ## UI & Text 📜
 
 [Scribble](https://github.com/JujuAdams/scribble) - Efficient multi-effects text renderer.
@@ -167,6 +137,36 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Small Pentapop](https://github.com/AntonBergaker/small_pp_localization_tool)
 
+## Physics and Collisions ☄️
+
+[Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) - A robust, pixel-perfect collision engine.
+
+[On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45° slopes.
+
+[GMS2 Platforming System](https://benal.itch.io/basic-modern-platforming-system) - Example project by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.
+
+## Sprites 👾
+
+[AESnips](https://github.com/angelwire/AESnips) - A sprite playback system.
+
+[phgen](https://github.com/squircledev/phgen) - Placeholder asset generation.
+
+## Audio 🎵
+
+[Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2)💸 - Optimized delay effect.
+
+[wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
+
+## Levels 🏔️
+
+[LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) - LDtk Importer.
+
+[LDtkParser](https://github.com/evolutionleo/LDtkParser) - Advanced LDtk Importer.
+
+[Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Get data about a different room.
+
+[Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) - Combines user-defined chambers to create a dungeon.
+
 ## Particles ✨
 
 [particles](https://github.com/GamemakerCasts/particles)
@@ -175,7 +175,7 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Bulb](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows.
 
-[Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+[Lighting Systems ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy)
 
 [3D Fragment Point Lights](https://danieldavis.itch.io/ddg-point-light-shader-system)💸 - 3D point lights using shaders.
 
@@ -193,9 +193,9 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels) - Sampled pixels on a Voronoi diagram.
 
-[Shader Tutorials](https://www.youtube.com/watch?v=ch4BYqkL1w8&list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - Gaming Reverends
+[Shader Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=ch4BYqkL1w8&list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P) - Gaming Reverends
 
-[Shader Tutorials](https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
+[Shader Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa) - DragoniteSpam
 
 ## 3D 🧊
 
@@ -203,11 +203,11 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Bronze Box](https://github.com/cicadian/Bronze-Box) - Example of how to build 3d world models from a 2d grid.
 
-[3D GameMaker Playlist](https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
+[3D GameMaker Playlist ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V) - DragoniteSpam
 
-[3D Collisions Playlist](https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
+[3D Collisions Playlist ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC) - DragoniteSpam
 
-[3D Optimization Playlist](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - DragoniteSpam
+[3D Optimization Playlist ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) - DragoniteSpam
 
 [Camera3D](https://gizmo199.itch.io/camera3d) - Simple 3D camera setup.
 
@@ -215,7 +215,7 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 [Fauxton3D](https://gizmo199.itch.io/fauxton3d) - Sprite stacking engine.
 
-[Sprite Stacking Tutorials](https://www.youtube.com/watch?v=VIDN-nG3EOU&list=PL3Kbpztq9qwT9MbW_k4yyJU__or1r8P2j) - Gizmo199
+[Sprite Stacking Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=VIDN-nG3EOU&list=PL3Kbpztq9qwT9MbW_k4yyJU__or1r8P2j) - Gizmo199
 
 ## Networking 🌐
 
@@ -245,13 +245,13 @@ If you need more general game development resources, look up "Awesome Gamedev".
 
 ## Sequences ⏰
 
-[Sequences Tutorial](https://www.youtube.com/watch?v=WO6gzhrx5b8) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+[Sequences Tutorial ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=WO6gzhrx5b8)
 
-[Making Splash Screen Sequences](https://www.youtube.com/watch?v=hTh5UpFxx1E) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+[Making Splash Screen Sequences ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=hTh5UpFxx1E)
 
 ## Design 🖼️
 
-[Making Attacks Feel Good](https://www.youtube.com/watch?v=RWkMsD2WUz8) ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+[Making Attacks Feel Good ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RWkMsD2WUz8)
 
 ## Others ❔ (need to organize)
 
