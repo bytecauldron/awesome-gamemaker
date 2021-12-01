@@ -171,7 +171,7 @@ This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunc
 
 [Particles Wrapper](https://github.com/GamemakerCasts/particles)
 
-[Advanced Particles])(https://limekys.itch.io/advanced-particle-system)
+[Advanced Particles](https://limekys.itch.io/advanced-particle-system)
 
 ## Lighting 💡
 
