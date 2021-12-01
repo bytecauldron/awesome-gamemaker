@@ -11,7 +11,7 @@ This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunc
 
 💸 are premium assets. Everything else is free. Most stuff here is licensed MIT/CC but double check before you use these in your commercial projects.
 
-## Getting Started/General Tips
+## Getting Started
 
 Here are some recommendations on how I use GMS2. You don't have to follow them, but it might save you some time/energy.
 
@@ -19,6 +19,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 - The native sprite editor is not very robust. Try AESprite instead.
 - Don't be afraid to use other developer libraries. A lot of them are free for a reason.
 - Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS2 and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS2 download page.
+
+[GameMaker 2 Manual](https://manual.yoyogames.com/#t=Content.htm)
 
 [GMS2 Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP) - Shaun Spalding
 
