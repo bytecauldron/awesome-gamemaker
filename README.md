@@ -11,6 +11,17 @@ This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunc
 
 💸 are premium assets. Everything else is free. Most stuff here is licensed MIT/CC but double check before you use these in your commercial projects.
 
+## Getting Started/General Tips
+
+Here are some recommendations on how I use GMS2. You don't have to follow them, but it might save you some time/energy.
+
+- Do not use the DND feature. Learn GML instead.
+- The native sprite editor is not very robust. Try AESprite instead.
+- Don't be afraid to use other developer libraries. A lot of them are free for a reason.
+- Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS2 and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS2 download page.
+
+[GMS2 Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP) - Shaun Spalding
+
 ## Utilities 🛠️
 
 [gm-core](https://github.com/gm-core) - Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.
@@ -312,8 +323,6 @@ This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunc
 [2.3 Syntax in Detail](https://yal.cc/gamemaker-2-3-syntax-in-details/)
 
 [Advanced Macro Usage](https://nuxiigit.github.io/content/blog/post/gml+syntax+extensions.html)
-
-[GMS2 Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP) - Shaun Spalding
 
 ## Community 🌎
 
