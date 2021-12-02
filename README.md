@@ -190,7 +190,7 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Bulb](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows.
 
-[Lighting Systems ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy)
+[Lighting Systems ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) - Very fast dynamic 2D lighting implementation from GrizzliusMaximus using shadow casting.
 
 [3D Fragment Point Lights](https://danieldavis.itch.io/ddg-point-light-shader-system)💸 - 3D point lights using shaders.
 
