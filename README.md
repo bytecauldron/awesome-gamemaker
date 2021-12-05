@@ -54,6 +54,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker.
 
+[GML-OOP](https://github.com/Mtax-Development/GML-OOP) - A constructor library for operating the primary functionalities of GameMaker Studio 2.
+
 [Map](https://github.com/GameMakerDiscord/Map.gml) - Hash table implementations.
 
 [Matrices](https://github.com/JujuAdams/matrices) - A collection of matrix handling scripts.
@@ -79,6 +81,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 [zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) - Simple compression/decompression functions.
 
 [Window Taskbar](https://yellowafterlife.itch.io/gamemaker-window-taskbar) - Windows only. Flash the game window border and/or its taskbar button.
+
+[GMSDLL](https://github.com/YAL-GameMaker/GMSDLL) - A template project for building DLLs for GMS.
 
 [Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection) - A suite of various extensions.
 
@@ -110,6 +114,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
 
+[InputCandy](https://github.com/LAGameStudio/InputCandy)
+
 [Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration.
 
 [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors)💸 - System-level custom cursors.
@@ -127,6 +133,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 [Bento](https://github.com/JujuAdams/bento) - A modern UI framework.
 
 [Guido](https://github.com/JujuAdams/Guido) - Simple immediate mode GUI framework.
+
+[GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) - 
 
 [Emu UI](https://github.com/DragoniteSpam/Emu) - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
 
@@ -169,6 +177,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 [Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2)💸 - Optimized delay effect.
 
 [wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
+
+[SoLoud](https://github.com/jarikomppa/soloud) - Portable audio engine that "can" work with GMS with some limitations. See [here.](http://sol.gfxile.net/soloud/gamemaker_api.html)
 
 ## Levels 🏔️
 
@@ -240,7 +250,7 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 ## Networking 🌐
 
-[GM-Online-Framework](https://github.com/evolutionleo/GM-Online-Framework)
+[GM-Online-Framework](https://github.com/evolutionleo/GM-Online-Framework) - A feature-rich framework for multiplayer games, written in GMS2.3 and NodeJS.
 
 [GMHandshake](https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8)
 
@@ -258,9 +268,15 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Dissonance](https://rousr.itch.io/dissonance) - Knock knock. Who's there? Discord integration.
 
+[Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) - Various expansions to Steamworks SDK support in GameMaker: Studio / GMS2.
+
+[GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) - A native extension for GOG.com SDK support.
+
 ## Camera 🎥
 
 [Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/) - Getting started with cameras in GMS2.
+
+[Pixel Perfect Smooth Camera](https://github.com/YAL-GameMaker/pixel-perfect-smooth-camera) - An example of pixel-perfect yet smooth camera.
 
 [Camera All-In-One](https://jasontomlee.itch.io/allinone-camera)💸 - Editor, screenshake, view-resizing, follow modes, screen effects, etc.
 
@@ -325,6 +341,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 [2.3 Syntax in Detail](https://yal.cc/gamemaker-2-3-syntax-in-details/)
 
 [Advanced Macro Usage](https://nuxiigit.github.io/content/blog/post/gml+syntax+extensions.html)
+
+[Dracula](https://github.com/dracula/gamemaker-studio) - Dark theme for the IDE.
 
 ## Community 🌎
 
