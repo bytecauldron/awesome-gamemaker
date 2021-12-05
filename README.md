@@ -126,6 +126,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Chatterbox](https://github.com/JujuAdams/chatterbox) - Narrative scripting tool.
 
+[Textboxy](https://github.com/glitchroy/textboxy) - Simple textboxes.
+
 [NotificationSystem](https://github.com/babaganosch/NotificationSystem) - Notifications in GameMaker.
 
 [Stream](https://github.com/OmegaX1000/StreamUI) - An efficient Framework for Creating UI.
@@ -190,6 +192,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) - Combines user-defined chambers to create a dungeon.
 
+[Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2)
+
 ## Particles ✨
 
 [Particles Wrapper](https://github.com/GamemakerCasts/particles)
@@ -199,6 +203,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 ## Lighting 💡
 
 [Bulb](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows.
+
+[Lighting System 2D](https://github.com/borup3/Lighting-System-2D)
 
 [Lighting Systems ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) - Very fast dynamic 2D lighting implementation from GrizzliusMaximus using shadow casting.
 
@@ -227,6 +233,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 [Shader Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa) - DragoniteSpam
 
 ## 3D 🧊
+
+[BBMOD](https://github.com/blueburn-cz/BBMOD) - 3D Rendering Solution.
 
 [dotobj](https://github.com/JujuAdams/dotobj) - Lightweight .obj/.mtl 3D model loader written in native GML.
 
@@ -257,6 +265,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 [EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build)
 
 [HTTP GML](https://github.com/Sidorakh/http.gml)
+
+[Patchwire-GM](https://github.com/gm-core/patchwire-gm)
 
 ## Integrations 🔌
 
