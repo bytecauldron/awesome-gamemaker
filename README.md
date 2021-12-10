@@ -226,7 +226,15 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com".
 
+[1PassBlur](https://github.com/XorDev/1PassBlur/wiki) - Blur Shader.
+
+[Bokeh Blur](https://github.com/XorDev/Bokeh/wiki) - Blur Shader.
+
+[Dual-Kawase](https://github.com/XorDev/Dual-Kawase/wiki) - Blur Shader.
+
 [Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels) - Sampled pixels on a Voronoi diagram.
+
+[Fire-Fun](https://github.com/XorDev/Fire-Fun/wiki) - Some fun magic fireballs.
 
 [Shader Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=ch4BYqkL1w8&list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P) - Gaming Reverends
 
