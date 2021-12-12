@@ -11,7 +11,7 @@ This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunc
 
 💸 are premium assets. Everything else is free. Most stuff here is licensed MIT/CC/GPL but double check before you use these in your commercial projects.
 
-## Getting Started
+## Getting Started 🔥
 
 Here are some recommendations on how I use GMS2. You don't have to follow them, but it might save you some time/energy.
 
@@ -120,7 +120,7 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors)💸 - System-level custom cursors.
 
-## UI & Text 📜
+## User Interface 📜
 
 [Scribble](https://github.com/JujuAdams/scribble) - Efficient multi-effects text renderer.
 
@@ -150,6 +150,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [GUI Framework](https://niris.itch.io/gui-framework) - GUI implementation from Niris Games.
 
+[Menu Tutorial ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=1ITZOrI2qkA&list=PLSFMekK0JFgx2vmcCnttxxhrNVTjUB8R1) - FriendlyCosmonaut
+
 ## Localization 🔣
 
 [gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) - Internationalization of texts simply and quickly, using JSON files.
@@ -160,7 +162,7 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) - Similar export tool to GMLocalize but exports to a csv.
 
-## Physics and Collisions ☄️
+## Physics ☄️
 
 [Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) - A robust, pixel-perfect collision engine.
 
@@ -204,7 +206,7 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Bulb](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows.
 
-[Lighting System 2D](https://github.com/borup3/Lighting-System-2D)
+[Lighting System 2D](https://github.com/borup3/Lighting-System-2D) - Haven't tested this with the 2.3 syntax changes. Requires 2.2 or higher, according to the repo.
 
 [Lighting Systems ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) - Very fast dynamic 2D lighting implementation from GrizzliusMaximus using shadow casting.
 
@@ -258,7 +260,7 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [3D Optimization Playlist ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) - DragoniteSpam
 
-## Sprite Stacking
+## Sprite Stacking ⏫
 
 [Fauxton3D](https://gizmo199.itch.io/fauxton3d) - Sprite stacking engine.
 
@@ -300,15 +302,15 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 ## Sequences ⏰
 
-[Sequences Tutorial ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=WO6gzhrx5b8)
+[Sequences Tutorial ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=WO6gzhrx5b8) - Shaun Spalding
 
-[Making Splash Screen Sequences ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=hTh5UpFxx1E)
+[Making Splash Screen Sequences ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=hTh5UpFxx1E) - Mash Arcade
 
 ## Design 🖼️
 
-[Making Attacks Feel Good ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RWkMsD2WUz8)
+[Making Attacks Feel Good ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish
 
-## State Machines
+## State Machines 🧠
 
 [SnowState](https://github.com/sohomsahaun/SnowState)
 
@@ -336,9 +338,9 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Trixscript](https://trixelized.itch.io/trixscript) - Juices up your game with useful functions.
 
-[Mouse Trail Effect](https://all-x.itch.io/gms2-mouse-trail-effect)
+[Mouse Trail Effect](https://all-x.itch.io/gms2-mouse-trail-effect) - Shows how to trace a line with primitives to create a colorful trail.
 
-[Dynamic Splitscreen](https://maddestudios.itch.io/gms2-project-dynamic-splitscreen)
+[Dynamic Splitscreen](https://maddestudios.itch.io/gms2-project-dynamic-splitscreen) - Local multiplayer split screen implementation that merges the camera when players are close.
 
 ## Software 💿
 
@@ -348,7 +350,7 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 ## Snippets 📝
 
-[GMLScripts.com](https://www.gmlscripts.com/script/index)
+[GMLScripts.com](https://www.gmlscripts.com/script/index) - Dozens of helper scripts, organized similarly to the official documentation.
 
 ## Useful Extras ⚗️
 
@@ -362,13 +364,14 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Dracula](https://github.com/dracula/gamemaker-studio) - Dark theme for the IDE.
 
+[Source Control with Git & GameMaker ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=UZG-P68xWio&list=PLSFMekK0JFgzmyDxVxj5Cctafu5UX_vUC) - FriendlyCosmonaut
+
 ## Community 🌎
 
 [Community Forums](https://forum.yoyogames.com/index.php)
 
-[Subreddit](https://www.reddit.com/r/gamemaker/)
-
-[Discord](https://discord.gg/gamemaker)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/gamemaker/) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gamemaker)
 
 ## Special Thanks 💖
 
