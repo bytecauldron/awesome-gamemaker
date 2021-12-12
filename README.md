@@ -2,7 +2,7 @@
     <img src="https://styles.redditmedia.com/t5_2qw2g/styles/communityIcon_itciy1qmjp871.png?width=256&s=b9a021ec4e8a588ba97530546668d3ba88136630" />
 </p>
 
-# Awesome GameMaker 2 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome GameMaker 2 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker Studio 2. 😎
 
 Many libraries here will completely replace native tools in the IDE. I highly recommend exploring everything here so you can start making games as quickly as possible!
