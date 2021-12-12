@@ -4,16 +4,20 @@ Thank you for showing interest in contributing to this list! Before submitting n
 
 ## New Links
 
-New suggested links **need to be related to GMS2.3+ in some reasonable way.** This includes compatible libraries, guides, blog posts, YouTube videos, etc.
+New suggested links **need to be related to GMS2.3+ in some reasonable way.** This includes compatible libraries, guides, blog posts, etc.
 I'm trying to avoid GMS1-exclusive content, so please only submit links related to GMS2.3+.
 For extensions or GMS2 projects, please link an official Itch.io or repository (Github/Gitlab/etc).
 For example, I'm trying to avoid project dumps on Google drives that have no version control.
 
 So for each link, include each link with the following format:
 
-`[Awesome Example](https://github.com/bytecauldron/awesome-gamemaker)` - A short description
+`[Awesome Example](https://github.com/bytecauldron/awesome-gamemaker)` - A short description. If it's an alternative library, describe what sets it apart from other solutions.
 
 Additionally, include whether or not it's a paid asset 💸 and if it falls under an existing category.
+
+## YouTube/Other Videos
+
+If it's more than one video related to a topic, please provide the playlist link in the submission and the category it would belong to (if any).
 
 ## Creating Issues
 
