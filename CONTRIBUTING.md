@@ -9,11 +9,11 @@ I'm trying to avoid GMS1-exclusive content, so please only submit links related 
 For extensions or GMS2 projects, please link an official Itch.io or repository (Github/Gitlab/etc).
 For example, I'm trying to avoid project dumps on Google drives that have no version control.
 
-So for each link, include each link with the following format:
+So for each link, include the following format:
 
-`[Awesome Example](https://github.com/bytecauldron/awesome-gamemaker)` - A short description. If it's an alternative library, describe what sets it apart from other solutions.
+`[Awesome Example](https://github.com/bytecauldron/awesome-gamemaker)` - A short description.
 
-Additionally, include whether or not it's a paid asset 💸 and if it falls under an existing category.
+If it's an alternative library, describe what sets it apart from other solutions. Additionally, include whether or not it's a paid asset 💸 and if it falls under an existing category.
 
 ## YouTube/Other Videos
 
