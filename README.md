@@ -136,7 +136,7 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Stream](https://github.com/OmegaX1000/StreamUI) - An efficient Framework for Creating UI.
 
-[Bento](https://github.com/JujuAdams/bento) - A modern UI framework.
+[Bento](https://github.com/JujuAdams/bento) - Not released yet, but keeping an eye on it. It's JuJu, so it's going to be good.
 
 [Guido](https://github.com/JujuAdams/Guido) - Simple immediate mode GUI framework.
 
