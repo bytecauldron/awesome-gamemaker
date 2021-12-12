@@ -154,7 +154,7 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Menu Tutorial ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=1ITZOrI2qkA&list=PLSFMekK0JFgx2vmcCnttxxhrNVTjUB8R1) - FriendlyCosmonaut
 
-[Smart Clickable GUI ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RbBgE3cUShc)
+[Smart Clickable GUI ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RbBgE3cUShc) - PixelatedPope
 
 ## Localization 🔣
 
@@ -316,11 +316,11 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 ## State Machines 🧠
 
-[SnowState](https://github.com/sohomsahaun/SnowState)
+[SnowState](https://github.com/sohomsahaun/SnowState) - Robust finite state machine.
 
-[wFSM](https://mors-games.itch.io/wfsm)
+[wFSM](https://mors-games.itch.io/wfsm) - Another Easy-to-use Finite State Machine library.
 
-[True State](https://pixelatedpope.itch.io/truestate)💸
+[True State](https://pixelatedpope.itch.io/truestate)💸 - Feature-rich finite state machine to handle complex objects.
 
 ## Others ❔ (need to organize)
 
