@@ -114,7 +114,7 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
 
-[InputCandy](https://github.com/LAGameStudio/InputCandy)
+[InputCandy](https://github.com/LAGameStudio/InputCandy) - Similar to Input as it acts as a wrapper for SDL, but also provides testing, on-screen diagnortics, and some other UI components related to peripherals.
 
 [Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration.
 
@@ -136,13 +136,13 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Guido](https://github.com/JujuAdams/Guido) - Simple immediate mode GUI framework.
 
-[GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) - 
+[GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) - A pure GML solution to structure and control your menus, drawing parallels to .NET UI.
 
 [Emu UI](https://github.com/DragoniteSpam/Emu) - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
 
-[Easy And Fast Menu](https://pkgames.itch.io/easy-and-fast-menus-for-gms-23)
+[Easy And Fast Menu](https://pkgames.itch.io/easy-and-fast-menus-for-gms-23) - Simple implementation to have a menu up and running in seconds. Seems like a great fit if you're not looking for a bigger solution like GMUI.
 
-[Pause Menu](https://jasontomlee.itch.io/pause-menu-gamemaker-1-2)
+[Pause Menu](https://jasontomlee.itch.io/pause-menu-gamemaker-1-2) - Another smaller implementation but has a cool animation between menu options.
 
 [Shampoo](https://zackbanack.itch.io/shampoo)💸 - GUIs using a markup-like language.
 
@@ -154,11 +154,11 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) - Internationalization of texts simply and quickly, using JSON files.
 
-[GMLocalize](https://github.com/DragoniteSpam/GMLocalize2)
+[lexicon](https://github.com/tabularelf/lexicon) - Another localization solution focused on simplifying implementation.
 
-[lexicon](https://github.com/tabularelf/lexicon)
+[GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) - Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file.
 
-[Small Pentapop](https://github.com/AntonBergaker/small_pp_localization_tool)
+[Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) - Similar export tool to GMLocalize but exports to a csv.
 
 ## Physics and Collisions ☄️
 
@@ -192,13 +192,13 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) - Combines user-defined chambers to create a dungeon.
 
-[Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2)
+[Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2) - A random level generation example (similar to Nuclear Throne) using GameMaker Studio 2.
 
 ## Particles ✨
 
-[Particles Wrapper](https://github.com/GamemakerCasts/particles)
+[Particles Wrapper](https://github.com/GamemakerCasts/particles) - A simplistic particle system wrapper that is designed to make creating particles fun and easy.
 
-[Advanced Particles](https://limekys.itch.io/advanced-particle-system)
+[Advanced Particles](https://limekys.itch.io/advanced-particle-system) - A particle implementation that comes with it's own delta timing methods.
 
 ## Lighting 💡
 
@@ -220,9 +220,9 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [H O R R I - F I](https://gizmo199.itch.io/horri-fi) - VHS Shader.
 
-[Cyberpunk Hologram Effect](https://gentoogames.itch.io/cyberpunk-hologram-effect)
+[Cyberpunk Hologram Effect](https://gentoogames.itch.io/cyberpunk-hologram-effect) - Create and customize your own holographic effect using this easy-to-implement asset.
 
-[Depth Sorted Sillouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example)
+[Depth Sorted Sillouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example) - Example project to demonstrate shader-based depth sorting sillouettes. Tested on PC, Mac, HTML5, and Android.
 
 [GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com".
 
@@ -268,13 +268,13 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [GM-Online-Framework](https://github.com/evolutionleo/GM-Online-Framework) - A feature-rich framework for multiplayer games, written in GMS2.3 and NodeJS.
 
-[GMHandshake](https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8)
+[EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) - Host/client implementation with a chat feature.
 
-[EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build)
+[Patchwire-GM](https://github.com/gm-core/patchwire-gm) - The network library from gm-core if you want to use this implementation without the entire gm-core suite.
 
-[HTTP GML](https://github.com/Sidorakh/http.gml)
+[GMHandshake](https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8) - A Gist demonstrating a network handshake.
 
-[Patchwire-GM](https://github.com/gm-core/patchwire-gm)
+[HTTP GML](https://github.com/Sidorakh/http.gml) - Recieve GET requests and upload files in GML.
 
 ## Integrations 🔌
 
