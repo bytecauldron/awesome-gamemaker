@@ -11,6 +11,8 @@ This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunc
 
 💸 are premium assets. Everything else is free. Most stuff here is licensed MIT/CC/GPL but double check before you use these in your commercial projects.
 
+Have something awesome to share? Check out the [Contributing Guidelines](https://github.com/bytecauldron/awesome-gamemaker/blob/main/CONTRIBUTING.md).
+
 ## Getting Started 🔥
 
 Here are some recommendations on how I use GMS2. You don't have to follow them, but it might save you some time/energy.
