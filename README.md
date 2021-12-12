@@ -22,6 +22,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [GameMaker 2 Manual](https://manual.yoyogames.com/#t=Content.htm)
 
+[Release Notes](https://gms.yoyogames.com/ReleaseNotes.html)
+
 [GMS2 Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP) - Shaun Spalding
 
 ## Utilities 🛠️
@@ -151,6 +153,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 [GUI Framework](https://niris.itch.io/gui-framework) - GUI implementation from Niris Games.
 
 [Menu Tutorial ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=1ITZOrI2qkA&list=PLSFMekK0JFgx2vmcCnttxxhrNVTjUB8R1) - FriendlyCosmonaut
+
+[Smart Clickable GUI ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RbBgE3cUShc)
 
 ## Localization 🔣
 
@@ -365,6 +369,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 [Dracula](https://github.com/dracula/gamemaker-studio) - Dark theme for the IDE.
 
 [Source Control with Git & GameMaker ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=UZG-P68xWio&list=PLSFMekK0JFgzmyDxVxj5Cctafu5UX_vUC) - FriendlyCosmonaut
+
+[Game Resolution & Aspect Ratio Management ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=_g1LQ6aIJFk&list=PLXkVsacazW2qvdnKNzgBLkUwlgi3FU-VO) - PixelatedPope
 
 ## Community 🌎
 
