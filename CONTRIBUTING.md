@@ -17,7 +17,7 @@ Additionally, include whether or not it's a paid asset 💸 and if it falls unde
 
 ## YouTube/Other Videos
 
-If it's more than one video related to a topic, please provide the playlist link in the submission and the category it would belong to (if any).
+If it's more than one video related to a topic from one creator, please provide their playlist link in the submission and the category it would belong to (if any).
 
 ## Creating Issues
 
