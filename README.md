@@ -334,6 +334,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Danmaku Project](https://github.com/OmegaX1000/DanmakuProject) - Bullet hell engine.
 
+[OrbinautFramework](https://github.com/TrianglyRU/OrbinautFramework) - Accurate framework to make classic Sonic games.
+
 [Dynamic Turn System](https://gentoogames.itch.io/turn-based-combat-system-for-gamemaker)
 
 [Aquila](https://dragonite.itch.io/aquila) - A* Pathfinding.
