@@ -176,6 +176,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [GMS2 Platforming System](https://benal.itch.io/basic-modern-platforming-system) - GMS2 implementation by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.
 
+[Inverse Kinematics Extension](https://github.com/tonystr/Inverse-Kinematics-Extension-for-Gamemaker) - A library for working with inverse kinematics.
+
 ## Sprites 👾
 
 [AESnips](https://github.com/angelwire/AESnips) - A sprite playback system.
