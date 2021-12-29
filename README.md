@@ -92,6 +92,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [GMLodash](https://github.com/DatZach/GMLodash) - Functional programming in GML.
 
+[GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) - A script that adds OOP functionality to GMS2.
+
 [GML+](https://xgasoft.itch.io/gmlp)💸 - a script collection with a goal to "fill the gaps" in GML.
 
 [GMLive](https://yellowafterlife.itch.io/gamemaker-live)💸 - Livecoding / interactive programming.
