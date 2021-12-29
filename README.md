@@ -90,6 +90,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection) - A suite of various extensions.
 
+[GMLodash](https://github.com/DatZach/GMLodash) - Functional programming in GML.
+
 [GML+](https://xgasoft.itch.io/gmlp)💸 - a script collection with a goal to "fill the gaps" in GML.
 
 [GMLive](https://yellowafterlife.itch.io/gamemaker-live)💸 - Livecoding / interactive programming.
@@ -379,6 +381,8 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 [Source Control with Git & GameMaker ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=UZG-P68xWio&list=PLSFMekK0JFgzmyDxVxj5Cctafu5UX_vUC) - FriendlyCosmonaut
 
 [Game Resolution & Aspect Ratio Management ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=_g1LQ6aIJFk&list=PLXkVsacazW2qvdnKNzgBLkUwlgi3FU-VO) - PixelatedPope
+
+[GameMaker Garbage Collection](https://gist.github.com/DatZach/96a30d6ae4225f8ec152719e57aed26b) - How garbage collection works in GML.
 
 ## Community 🌎
 
