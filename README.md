@@ -124,7 +124,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
 
-[InputCandy](https://github.com/LAGameStudio/InputCandy) - Similar to Input as it acts as a wrapper for SDL, but also provides testing, on-screen diagnortics, and some other UI components related to peripherals.
+[InputCandy](https://github.com/LAGameStudio/InputCandy) - Similar to Input as it acts as a wrapper for SDL, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals.
 
 [Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration.
 
