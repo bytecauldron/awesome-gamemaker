@@ -58,7 +58,9 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 
 [Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker.
 
-[GML-OOP](https://github.com/Mtax-Development/GML-OOP) - A constructor library for operating the primary functionalities of GameMaker Studio 2.
+[GML-OOP](https://github.com/Mtax-Development/GML-OOP) - A constructor library for operating the primary functionalities of GMS2.
+
+[GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) - Another project that adds OOP functionality to GMS2.
 
 [Map](https://github.com/GameMakerDiscord/Map.gml) - Hash table implementations.
 
@@ -91,8 +93,6 @@ Here are some recommendations on how I use GMS2. You don't have to follow them, 
 [Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection) - A suite of various extensions.
 
 [GMLodash](https://github.com/DatZach/GMLodash) - Functional programming in GML.
-
-[GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) - A script that adds OOP functionality to GMS2.
 
 [GML+](https://xgasoft.itch.io/gmlp)💸 - a script collection with a goal to "fill the gaps" in GML.
 
