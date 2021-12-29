@@ -36,7 +36,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [FAST](https://github.com/Hyomoto/FAST) - Flexible Assistant Toolkit. Similar to gm-core but comes with input and resolution handling.
 
-[Stitch](https://github.com/bscotch/stitch#readme) - Pipeline Development Kit.
+[Stitch](https://github.com/bscotch/stitch#readme) - Pipeline Development Kit. Includes cross-project imports, batch-creating/updating sprites and sounds, texture page management, and more.
 
 [Outside the Box](https://rousr.itch.io/outsidethebox) - More system-level utility tools. Includes saving/loading files outside of the GMS2 sandbox, toggling borderless/windowed modes at runtime, and querying detailed memory usage information.
 
