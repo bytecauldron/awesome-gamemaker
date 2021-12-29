@@ -15,7 +15,7 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 ## Getting Started 🔥
 
-Here are some recommendations on how I use GMS2. You don't have to follow them, but it might save you some time/energy.
+Here are some recommendations when using GMS2. You don't have to follow them but it might save you some time/energy.
 
 - Do not use the DND feature. Learn GML instead.
 - The native sprite editor is not very robust. Try AESprite instead.
