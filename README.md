@@ -54,6 +54,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Timer](https://github.com/nommiin/Timers) - Timer methods based on setTimeout and setInterval from JS.
 
+[Broadcast](https://github.com/JulianDicken/Broadcast) - Event Handling Library
+
 [EventGML](https://github.com/Soves/EventGML) - Lightweight and fast Node.js style Events Library.
 
 [Polarca](https://github.com/VitorEstevam/polarca) - Interpolation functions.
