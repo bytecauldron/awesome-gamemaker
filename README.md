@@ -110,15 +110,15 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Crispy](https://github.com/bfrymire/crispy) - Unit testing in GameMaker.
 
-[gms2-test](https://github.com/pmarincak/gms2-test) - Another unit testing framework.
-
 [Snitch](https://github.com/JujuAdams/Snitch) - Crash and logging system.
+
+[DeerLog](https://mulfok.itch.io/gamemaker-deerlog) - Small log writer.
+
+[gms2-test](https://github.com/pmarincak/gms2-test) - Another unit testing framework.
 
 [Meta](https://github.com/nommiin/meta) - Runtime asset inspector.
 
 [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
-
-[DeerLog](https://mulfok.itch.io/gamemaker-deerlog) - Small log writer.
 
 ## Input Handling 🕹️
 
