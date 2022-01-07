@@ -284,7 +284,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 ## Networking 🌐
 
-[GM-Online-Framework](https://github.com/evolutionleo/GM-Online-Framework) - A feature-rich framework for multiplayer games, written in GMS2.3 and NodeJS.
+[Warp](https://github.com/evolutionleo/Warp) - A feature-rich framework for multiplayer games, written in GMS2.3 and NodeJS.
 
 [EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) - Host/client implementation with a chat feature.
 
