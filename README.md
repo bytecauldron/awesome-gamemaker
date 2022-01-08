@@ -17,7 +17,7 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 Here are some recommendations when using GMS2. You don't have to follow them but it might save you some time/energy.
 
-- Do not use the DND feature. Learn GML instead.
+- Recommended to avoid the DND (Drag and Drop) feature. Learn GML instead.
 - The native sprite editor is not very robust. Try AESprite instead.
 - Don't be afraid to use other developer libraries. A lot of them are free for a reason.
 - Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS2 and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS2 download page.
