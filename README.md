@@ -194,6 +194,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 ## Audio 🎵
 
+[FMODGMS](https://github.com/mstop4/FMODGMS) - Supposedly this doesn't support everything FMOD has to offer and the project itself has been put on-hold. However, audio extensions are slim pickings for GMS2, so it's definitely worth keeping tabs on it.
+
 [Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2)💸 - Optimized delay effect.
 
 [wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
@@ -359,6 +361,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 [Mouse Trail Effect](https://all-x.itch.io/gms2-mouse-trail-effect) - Shows how to trace a line with primitives to create a colorful trail.
 
 [Dynamic Splitscreen](https://maddestudios.itch.io/gms2-project-dynamic-splitscreen) - Local multiplayer split screen implementation that merges the camera when players are close.
+
+[Wave Function Collapse](https://quadolorgames.itch.io/wfc-gml-demo) - Generates a random tile map.
 
 ## Software 💿
 
