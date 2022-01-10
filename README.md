@@ -21,6 +21,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 - The native sprite editor is not very robust. Try AESprite instead.
 - Don't be afraid to use other developer libraries. A lot of them are free for a reason.
 - Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS2 and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS2 download page.
+- Unless your game requires complex physics interactions, it's generally advised to avoid GMS2's built-in physics system.
 
 [GameMaker 2 Manual](https://manual.yoyogames.com/#t=Content.htm)
 
@@ -284,6 +285,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 ## Sprite Stacking ⏫
 
+[Beginners Guide to Sprite Stacking](https://medium.com/@avsnoopy/beginners-guide-to-sprite-stacking-in-gamemaker-studio-2-and-magica-voxel-part-1-f7a1394569c0) - A primer on sprite stacking from Avis. Check out part 2 from dev_dwarf as well.
+
 [Fauxton3D](https://gizmo199.itch.io/fauxton3d) - Sprite stacking engine.
 
 [Sprite Stacking Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=VIDN-nG3EOU&list=PL3Kbpztq9qwT9MbW_k4yyJU__or1r8P2j) - Gizmo199
@@ -315,6 +318,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 [GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) - A native extension for GOG.com SDK support.
 
 ## Camera 🎥
+
+[GMS2 Cameras: As Simple as Possible](https://www.youtube.com/watch?v=_g1LQ6aIJFk) - Pope's guide on GMS2's camera system.
 
 [Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/) - Getting started with cameras in GMS2.
 
