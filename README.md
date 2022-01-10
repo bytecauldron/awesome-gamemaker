@@ -87,6 +87,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Mathematical Scripts](https://adam-rumpf.itch.io/gamemaker-studio-2-mathematical-scripts) - A collection of math scripts.
 
+[Motion Scripts](https://avis.itch.io/motion-scripts) - Provides replacement methods for built-in motion variables.
+
 [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) - Verlet integration example used for visuals.
 
 [Cottonwool](https://github.com/JujuAdams/Cottonwool) - Safe surfaces without memory leaks.
