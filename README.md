@@ -364,6 +364,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Wave Function Collapse](https://quadolorgames.itch.io/wfc-gml-demo) - Generates a random tile map.
 
+[Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles)💸 - Robust object-based Collision System
+
 ## Software 💿
 
 [YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes yyp files for you.
