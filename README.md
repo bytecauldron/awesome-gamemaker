@@ -60,6 +60,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Polarca](https://github.com/VitorEstevam/polarca) - Interpolation functions.
 
+[Twerp](https://pixelatedpope.itch.io/twerp) - Easing function similar to lerp().
+
 [Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker.
 
 [GML-OOP](https://github.com/Mtax-Development/GML-OOP) - A constructor library for operating the primary functionalities of GMS2.
@@ -135,6 +137,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 ## User Interface 📜
 
 [Scribble](https://github.com/JujuAdams/scribble) - Efficient multi-effects text renderer.
+
+[Scripture](https://pixelatedpope.itch.io/scripture)💸 - Another easy to use, highly compatible text renderer.
 
 [Chatterbox](https://github.com/JujuAdams/chatterbox) - Narrative scripting tool.
 
