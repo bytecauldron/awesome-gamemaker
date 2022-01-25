@@ -79,7 +79,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Destructors](https://github.com/DatZach/Destructors) - Allows you to use ds_* types such as lists and maps inside of structs.
 
-[SNAP](https://github.com/JujuAdams/SNAP) - Easy data format saving and loading.
+[SNAP](https://github.com/JujuAdams/SNAP) - Easy data format saving and loading. Please note that newer versions of GML contain json_parse and json_stringify. However, if you are converting csv, ini, xml, etc, you may find this very useful.
 
 [LWO](https://github.com/tabularelf/lwo) - Lightweight objects using structs.
 
