@@ -387,7 +387,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
 
-## Snippets 📝
+## Websites 📝
 
 [GMLScripts.com](https://www.gmlscripts.com/script/index) - Dozens of helper scripts, organized similarly to the official documentation.
 
@@ -398,6 +398,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 [GitHub Yacc to GML Fix](https://www.reddit.com/r/gamemaker/comments/n5m35l/a_simple_fix_for_github_incorrectly_detecting/)
 
 [Tony Str's Articles](https://tonystr.net/articles)
+
+[RefresherTowel's Tutorials](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
 
 [2.3 Syntax in Detail](https://yal.cc/gamemaker-2-3-syntax-in-details/)
 
@@ -413,7 +415,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 ## Community 🌎
 
-[Community Forums](https://forum.yoyogames.com/index.php)
+[GameMaker Forums](https://forum.yoyogames.com/index.php)
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/gamemaker/) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gamemaker)
