@@ -387,23 +387,23 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
 
-## Websites 📝
+## Blogs 📝
+
+[RefresherTowel](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
+
+[Tony Str](https://tonystr.net/articles)
+
+[Katsaii](https://nuxiigit.github.io/content/blog/posts.html)
+
+## Useful Extras ⚗️
 
 [GMLScripts.com](https://www.gmlscripts.com/script/index) - Dozens of helper scripts, organized similarly to the official documentation.
 
 [Voxeledphoton's FreeGMScripts](https://github.com/vphoton/FreeGMScripts) - Some might be out of date with 2.3+ syntax.
 
-## Useful Extras ⚗️
-
 [GitHub Yacc to GML Fix](https://www.reddit.com/r/gamemaker/comments/n5m35l/a_simple_fix_for_github_incorrectly_detecting/)
 
-[Tony Str's Articles](https://tonystr.net/articles)
-
-[RefresherTowel's Tutorials](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
-
-[2.3 Syntax in Detail](https://yal.cc/gamemaker-2-3-syntax-in-details/)
-
-[Advanced Macro Usage](https://nuxiigit.github.io/content/blog/post/gml+syntax+extensions.html)
+[2.3 Syntax in Detail](https://yal.cc/gamemaker-2-3-syntax-in-details/) - A full guide of the latest syntax features/changes in GML from Yal.
 
 [Dracula](https://github.com/dracula/gamemaker-studio) - Dark theme for the IDE.
 
