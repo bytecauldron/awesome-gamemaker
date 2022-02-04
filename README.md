@@ -413,6 +413,10 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [GameMaker Garbage Collection](https://gist.github.com/DatZach/96a30d6ae4225f8ec152719e57aed26b) - How garbage collection works in GML.
 
+[GM48 Resources](https://gm48.net/resources) - Free resources from the community to become better at GameMaker Studio, game development and game jams.
+
+[GameMakerHow](https://gamemakerhow.com/) - Another great site that acts as a GameMaker Q&A repository for various questions you might ask in GMS2.
+
 ## Community 🌎
 
 [GameMaker Forums](https://forum.yoyogames.com/index.php)
