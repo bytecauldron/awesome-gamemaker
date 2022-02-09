@@ -221,6 +221,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2) - A random level generation example (similar to Nuclear Throne) using GameMaker Studio 2.
 
+[Destructible Terrain](https://github.com/niksudan/gms2-destructible-terrain) - An example of collidable, destructible terrain in GameMaker Studio 2 using surfaces and grids.
+
 ## Particles ✨
 
 [Particles Wrapper](https://github.com/GamemakerCasts/particles) - A simplistic particle system wrapper that is designed to make creating particles fun and easy.
@@ -232,6 +234,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 [Bulb](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows.
 
 [Lighting System 2D](https://github.com/borup3/Lighting-System-2D) - Haven't tested this with the 2.3 syntax changes. Requires 2.2 or higher, according to the repo.
+
+[GameMaker Lighting Engine](https://github.com/bilouw/Gamemaker-Lighting-Engine) - Tile-based Lighting Engine that projects shadows.
 
 [Lighting Systems ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) - Very fast dynamic 2D lighting implementation from GrizzliusMaximus using shadow casting.
 
@@ -380,6 +384,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 [Wave Function Collapse](https://quadolorgames.itch.io/wfc-gml-demo) - Generates a random tile map.
 
 [Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles)💸 - Robust object-based Collision System
+
+[Starfield Generator](https://github.com/PixelProphecy/gml_starfield_generator) - A script to generate starfields in GameMaker's GML language.
 
 ## Software 💿
 
