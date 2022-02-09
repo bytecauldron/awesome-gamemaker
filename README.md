@@ -147,6 +147,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Textboxy](https://github.com/glitchroy/textboxy) - Simple textboxes.
 
+[Crochet](https://github.com/FaultyFunctions/Crochet) - An interactive dialogue editor for writers and programmers.
+
 [NotificationSystem](https://github.com/babaganosch/NotificationSystem) - Notifications in GameMaker.
 
 [Stream](https://github.com/OmegaX1000/StreamUI) - An efficient Framework for Creating UI.
