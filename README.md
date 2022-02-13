@@ -315,6 +315,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [HTTP GML](https://github.com/Sidorakh/http.gml) - Recieve GET requests and upload files in GML.
 
+[Multiplayer Networking Tutorial ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626) - Wizirdi
+
 ## Integrations 🔌
 
 [DHook](https://github.com/tabularelf/DHook) - Discord integration.
