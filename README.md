@@ -103,6 +103,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [GMLodash](https://github.com/DatZach/GMLodash) - Functional programming in GML.
 
+[Wraptor](https://github.com/Gizmo199/Wraptor) - A library of wrapper functions.
+
 [GML+](https://xgasoft.itch.io/gmlp)💸 - a script collection with a goal to "fill the gaps" in GML.
 
 [GMLive](https://yellowafterlife.itch.io/gamemaker-live)💸 - Livecoding / interactive programming.
