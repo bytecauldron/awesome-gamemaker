@@ -47,8 +47,6 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Stopwatch](https://github.com/Lojemiru/Stopwatch) - Replacement for GameMaker Studio 2.3 alarms.
 
-[DoLater](https://github.com/JujuAdams/DoLater) - Deferred code execution.
-
 [fuwafuwa](https://github.com/kemonologic/fuwafuwa) - Easy-to-use timer system.
 
 [wTimer](https://mors-games.itch.io/wtimer) - Robust alternative for alarms.
