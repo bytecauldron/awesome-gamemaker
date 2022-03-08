@@ -398,7 +398,9 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 [Starfield Generator](https://github.com/PixelProphecy/gml_starfield_generator) - A script to generate starfields in GameMaker's GML language.
 
 [Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) - Jump Flooding Algorithm for GMS2 made with shaders.
-`
+
+[Pinocchio](https://github.com/JujuAdams/Pinocchio) - State-based animation system
+
 ## Software 💿
 
 [YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes yyp files for you.
