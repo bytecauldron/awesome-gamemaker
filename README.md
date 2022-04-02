@@ -87,7 +87,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Seedpod](https://github.com/daikon-games/gm-seedpod) - A collection of scripts to improve the GML programming experience.
 
-[ForEach](https://github.com/KeeVeeGames/foreach.gml) - Adds a foreach imeplemntation for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.
+[ForEach](https://github.com/KeeVeeGames/foreach.gml) - Adds a foreach implementation for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.
 
 [Motion Scripts](https://avis.itch.io/motion-scripts) - Provides replacement methods for built-in motion variables.
 
