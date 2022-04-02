@@ -18,8 +18,8 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 Here are some recommendations when using GMS2. You don't have to follow them but it might save you some time/energy.
 
 - Recommended to avoid the DND (Drag and Drop) feature. Learn GML instead.
-- The native sprite editor is not very robust. Try AESprite instead.
-- Don't be afraid to use other developer libraries. A lot of them are free for a reason.
+- The native sprite editor is not very robust. Try AESprite.
+- Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 - Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS2 and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS2 download page.
 - Unless your game requires complex physics interactions, it's generally advised to avoid GMS2's built-in physics system.
 
@@ -84,6 +84,10 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 [Lock And Key](https://github.com/AlubJ/Lock-And-Key) - String and file encryption.
 
 [Mathematical Scripts](https://adam-rumpf.itch.io/gamemaker-studio-2-mathematical-scripts) - A collection of math scripts.
+
+[Seedpod](https://github.com/daikon-games/gm-seedpod) - A collection of scripts to improve the GML programming experience.
+
+[ForEach](https://github.com/KeeVeeGames/foreach.gml) - Adds a foreach imeplemntation for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.
 
 [Motion Scripts](https://avis.itch.io/motion-scripts) - Provides replacement methods for built-in motion variables.
 
@@ -403,6 +407,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 ## Software 💿
 
+[GMEdit](https://github.com/YellowAfterlife/GMEdit) - Code editor to use in conjunction with GMS1 and 2.
+
 [YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes yyp files for you.
 
 [ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
@@ -446,4 +452,4 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 ## Special Thanks 💖
 
-JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, PixelatedPope, Tony Strømsnæs, HeartBeast, Xor, Gaming Reverends, Matharoo, YellowAfterlife, Gizmo199, Avis, Josh Wilson
+JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick Ver Voort, PixelatedPope, Tony Strømsnæs, HeartBeast, Xor, Gaming Reverends, Matharoo, YellowAfterlife, Gizmo199, Avis, Josh Wilson
