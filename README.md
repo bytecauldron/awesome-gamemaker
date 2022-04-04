@@ -103,6 +103,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [GMLodash](https://github.com/DatZach/GMLodash) - Functional programming in GML.
 
+[GML-Prelude](https://github.com/NuxiiGit/gml-prelude) - Another functional programming library for GML.
+
 [Wraptor](https://github.com/Gizmo199/Wraptor) - A library of wrapper functions.
 
 [GML+](https://xgasoft.itch.io/gmlp)💸 - a script collection with a goal to "fill the gaps" in GML.
@@ -207,6 +209,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [phgen](https://github.com/squircledev/phgen) - Placeholder asset generation.
 
+[Disarm](https://github.com/NuxiiGit/disarm) - A spriter skeletal animation at runtime.
+
 ## Audio 🎵
 
 [FMODGMS](https://github.com/mstop4/FMODGMS) - Supposedly this doesn't support everything FMOD has to offer and the project itself has been put on-hold. However, audio extensions are slim pickings for GMS2, so it's definitely worth keeping tabs on it.
@@ -216,6 +220,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 [wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
 
 [SoLoud](https://github.com/jarikomppa/soloud) - Portable audio engine that "can" work with GMS with some limitations. See [here.](http://sol.gfxile.net/soloud/gamemaker_api.html)
+
+[ExternalAudio](https://github.com/NuxiiGit/ExternalAudio) - Load external .wav files at runtime.
 
 ## Levels 🏔️
 
