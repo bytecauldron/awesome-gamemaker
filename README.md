@@ -87,6 +87,10 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Seedpod](https://github.com/daikon-games/gm-seedpod) - A collection of scripts to improve the GML programming experience.
 
+[Trixscript](https://trixelized.itch.io/trixscript) - Juices up your game with useful functions.
+
+[Voxeledphoton's FreeGMScripts](https://github.com/vphoton/FreeGMScripts) - Some might be out of date with 2.3+ syntax.
+
 [ForEach](https://github.com/KeeVeeGames/foreach.gml) - Adds a foreach implementation for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.
 
 [Motion Scripts](https://avis.itch.io/motion-scripts) - Provides replacement methods for built-in motion variables.
@@ -179,6 +183,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Smart Clickable GUI ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RbBgE3cUShc) - PixelatedPope
 
+[RTS Selection Tool](https://gentoogames.itch.io/rts-selection-tool) - Mouse dragging feature to select pawns in an real-time strategy game.
+
 ## Localization 🔣
 
 [gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) - Internationalization of texts simply and quickly, using JSON files.
@@ -202,6 +208,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 [Verlet Integration Library](https://jamjamteam.itch.io/verlet-integration-gamemake-studio-2) - Verlet integration by Sarek Lambert.
 
 [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) - Verlet integration example used for visuals.
+
+[Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles)💸 - Robust object-based collision system from the pope.
 
 ## Sprites 👾
 
@@ -235,7 +243,13 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2) - A random level generation example (similar to Nuclear Throne) using GameMaker Studio 2.
 
+[Wave Function Collapse](https://quadolorgames.itch.io/wfc-gml-demo) - Generates a random tile map but not production ready in its current state.
+
+[Draw A Dungeon](https://gentoogames.itch.io/draw-a-dungeon-gamemaker) - Converts your room layouts into a randomized dungeon.
+
 [Destructible Terrain](https://github.com/niksudan/gms2-destructible-terrain) - An example of collidable, destructible terrain in GameMaker Studio 2 using surfaces and grids.
+
+[Cellular Automata Caves](https://alessiogamedev.itch.io/gms-cellular-automata-algorithm) - Generates huge caves in a few hundred milliseconds.
 
 ## Particles ✨
 
@@ -271,15 +285,17 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com".
 
-[1PassBlur](https://github.com/XorDev/1PassBlur/wiki) - Blur Shader.
+[1PassBlur](https://github.com/XorDev/1PassBlur/wiki) - Blur Shader with adjustable radius.
 
-[Bokeh Blur](https://github.com/XorDev/Bokeh/wiki) - Blur Shader.
+[Bokeh Blur](https://github.com/XorDev/Bokeh/wiki) - Extension of the 1PassBlur which provides a different look. Similar to a real lens blur. Although it's much slower than 1Pass or Dual-Kawase.
 
-[Dual-Kawase](https://github.com/XorDev/Dual-Kawase/wiki) - Blur Shader.
+[Dual-Kawase](https://github.com/XorDev/Dual-Kawase/wiki) - Blur Shader that limits radius but is very efficient.
 
 [Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels) - Sampled pixels on a Voronoi diagram.
 
 [Fire-Fun](https://github.com/XorDev/Fire-Fun/wiki) - Some fun magic fireballs.
+
+[Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) - Jump Flooding Algorithm for GMS2 made with shaders.
 
 [Shader Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=ch4BYqkL1w8&list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P) - Gaming Reverends
 
@@ -355,6 +371,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Pixel Perfect Smooth Camera](https://github.com/YAL-GameMaker/pixel-perfect-smooth-camera) - An example of pixel-perfect yet smooth camera.
 
+[Dynamic Splitscreen](https://maddestudios.itch.io/gms2-project-dynamic-splitscreen) - Local multiplayer split screen implementation that merges the camera when players are close.
+
 [Camera All-In-One](https://jasontomlee.itch.io/allinone-camera)💸 - Editor, screenshake, view-resizing, follow modes, screen effects, etc.
 
 ## Sequences ⏰
@@ -363,10 +381,6 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Making Splash Screen Sequences ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=hTh5UpFxx1E) - Mash Arcade
 
-## Design 🖼️
-
-[Making Attacks Feel Good ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish
-
 ## State Machines 🧠
 
 [SnowState](https://github.com/sohomsahaun/SnowState) - Robust finite state machine.
@@ -374,6 +388,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 [wFSM](https://mors-games.itch.io/wfsm) - Another Easy-to-use Finite State Machine library.
 
 [True State](https://pixelatedpope.itch.io/truestate)💸 - Feature-rich finite state machine to handle complex objects.
+
+[Pinocchio](https://github.com/JujuAdams/Pinocchio) - State-based animation system
 
 ## Others ❔ (need to organize)
 
@@ -387,29 +403,17 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [OrbinautFramework](https://github.com/TrianglyRU/OrbinautFramework) - Accurate framework to make classic Sonic games.
 
-[Dynamic Turn System](https://gentoogames.itch.io/turn-based-combat-system-for-gamemaker)
+[Dynamic Turn System](https://gentoogames.itch.io/turn-based-combat-system-for-gamemaker) - Great to use as a base for building turn based combat/gameplay.
 
-[Aquila](https://dragonite.itch.io/aquila) - A* Pathfinding.
+[Isometric Tactical RPG Framework](https://gentoogames.itch.io/isometric-tactical-rpg-framework) - Provides starter assets to create an isometric board game. Dynamic Turn System is included.
 
-[Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 pathfinding algorithms.
+[Aquila](https://dragonite.itch.io/aquila) - A* Pathfinding implementation.
 
-[Cellular Automata](https://alessiogamedev.itch.io/gms-cellular-automata-algorithm) - Generates huge caves in a few hundred milliseconds.
-
-[Trixscript](https://trixelized.itch.io/trixscript) - Juices up your game with useful functions.
+[Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 different algorithms.
 
 [Mouse Trail Effect](https://all-x.itch.io/gms2-mouse-trail-effect) - Shows how to trace a line with primitives to create a colorful trail.
 
-[Dynamic Splitscreen](https://maddestudios.itch.io/gms2-project-dynamic-splitscreen) - Local multiplayer split screen implementation that merges the camera when players are close.
-
-[Wave Function Collapse](https://quadolorgames.itch.io/wfc-gml-demo) - Generates a random tile map.
-
-[Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles)💸 - Robust object-based Collision System
-
 [Starfield Generator](https://github.com/PixelProphecy/gml_starfield_generator) - A script to generate starfields in GameMaker's GML language.
-
-[Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) - Jump Flooding Algorithm for GMS2 made with shaders.
-
-[Pinocchio](https://github.com/JujuAdams/Pinocchio) - State-based animation system
 
 ## Software 💿
 
@@ -423,31 +427,33 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [RefresherTowel](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
 
-[Tony Str](https://tonystr.net/articles)
+[Tony Str](https://tonystr.net/articles) - Some great articles on working with json, regular expressions, and drawing circles in gml.
 
-[Katsaii](https://nuxiigit.github.io/content/blog/posts.html)
+[Katsaii](https://nuxiigit.github.io/content/blog/posts.html) - Some articles on more advanced gml topics.
 
 ## Useful Extras ⚗️
 
 [GMLScripts.com](https://www.gmlscripts.com/script/index) - Dozens of helper scripts, organized similarly to the official documentation.
 
-[Voxeledphoton's FreeGMScripts](https://github.com/vphoton/FreeGMScripts) - Some might be out of date with 2.3+ syntax.
+[GM48 Resources](https://gm48.net/resources) - Free resources from the community to become better at GameMaker Studio, game development and game jams.
+
+[GameMakerHow](https://gamemakerhow.com/) - Another great site that acts as a GameMaker Q&A repository for various questions you might ask in GMS2.
+
+[obj_podcast](https://objpodcast.com/) - Gamedev-centered podcast featuring members of the GameMaker community.
+
+[Dracula](https://github.com/dracula/gamemaker-studio) - Dark theme for the IDE.
 
 [GitHub Yacc to GML Fix](https://www.reddit.com/r/gamemaker/comments/n5m35l/a_simple_fix_for_github_incorrectly_detecting/)
 
 [2.3 Syntax in Detail](https://yal.cc/gamemaker-2-3-syntax-in-details/) - A full guide of the latest syntax features/changes in GML from Yal.
 
-[Dracula](https://github.com/dracula/gamemaker-studio) - Dark theme for the IDE.
+[GameMaker Garbage Collection](https://gist.github.com/DatZach/96a30d6ae4225f8ec152719e57aed26b) - How garbage collection works in GML.
 
 [Source Control with Git & GameMaker ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=UZG-P68xWio&list=PLSFMekK0JFgzmyDxVxj5Cctafu5UX_vUC) - FriendlyCosmonaut
 
 [Game Resolution & Aspect Ratio Management ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=_g1LQ6aIJFk&list=PLXkVsacazW2qvdnKNzgBLkUwlgi3FU-VO) - PixelatedPope
 
-[GameMaker Garbage Collection](https://gist.github.com/DatZach/96a30d6ae4225f8ec152719e57aed26b) - How garbage collection works in GML.
-
-[GM48 Resources](https://gm48.net/resources) - Free resources from the community to become better at GameMaker Studio, game development and game jams.
-
-[GameMakerHow](https://gamemakerhow.com/) - Another great site that acts as a GameMaker Q&A repository for various questions you might ask in GMS2.
+[Making Attacks Feel Good ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish
 
 ## Community 🌎
 
