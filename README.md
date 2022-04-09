@@ -79,6 +79,8 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [SNAP](https://github.com/JujuAdams/SNAP) - Easy data format saving and loading. Please note that newer versions of GML contains `json_parse` and `json_stringify`. However, if you are converting csv, ini, xml, etc, you may find this very useful.
 
+[Dynamo](https://github.com/JujuAdams/Dynamo) - Dynamic data loader.
+
 [LWO](https://github.com/tabularelf/lwo) - Lightweight objects using structs.
 
 [Lock And Key](https://github.com/AlubJ/Lock-And-Key) - String and file encryption.
