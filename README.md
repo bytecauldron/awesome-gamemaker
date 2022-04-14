@@ -5,8 +5,6 @@
 # Awesome GameMaker [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Made with GameMaker Studio](https://img.shields.io/badge/Made%20with-GameMaker_Studio-000000.svg?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC)](https://www.yoyogames.com/gamemaker)
 An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker Studio. 😎
 
-Many libraries here will completely replace native tools in the IDE. I highly recommend exploring everything here so you can start making games as quickly as possible!
-
 This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) and from Gleb Tsereteli's [Google Doc](https://docs.google.com/document/d/1wUm8FZPm8AKLZgC-P76TPJAMXs0EN2s5mJGvvUFwycw/edit). I just categorized it and added some additional links/details. If you need more general game development resources, check out [Awesome Gamedev](https://notabug.org/Calinou/awesome-gamedev).
 
 💸 are premium assets. Everything else is free. Most stuff here is licensed MIT/CC/GPL but double check before you use these in your commercial projects.
@@ -17,11 +15,12 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 Here are some recommendations when using GMS. You don't have to follow them but it might save you some time/energy.
 
-- Recommended to avoid the DND (Drag and Drop) feature. Learn GML instead.
-- The native sprite editor is not very robust. Try AESprite.
+- Avoid the GML Visual (Drag and Drop) feature. Learn GML instead.
+- The native sprite editor is not very robust. Try [AESprite](https://www.aseprite.org/).
 - Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 - Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 - Unless your game requires complex physics interactions, it's generally advised to avoid GMS's built-in physics system.
+- Schedule routine backups for projects.
 
 [GameMaker Manual](https://manual.yoyogames.com/#t=Content.htm)
 
@@ -119,7 +118,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 ## Debugging 🪲🔨
 
-[rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell.
+[rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc.
 
 [Olympus](https://github.com/bscotch/olympus#readme) - Testing Framework.
 
