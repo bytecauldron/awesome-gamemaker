@@ -2,8 +2,8 @@
     <img src="https://styles.redditmedia.com/t5_2qw2g/styles/communityIcon_itciy1qmjp871.png?width=256&s=b9a021ec4e8a588ba97530546668d3ba88136630" />
 </p>
 
-# Awesome GameMaker 2 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Made with GameMaker Studio 2](https://img.shields.io/badge/Made%20with-GameMaker_Studio_2-000000.svg?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC)](https://www.yoyogames.com/gamemaker)
-An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker Studio 2. 😎
+# Awesome GameMaker [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Made with GameMaker Studio](https://img.shields.io/badge/Made%20with-GameMaker_Studio_2-000000.svg?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC)](https://www.yoyogames.com/gamemaker)
+An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker Studio. 😎
 
 Many libraries here will completely replace native tools in the IDE. I highly recommend exploring everything here so you can start making games as quickly as possible!
 
@@ -15,21 +15,21 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 ## Getting Started 🔥
 
-Here are some recommendations when using GMS2. You don't have to follow them but it might save you some time/energy.
+Here are some recommendations when using GMS. You don't have to follow them but it might save you some time/energy.
 
 - Recommended to avoid the DND (Drag and Drop) feature. Learn GML instead.
 - The native sprite editor is not very robust. Try AESprite.
 - Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
-- Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS2 and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS2 download page.
-- Unless your game requires complex physics interactions, it's generally advised to avoid GMS2's built-in physics system.
+- Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
+- Unless your game requires complex physics interactions, it's generally advised to avoid GMS's built-in physics system.
 
-[GameMaker 2 Manual](https://manual.yoyogames.com/#t=Content.htm)
+[GameMaker Manual](https://manual.yoyogames.com/#t=Content.htm)
 
 [Release Notes](https://gms.yoyogames.com/ReleaseNotes.html)
 
-[Beginner GMS2 Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP) - Tutorials from Shaun Spalding. A comprehensive introduction to basic features of the IDE. Highly recommended to check out the full playlist if you're a complete beginner.
+[Beginner GMS Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP) - Tutorials from Shaun Spalding. A comprehensive introduction to basic features of the IDE. Highly recommended to check out the full playlist if you're a complete beginner.
 
-[Advanced GMS2 Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=n8-MuIuOQFE&list=PL_hT--4HOvrfuDcYrTufdpgwoALAczPR2) - DragoniteSpam's tutorials dive into more advanced topics related to the GML language. They also have comprehensive 3D and shader introduction videos.
+[Advanced GMS Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=n8-MuIuOQFE&list=PL_hT--4HOvrfuDcYrTufdpgwoALAczPR2) - DragoniteSpam's tutorials dive into more advanced topics related to the GML language. They also have comprehensive 3D and shader introduction videos.
 
 ## Utilities 🛠️
 
@@ -39,13 +39,13 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Stitch](https://github.com/bscotch/stitch#readme) - Pipeline Development Kit. Includes cross-project imports, batch-creating/updating sprites and sounds, texture page management, and more. Tested on Windows only.
 
-[Outside the Box](https://rousr.itch.io/outsidethebox) - More system-level utility tools. Includes saving/loading files outside of the GMS2 sandbox, toggling borderless/windowed modes at runtime, and querying detailed memory usage information.
+[Outside the Box](https://rousr.itch.io/outsidethebox) - More system-level utility tools. Includes saving/loading files outside of the GMS sandbox, toggling borderless/windowed modes at runtime, and querying detailed memory usage information.
 
 [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor.
 
 [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library.
 
-[Stopwatch](https://github.com/Lojemiru/Stopwatch) - Replacement for GameMaker Studio 2.3 alarms.
+[Stopwatch](https://github.com/Lojemiru/Stopwatch) - Replacement for GameMaker alarms.
 
 [fuwafuwa](https://github.com/kemonologic/fuwafuwa) - Easy-to-use timer system.
 
@@ -63,9 +63,9 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker.
 
-[GML-OOP](https://github.com/Mtax-Development/GML-OOP) - A constructor library for operating the primary functionalities of GMS2.
+[GML-OOP](https://github.com/Mtax-Development/GML-OOP) - A constructor library for operating the primary functionalities of GMS.
 
-[GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) - Another project that adds OOP functionality to GMS2.
+[GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) - Another project that adds OOP functionality to GMS.
 
 [Map](https://github.com/GameMakerDiscord/Map.gml) - Hash table implementations.
 
@@ -203,7 +203,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45° slopes.
 
-[GMS2 Platforming System](https://benal.itch.io/basic-modern-platforming-system) - GMS2 implementation by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.
+[GMS2 Platforming System](https://benal.itch.io/basic-modern-platforming-system) - GMS implementation by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.
 
 [Inverse Kinematics Extension](https://github.com/tonystr/Inverse-Kinematics-Extension-for-Gamemaker) - A library for working with inverse kinematics.
 
@@ -249,7 +249,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Draw A Dungeon](https://gentoogames.itch.io/draw-a-dungeon-gamemaker) - Converts your room layouts into a randomized dungeon.
 
-[Destructible Terrain](https://github.com/niksudan/gms2-destructible-terrain) - An example of collidable, destructible terrain in GameMaker Studio 2 using surfaces and grids.
+[Destructible Terrain](https://github.com/niksudan/gms2-destructible-terrain) - An example of collidable, destructible terrain in GameMaker Studio using surfaces and grids.
 
 [Cellular Automata Caves](https://alessiogamedev.itch.io/gms-cellular-automata-algorithm) - Generates huge caves in a few hundred milliseconds.
 
@@ -297,7 +297,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Fire-Fun](https://github.com/XorDev/Fire-Fun/wiki) - Some fun magic fireballs.
 
-[Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) - Jump Flooding Algorithm for GMS2 made with shaders.
+[Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) - Jump Flooding Algorithm for GMS made with shaders.
 
 [Shader Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=ch4BYqkL1w8&list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P) - Gaming Reverends
 
@@ -339,7 +339,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 ## Networking 🌐
 
-[Warp](https://github.com/evolutionleo/Warp) - A feature-rich framework for multiplayer games, written in GMS2.3 and NodeJS.
+[Warp](https://github.com/evolutionleo/Warp) - A feature-rich framework for multiplayer games, written in GMS and NodeJS.
 
 [EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) - Host/client implementation with a chat feature.
 
@@ -361,15 +361,15 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [Dissonance](https://rousr.itch.io/dissonance) - Knock knock. Who's there? Discord integration.
 
-[Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) - Various expansions to Steamworks SDK support in GameMaker: Studio / GMS2.
+[Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) - Various expansions to Steamworks SDK support in GameMaker: Studio.
 
 [GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) - A native extension for GOG.com SDK support.
 
 ## Camera 🎥
 
-[GMS2 Cameras: As Simple as Possible](https://www.youtube.com/watch?v=_g1LQ6aIJFk) - Pope's guide on GMS2's camera system.
+[GMS Cameras: As Simple as Possible](https://www.youtube.com/watch?v=_g1LQ6aIJFk) - Pope's guide on GMS's camera system.
 
-[Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/) - Getting started with cameras in GMS2.
+[Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/) - Getting started with cameras in GMS.
 
 [Pixel Perfect Smooth Camera](https://github.com/YAL-GameMaker/pixel-perfect-smooth-camera) - An example of pixel-perfect yet smooth camera.
 
@@ -395,7 +395,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 ## Others ❔ (need to organize)
 
-[Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos.
+[Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos. However, the recent versions of GMS have video support now.
 
 [GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) - Webcam capture.
 
@@ -419,7 +419,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 ## Software 💿
 
-[GMEdit](https://github.com/YellowAfterlife/GMEdit) - Code editor to use in conjunction with GMS1 and 2.
+[GMEdit](https://github.com/YellowAfterlife/GMEdit) - Code editor to use in conjunction with GMS.
 
 [YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes yyp files for you.
 
@@ -439,7 +439,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [GM48 Resources](https://gm48.net/resources) - Free resources from the community to become better at GameMaker Studio, game development and game jams.
 
-[GameMakerHow](https://gamemakerhow.com/) - Another great site that acts as a GameMaker Q&A repository for various questions you might ask in GMS2.
+[GameMakerHow](https://gamemakerhow.com/) - Another great site that acts as a GameMaker Q&A repository for various questions you might ask in GMS.
 
 [obj_podcast](https://objpodcast.com/) - Gamedev-centered podcast featuring members of the GameMaker community.
 
@@ -447,7 +447,7 @@ Here are some recommendations when using GMS2. You don't have to follow them but
 
 [GitHub Yacc to GML Fix](https://www.reddit.com/r/gamemaker/comments/n5m35l/a_simple_fix_for_github_incorrectly_detecting/)
 
-[2.3 Syntax in Detail](https://yal.cc/gamemaker-2-3-syntax-in-details/) - A full guide of the latest syntax features/changes in GML from Yal.
+[2.3 Syntax in Detail](https://yal.cc/gamemaker-2-3-syntax-in-details/) - A full guide of the syntax features/changes in GML from Yal.
 
 [GameMaker Garbage Collection](https://gist.github.com/DatZach/96a30d6ae4225f8ec152719e57aed26b) - How garbage collection works in GML.
 
