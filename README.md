@@ -44,11 +44,13 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library.
 
-[Stopwatch](https://github.com/Lojemiru/Stopwatch) - Replacement for GameMaker alarms.
-
-[fuwafuwa](https://github.com/kemonologic/fuwafuwa) - Easy-to-use timer system.
+[Stopwatch](https://github.com/Lojemiru/Stopwatch) - GameMaker alarm replacement.
 
 [wTimer](https://mors-games.itch.io/wtimer) - Robust alternative for alarms.
+
+[FrogAlarm](https://github.com/colmeye/FrogAlarms) - Another easy alternative to GameMaker alarms.
+
+[fuwafuwa](https://github.com/kemonologic/fuwafuwa) - Easy-to-use timer system.
 
 [Timer](https://github.com/nommiin/Timers) - Timer methods based on setTimeout and setInterval from JS.
 
@@ -82,6 +84,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [LWO](https://github.com/tabularelf/lwo) - Lightweight objects using structs.
 
+[Gumshoe](https://github.com/JujuAdams/Gumshoe) - Simple deep file search function.
+
 [Lock And Key](https://github.com/AlubJ/Lock-And-Key) - String and file encryption.
 
 [Mathematical Scripts](https://adam-rumpf.itch.io/gamemaker-studio-2-mathematical-scripts) - A collection of math scripts.
@@ -93,6 +97,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 [Voxeledphoton's FreeGMScripts](https://github.com/vphoton/FreeGMScripts) - Some might be out of date with 2.3+ syntax.
 
 [ForEach](https://github.com/KeeVeeGames/foreach.gml) - Adds a foreach implementation for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.
+
+[DeepCopy](https://github.com/KeeVeeGames/DeepCopy.gml) - Deep clone class instances / constructed structs, anonymous structs and arrays nested in any order!
 
 [Motion Scripts](https://avis.itch.io/motion-scripts) - Provides replacement methods for built-in motion variables.
 
@@ -112,11 +118,13 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Wraptor](https://github.com/Gizmo199/Wraptor) - A library of wrapper functions.
 
+[Autoframer](https://github.com/mstop4/auto-framer) - Automatically handles resizing the game view across different display and window sizes.
+
 [GML+](https://xgasoft.itch.io/gmlp)💸 - a script collection with a goal to "fill the gaps" in GML.
 
 [GMLive](https://yellowafterlife.itch.io/gamemaker-live)💸 - Livecoding / interactive programming.
 
-## Debugging 🪲🔨
+## Debugging 🔨
 
 [rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc.
 
@@ -144,6 +152,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration.
 
+[Mouse Queue](https://github.com/YAL-GameMaker/window_mouse_queue) - Tracks the Windows mouse pointer with high precision.
+
 [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors)💸 - System-level custom cursors.
 
 ## User Interface 📜
@@ -167,6 +177,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 [Guido](https://github.com/JujuAdams/Guido) - Simple immediate mode GUI framework.
 
 [GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) - A pure GML solution to structure and control your menus, drawing parallels to .NET UI.
+
+[GMS2-UI-Library](https://github.com/nabilatsoulcade/GMS2-UI-Library) - A Library Full of useful scripts for implementing your UI designs in GameMaker.
 
 [Emu UI](https://github.com/DragoniteSpam/Emu) - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
 
@@ -220,9 +232,15 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Disarm](https://github.com/NuxiiGit/disarm) - A spriter skeletal animation at runtime.
 
+[Spritely](https://github.com/bscotch/spritely) - Image correction and cleanup for 2D video game sprites.
+
+[PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) - Pixel art upscaling shader for awkward resolutions for GameMaker.
+
 ## Audio 🎵
 
 [FMODGMS](https://github.com/mstop4/FMODGMS) - Supposedly this doesn't support everything FMOD has to offer and the project itself has been put on-hold. However, audio extensions are slim pickings for GMS2, so it's definitely worth keeping tabs on it.
+
+[WWiseGMS2](https://github.com/alessandrofama/wwise-gms2) - Bindings for the WWise API. Windows only.
 
 [Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2)💸 - Optimized delay effect.
 
@@ -238,11 +256,13 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [LDtkParser](https://github.com/evolutionleo/LDtkParser) - Advanced LDtk Importer.
 
-[Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Get data about a different room.
+[Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Collects room data and stores it into a JSON for later use. 
 
 [Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) - Combines user-defined chambers to create a dungeon.
 
 [Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2) - A random level generation example (similar to Nuclear Throne) using GameMaker Studio 2.
+
+[World Generator](https://github.com/kirillzhosul/world-generation) - 2D "Top Down" world generation / visualization.
 
 [Wave Function Collapse](https://quadolorgames.itch.io/wfc-gml-demo) - Generates a random tile map but not production ready in its current state.
 
@@ -312,6 +332,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Camera3D](https://gizmo199.itch.io/camera3d) - Simple 3D camera setup.
 
+[Blender to GameMaker](https://github.cm/blender-to-gmstudio) - A collection of scripts to export and import Blender models to and from GameMaker.
+
 [Three Mice In a Trench Coat](https://github.com/XorDev/ThreeMiceInaTrenchcoat) - Source for a GMS 3D game.
 
 [sPart](https://marketplace.yoyogames.com/assets/7299/spart-3d-particle-system) - 3D Particle System from TheSnidr.
@@ -343,6 +365,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 [EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) - Host/client implementation with a chat feature.
 
 [Patchwire-GM](https://github.com/gm-core/patchwire-gm) - The network library from gm-core if you want to use this implementation without the entire gm-core suite.
+
+[Colyseus](https://github.com/colyseus/colyseus-gml) - Multiplayer game client. Not ready for production use, but worth keeping an eye on.
 
 [GMHandshake](https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8) - A Gist demonstrating a network handshake.
 
@@ -392,7 +416,15 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Pinocchio](https://github.com/JujuAdams/Pinocchio) - State-based animation system
 
-## Others ❔ (need to organize)
+## Pathing 🧭
+
+[Aquila](https://dragonite.itch.io/aquila) - A* Pathfinding implementation.
+
+[A-Star-Pathing](https://github.com/helloalbertdang/A-Star-Pathing) - Another A* pathfinding implementation.
+
+[Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 different algorithms.
+
+## Others ❔
 
 [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos. However, the recent versions of GMS have video support now.
 
@@ -408,13 +440,11 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Isometric Tactical RPG Framework](https://gentoogames.itch.io/isometric-tactical-rpg-framework) - Provides starter assets to create an isometric board game. Dynamic Turn System is included.
 
-[Aquila](https://dragonite.itch.io/aquila) - A* Pathfinding implementation.
-
-[Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 different algorithms.
-
 [Mouse Trail Effect](https://all-x.itch.io/gms2-mouse-trail-effect) - Shows how to trace a line with primitives to create a colorful trail.
 
 [Starfield Generator](https://github.com/PixelProphecy/gml_starfield_generator) - A script to generate starfields in GameMaker's GML language.
+
+[CleanShapes](https://github.com/JujuAdams/Clean-Shapes) - Antialiased primitives library for GameMaker Studio 2.3.
 
 ## Software 💿
 
@@ -444,11 +474,13 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Dracula](https://github.com/dracula/gamemaker-studio) - Dark theme for the IDE.
 
-[GitHub Yacc to GML Fix](https://www.reddit.com/r/gamemaker/comments/n5m35l/a_simple_fix_for_github_incorrectly_detecting/)
-
 [2.3 Syntax in Detail](https://yal.cc/gamemaker-2-3-syntax-in-details/) - A full guide of the syntax features/changes in GML from Yal.
 
 [GameMaker Garbage Collection](https://gist.github.com/DatZach/96a30d6ae4225f8ec152719e57aed26b) - How garbage collection works in GML.
+
+[GitHub Yacc to GML Fix](https://www.reddit.com/r/gamemaker/comments/n5m35l/a_simple_fix_for_github_incorrectly_detecting/) - Tell GitHub your repo is all GML, not Yacc.
+
+[GameMaker Repo Badges](https://github.com/matthiaszarzecki/MadeWithGameMakerStudioBadges) - Fancy badges to add to your README files.
 
 [Source Control with Git & GameMaker ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=UZG-P68xWio&list=PLSFMekK0JFgzmyDxVxj5Cctafu5UX_vUC) - FriendlyCosmonaut
 
