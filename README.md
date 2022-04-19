@@ -11,7 +11,36 @@ This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunc
 
 Have something awesome to share? Check out the [Contributing Guidelines](https://github.com/bytecauldron/awesome-gamemaker/blob/main/CONTRIBUTING.md).
 
-## Getting Started 🔥
+## Contents
+
+- [🔥 Getting Started](#getting-started)
+- [🛠️ Utilities](#utilities)
+- [🐛 Debugging](#debugging)
+- [🕹️ Input Handling](#input-handling)
+- [📜 User Interface](#user-interface)
+- [💬 Localization](#localization)
+- [☄️ Physics](#physics)
+- [👾 Sprites](#sprites)
+- [🎵 Audio](#audio)
+- [🏔️ Levels](#levels)
+- [✨ Particles](#particles)
+- [💡 Lighting](#lighting)
+- [👽 3D](#3d)
+- [⏫ Sprite Stacking](#sprite-stacking)
+- [🌐 Networking](#networking)
+- [🔌 Integrations](#integrations)
+- [🎥 Camera](#camera)
+- [⏰ Sequences](#sequences)
+- [🧠 State Machines](#state-machines)
+- [🧭 Pathing](#pathing)
+- [❔ Others](#others)
+- [💿 Software](#software)
+- [📝 Blogs](#blogs)
+- [⚗️ Useful Extras](#useful-extras)
+- [🌎 Community](#community)
+- [💖 Special Thanks](#special-thanks)
+
+## Getting Started
 
 Here are some recommendations when using GMS. You don't have to follow them but it might save you some time/energy.
 
@@ -20,7 +49,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 - Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 - Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 - Unless your game requires complex physics interactions, it's generally advised to avoid GMS's built-in physics system.
-- Schedule routine backups for projects.
+- Schedule routine backups for projects. If you are dealing with larger media files in your repo, try [Git LFS](https://git-lfs.github.com/).
 
 [GameMaker Manual](https://manual.yoyogames.com/#t=Content.htm)
 
@@ -30,13 +59,13 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Advanced GMS Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=n8-MuIuOQFE&list=PL_hT--4HOvrfuDcYrTufdpgwoALAczPR2) - DragoniteSpam's tutorials dive into more advanced topics related to the GML language. They also have comprehensive 3D and shader introduction videos.
 
-## Utilities 🛠️
+## Utilities
 
 [gm-core](https://github.com/gm-core) - Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.
 
 [FAST](https://github.com/Hyomoto/FAST) - Flexible Assistant Toolkit. Similar to gm-core but comes with input and resolution handling.
 
-[Stitch](https://github.com/bscotch/stitch#readme) - Pipeline Development Kit. Includes cross-project imports, batch-creating/updating sprites and sounds, texture page management, and more. Tested on Windows only.
+[Stitch](https://github.com/bscotch/stitch) - Pipeline Development Kit. Includes cross-project imports, batch-creating/updating sprites and sounds, texture page management, and more. Tested on Windows only.
 
 [Outside the Box](https://rousr.itch.io/outsidethebox) - More system-level utility tools. Includes saving/loading files outside of the GMS sandbox, toggling borderless/windowed modes at runtime, and querying detailed memory usage information.
 
@@ -124,7 +153,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [GMLive](https://yellowafterlife.itch.io/gamemaker-live)💸 - Livecoding / interactive programming.
 
-## Debugging 🔨
+## Debugging
 
 [rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc.
 
@@ -142,7 +171,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
 
-## Input Handling 🕹️
+## Input Handling
 
 [Input](https://github.com/JujuAdams/input) - No nonsense controller/keyboard library.
 
@@ -156,7 +185,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors)💸 - System-level custom cursors.
 
-## User Interface 📜
+## User Interface
 
 [Scribble](https://github.com/JujuAdams/scribble) - Efficient multi-effects text renderer.
 
@@ -172,7 +201,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Stream](https://github.com/OmegaX1000/StreamUI) - An efficient Framework for Creating UI.
 
-[Bento](https://github.com/JujuAdams/bento) - Not released yet, but keeping an eye on it. It's JuJu, so it's going to be good.
+[Bento](https://github.com/JujuAdams/bento) - Not released yet, but keeping an eye on it. It's Juju, so it's going to be good.
 
 [Guido](https://github.com/JujuAdams/Guido) - Simple immediate mode GUI framework.
 
@@ -198,7 +227,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [RTS Selection Tool](https://gentoogames.itch.io/rts-selection-tool) - Mouse dragging feature to select pawns in an real-time strategy game.
 
-## Localization 🔣
+## Localization
 
 [gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) - Internationalization of texts simply and quickly, using JSON files.
 
@@ -208,7 +237,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) - Similar export tool to GMLocalize but exports to a csv.
 
-## Physics ☄️
+## Physics
 
 [Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) - A robust, pixel-perfect collision engine.
 
@@ -224,7 +253,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles)💸 - Robust object-based collision system from the pope.
 
-## Sprites 👾
+## Sprites
 
 [AESnips](https://github.com/angelwire/AESnips) - A sprite playback system.
 
@@ -236,7 +265,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) - Pixel art upscaling shader for awkward resolutions for GameMaker.
 
-## Audio 🎵
+## Audio
 
 [FMODGMS](https://github.com/mstop4/FMODGMS) - Supposedly this doesn't support everything FMOD has to offer and the project itself has been put on-hold. However, audio extensions are slim pickings for GMS2, so it's definitely worth keeping tabs on it.
 
@@ -250,7 +279,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [ExternalAudio](https://github.com/NuxiiGit/ExternalAudio) - Load external .wav files at runtime.
 
-## Levels 🏔️
+## Levels
 
 [LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) - LDtk Importer.
 
@@ -272,13 +301,13 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Cellular Automata Caves](https://alessiogamedev.itch.io/gms-cellular-automata-algorithm) - Generates huge caves in a few hundred milliseconds.
 
-## Particles ✨
+## Particles
 
 [Particles Wrapper](https://github.com/GamemakerCasts/particles) - A simplistic particle system wrapper that is designed to make creating particles fun and easy.
 
 [Advanced Particles](https://limekys.itch.io/advanced-particle-system) - A particle implementation that comes with it's own delta timing methods.
 
-## Lighting 💡
+## Lighting
 
 [Bulb](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows.
 
@@ -290,7 +319,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [3D Fragment Point Lights](https://danieldavis.itch.io/ddg-point-light-shader-system)💸 - 3D point lights using shaders.
 
-## Shaders 🌟
+## Shaders
 
 [TransFX](https://short-bread.itch.io/transfx) - Transition Library.
 
@@ -322,7 +351,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Shader Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa) - DragoniteSpam
 
-## 3D 🧊
+## 3D
 
 [BBMOD](https://github.com/blueburn-cz/BBMOD) - 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more.
 
@@ -350,7 +379,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [3D Optimization Playlist ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) - DragoniteSpam
 
-## Sprite Stacking ⏫
+## Sprite Stacking
 
 [Beginners Guide to Sprite Stacking](https://medium.com/@avsnoopy/beginners-guide-to-sprite-stacking-in-gamemaker-studio-2-and-magica-voxel-part-1-f7a1394569c0) - A primer on sprite stacking from Avis. Check out part 2 from dev_dwarf as well.
 
@@ -358,7 +387,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Sprite Stacking Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=VIDN-nG3EOU&list=PL3Kbpztq9qwT9MbW_k4yyJU__or1r8P2j) - Gizmo199
 
-## Networking 🌐
+## Networking
 
 [Warp](https://github.com/evolutionleo/Warp) - A feature-rich framework for multiplayer games, written in GMS and NodeJS.
 
@@ -374,7 +403,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Multiplayer Networking Tutorial ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626) - Wizirdi
 
-## Integrations 🔌
+## Integrations
 
 [DHook](https://github.com/tabularelf/DHook) - Discord integration.
 
@@ -388,7 +417,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) - A native extension for GOG.com SDK support.
 
-## Camera 🎥
+## Camera
 
 [GMS Cameras: As Simple as Possible](https://www.youtube.com/watch?v=_g1LQ6aIJFk) - Pope's guide on GMS's camera system.
 
@@ -400,13 +429,13 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Camera All-In-One](https://jasontomlee.itch.io/allinone-camera)💸 - Editor, screenshake, view-resizing, follow modes, screen effects, etc.
 
-## Sequences ⏰
+## Sequences
 
 [Sequences Tutorial ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=WO6gzhrx5b8) - Shaun Spalding
 
 [Making Splash Screen Sequences ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=hTh5UpFxx1E) - Mash Arcade
 
-## State Machines 🧠
+## State Machines
 
 [SnowState](https://github.com/sohomsahaun/SnowState) - Robust finite state machine.
 
@@ -416,7 +445,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Pinocchio](https://github.com/JujuAdams/Pinocchio) - State-based animation system
 
-## Pathing 🧭
+## Pathing
 
 [Aquila](https://dragonite.itch.io/aquila) - A* Pathfinding implementation.
 
@@ -424,7 +453,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 different algorithms.
 
-## Others ❔
+## Others
 
 [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos. However, the recent versions of GMS have video support now.
 
@@ -446,7 +475,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [CleanShapes](https://github.com/JujuAdams/Clean-Shapes) - Antialiased primitives library for GameMaker Studio 2.3.
 
-## Software 💿
+## Software
 
 [GMEdit](https://github.com/YellowAfterlife/GMEdit) - Code editor to use in conjunction with GMS.
 
@@ -454,7 +483,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
 
-## Blogs 📝
+## Blogs
 
 [RefresherTowel](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
 
@@ -462,7 +491,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Katsaii](https://nuxiigit.github.io/content/blog/posts.html) - Some articles on more advanced gml topics.
 
-## Useful Extras ⚗️
+## Useful Extras
 
 [GMLScripts.com](https://www.gmlscripts.com/script/index) - Dozens of helper scripts, organized similarly to the official documentation.
 
@@ -488,13 +517,13 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Making Attacks Feel Good ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish
 
-## Community 🌎
+## Community
 
 [![GameMaker Forums](https://img.shields.io/badge/Forums-6AA916?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC&&logoColor=white)](https://forum.yoyogames.com/index.php)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/gamemaker/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gamemaker)
 
-## Special Thanks 💖
+## Special Thanks
 
 JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick Ver Voort, PixelatedPope, Tony Strømsnæs, HeartBeast, Xor, Gaming Reverends, Matharoo, YellowAfterlife, Gizmo199, Avis, Josh Wilson
 
