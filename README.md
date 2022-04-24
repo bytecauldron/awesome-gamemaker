@@ -33,10 +33,9 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 - [⏰ Sequences](#sequences)
 - [🧠 State Machines](#state-machines)
 - [🧭 Pathing](#pathing)
-- [❔ Others](#others)
+- [⚗️ Useful Extras](#useful-extras)
 - [💿 Software](#software)
 - [📝 Blogs](#blogs)
-- [⚗️ Useful Extras](#useful-extras)
 - [🌎 Community](#community)
 - [💖 Special Thanks](#special-thanks)
 
@@ -265,6 +264,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) - Pixel art upscaling shader for awkward resolutions for GameMaker.
 
+[ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
+
 ## Audio
 
 [FMODGMS](https://github.com/mstop4/FMODGMS) - Supposedly this doesn't support everything FMOD has to offer and the project itself has been put on-hold. However, audio extensions are slim pickings for GMS2, so it's definitely worth keeping tabs on it.
@@ -453,7 +454,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 different algorithms.
 
-## Others
+## Useful Extras
 
 [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos. However, the recent versions of GMS have video support now.
 
@@ -474,24 +475,6 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 [Starfield Generator](https://github.com/PixelProphecy/gml_starfield_generator) - A script to generate starfields in GameMaker's GML language.
 
 [CleanShapes](https://github.com/JujuAdams/Clean-Shapes) - Antialiased primitives library for GameMaker Studio 2.3.
-
-## Software
-
-[GMEdit](https://github.com/YellowAfterlife/GMEdit) - Code editor to use in conjunction with GMS.
-
-[YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes yyp files for you.
-
-[ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
-
-## Blogs
-
-[RefresherTowel](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
-
-[Tony Str](https://tonystr.net/articles) - Some great articles on working with json, regular expressions, and drawing circles in gml.
-
-[Katsaii](https://nuxiigit.github.io/content/blog/posts.html) - Some articles on more advanced gml topics.
-
-## Useful Extras
 
 [GMLScripts.com](https://www.gmlscripts.com/script/index) - Dozens of helper scripts, organized similarly to the official documentation.
 
@@ -517,6 +500,20 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Making Attacks Feel Good ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish
 
+## Software
+
+[GMEdit](https://github.com/YellowAfterlife/GMEdit) - Code editor to use in conjunction with GMS.
+
+[YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes yyp files for you.
+
+## Blogs
+
+[RefresherTowel](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
+
+[Tony Str](https://tonystr.net/articles) - Some great articles on working with json, regular expressions, and drawing circles in gml.
+
+[Katsaii](https://nuxiigit.github.io/content/blog/posts.html) - Some articles on more advanced gml topics.
+
 ## Community
 
 [![GameMaker Forums](https://img.shields.io/badge/Forums-6AA916?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC&&logoColor=white)](https://forum.yoyogames.com/index.php)
@@ -525,7 +522,6 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 ## Special Thanks
 
-JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick Ver Voort, PixelatedPope, Tony Strømsnæs, HeartBeast, Xor, Gaming Reverends, Matharoo, YellowAfterlife, Gizmo199, Avis, Josh Wilson
-
+JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick Ver Voort, PixelatedPope, Tony Strømsnæs, HeartBeast, Xor, Gaming Reverends, Matharoo, YellowAfterlife, Gizmo199, Avis, Josh Wilson, Lojemiru
 
 ![Keybindings](https://github.com/bytecauldron/awesome-gamemaker/raw/main/images/keybindings.png)
