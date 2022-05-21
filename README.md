@@ -34,7 +34,6 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 - [🧠 State Machines](#state-machines)
 - [🧭 Pathing](#pathing)
 - [⚗️ Useful Extras](#useful-extras)
-- [💿 Software](#software)
 - [📝 Blogs](#blogs)
 - [🌎 Community](#community)
 - [💖 Special Thanks](#special-thanks)
@@ -64,7 +63,7 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [FAST](https://github.com/Hyomoto/FAST) - Flexible Assistant Toolkit. Similar to gm-core but comes with input and resolution handling.
 
-[Stitch](https://github.com/bscotch/stitch) - Pipeline Development Kit. Includes cross-project imports, batch-creating/updating sprites and sounds, texture page management, and more. Tested on Windows only.
+[Stitch](https://www.npmjs.com/package/@bscotch/stitch) - Pipeline Development Kit. Includes cross-project imports, batch-creating/updating sprites and sounds, texture page management, and more. Tested on Windows only.
 
 [Outside the Box](https://rousr.itch.io/outsidethebox) - More system-level utility tools. Includes saving/loading files outside of the GMS sandbox, toggling borderless/windowed modes at runtime, and querying detailed memory usage information.
 
@@ -91,6 +90,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 [Twerp](https://pixelatedpope.itch.io/twerp) - Easing function similar to lerp().
 
 [Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker.
+
+[gm-cadence](https://github.com/daikon-games/gm-cadence) - Schedule code to run at certain times and for certain durations, similar to Coroutines.
 
 [GML-OOP](https://github.com/Mtax-Development/GML-OOP) - A constructor library for operating the primary functionalities of GMS.
 
@@ -122,6 +123,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Trixscript](https://trixelized.itch.io/trixscript) - Juices up your game with useful functions.
 
+[CoreExtension](https://github.com/blueburncz/CoreExtension) - A collection of CC0 programming libraries.
+
 [Voxeledphoton's FreeGMScripts](https://github.com/vphoton/FreeGMScripts) - Some might be out of date with 2.3+ syntax.
 
 [ForEach](https://github.com/KeeVeeGames/foreach.gml) - Adds a foreach implementation for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.
@@ -152,6 +155,12 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [GMLive](https://yellowafterlife.itch.io/gamemaker-live)💸 - Livecoding / interactive programming.
 
+[GMEdit](https://github.com/YellowAfterlife/GMEdit) - Code editor to use in conjunction with GMS.
+
+[YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes yyp files for you.
+
+[Rubber](https://github.com/GameMakerDiscord/Rubber) - Compile gamemaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
+
 ## Debugging
 
 [rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc.
@@ -170,9 +179,11 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
 
+[Duck](https://github.com/imlazyeye/duck) - A fast GML analyzer to enforce code styling and detect errors.
+
 ## Input Handling
 
-[Input](https://github.com/JujuAdams/input) - No nonsense controller/keyboard library.
+[Input](https://github.com/JujuAdams/input) - No nonsense gamepad/keyboard library.
 
 [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
 
@@ -227,6 +238,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 [RTS Selection Tool](https://gentoogames.itch.io/rts-selection-tool) - Mouse dragging feature to select pawns in an real-time strategy game.
 
 ## Localization
+
+[polyglot](https://github.com/daikon-games/polyglot) - Localization library.
 
 [gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) - Internationalization of texts simply and quickly, using JSON files.
 
@@ -348,6 +361,10 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) - Jump Flooding Algorithm for GMS made with shaders.
 
+[Outline Shader](https://github.com/Grisgram/gml-outline-shader-drawer) - Outline shader.
+
+[Xpanda](https://github.com/GameMakerDiscord/Xpanda) - Include code from external files in your shaders.
+
 [Shader Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=ch4BYqkL1w8&list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P) - Gaming Reverends
 
 [Shader Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa) - DragoniteSpam
@@ -402,6 +419,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [HTTP GML](https://github.com/Sidorakh/http.gml) - Recieve GET requests and upload files in GML.
 
+[GMNest](https://github.com/TimVN/GMNest) - Socket.IO extension for HTML5 games.
+
 [Multiplayer Networking Tutorial ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626) - Wizirdi
 
 ## Integrations
@@ -417,6 +436,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 [Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) - Various expansions to Steamworks SDK support in GameMaker: Studio.
 
 [GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) - A native extension for GOG.com SDK support.
+
+[GMTwitch](https://github.com/GameMakerDiscord/GMTwitch) - Twitch integration.
 
 ## Camera
 
@@ -456,6 +477,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 ## Useful Extras
 
+[Animated Flag](https://github.com/Grisgram/gml-animated-flag) - Vertex-animated flag.
+
 [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos. However, the recent versions of GMS have video support now.
 
 [GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) - Webcam capture.
@@ -494,17 +517,13 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [GameMaker Repo Badges](https://github.com/matthiaszarzecki/MadeWithGameMakerStudioBadges) - Fancy badges to add to your README files.
 
+[GameMaker Discord Community Github](https://github.com/GameMakerDiscord) - Have you made a gamemaker tool you want to share? Consider submitting it to the official Discord's Github.
+
 [Source Control with Git & GameMaker ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=UZG-P68xWio&list=PLSFMekK0JFgzmyDxVxj5Cctafu5UX_vUC) - FriendlyCosmonaut
 
 [Game Resolution & Aspect Ratio Management ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=_g1LQ6aIJFk&list=PLXkVsacazW2qvdnKNzgBLkUwlgi3FU-VO) - PixelatedPope
 
 [Making Attacks Feel Good ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish
-
-## Software
-
-[GMEdit](https://github.com/YellowAfterlife/GMEdit) - Code editor to use in conjunction with GMS.
-
-[YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes yyp files for you.
 
 ## Blogs
 
