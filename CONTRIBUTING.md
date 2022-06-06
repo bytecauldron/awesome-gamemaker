@@ -4,30 +4,27 @@ Thank you for showing interest in contributing to this list! Before submitting n
 
 ## New Links
 
-New suggested links **need to be related to GMS2.3+ in some reasonable way.** This includes compatible libraries, guides, blog posts, etc.
-I'm trying to avoid GMS1-exclusive content, so please only submit links related to GMS2.3+.
-For extensions or GMS2 projects, please link an official Itch.io or repository (Github/Gitlab/etc).
-For example, I'm trying to avoid project dumps on Google drives that have no version control.
+New links **need to be related to the latest GameMaker version in some reasonable way.** This includes compatible libraries, guides, blog posts, etc. Avoid GMS1-exclusive content.
+For extensions or GameMaker projects, please link an official Itch.io or repository (Github/Gitlab/etc).
+For example, avoid project dumps on Google Drive that have zero version control.
 
-So for each link, include the following format:
+Each submission should include:
 
-`[Awesome Example](https://github.com/bytecauldron/awesome-gamemaker)` - A short description.
-
-If it's an alternative library, describe what sets it apart from other solutions. Additionally, include whether or not it's a paid asset 💸 and if it falls under an existing category.
-
-## YouTube/Other Videos
-
-If it's more than one video related to a topic from one creator, please provide their playlist link in the submission and the category it would belong to (if any).
+- The following format: `[Awesome Example](https://github.com/username/gamemaker_library) - A short description`
+- Link category.
+- If it's a paid asset. 💸
+- License (if applicable)
+- What sets it apart from other solutions. (if applicable)
 
 ## Creating Issues
 
 Issues can be created for spelling/list errors, pruning dead links, or specifying if asset is now free or paid.
 Authors can also ask for the removal of their content, if requested.
 
-Suggestions for new categories, links, and better descriptions are encouraged and should also be submitted as issues.
-
-Merging forks should be fine if it adds a large amount of new resources and they have been organized similarly to the existing list.
+Suggestions for new categories, links, and better descriptions are also encouraged.
 
 ## Additional Feedback
 
 If you have a better way to organize the list information or other ideas, please share them by opening up a new issue.
+
+Thank you!

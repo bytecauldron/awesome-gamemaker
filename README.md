@@ -35,6 +35,7 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 - [🧭 Pathing](#pathing)
 - [⚗️ Useful Extras](#useful-extras)
 - [📝 Blogs](#blogs)
+- [📺 YouTube](#youtube)
 - [🌎 Community](#community)
 - [💖 Special Thanks](#special-thanks)
 
@@ -52,6 +53,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 [GameMaker Manual](https://manual.yoyogames.com/#t=Content.htm)
 
 [Release Notes](https://gms.yoyogames.com/ReleaseNotes.html)
+
+[GameMaker Marketplace](https://marketplace.yoyogames.com/)
 
 [Beginner GMS Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP) - Tutorials from Shaun Spalding. A comprehensive introduction to basic features of the IDE. Highly recommended to check out the full playlist if you're a complete beginner.
 
@@ -523,6 +526,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Game Resolution & Aspect Ratio Management ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=_g1LQ6aIJFk&list=PLXkVsacazW2qvdnKNzgBLkUwlgi3FU-VO) - PixelatedPope
 
+[Setting up a Virtual Machine for GameMaker ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=cK5k1_zN4eM) - MicahTheManiac
+
 [Making Attacks Feel Good ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish
 
 ## Blogs
@@ -532,6 +537,36 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 [Tony Str](https://tonystr.net/articles) - Some great articles on working with json, regular expressions, and drawing circles in gml.
 
 [Katsaii](https://nuxiigit.github.io/content/blog/posts.html) - Some articles on more advanced gml topics.
+
+## YouTube
+
+- [Jordan Guillou](https://www.youtube.com/channel/UCBmOLRTaPrfOxnTqpCLrwdQ)
+
+- [DragoniteSpam](https://www.youtube.com/c/DragoniteSpam)
+
+- [Shaun Spalding](https://www.youtube.com/c/ShaunSpalding)
+
+- [FriendlyCosmonaut](https://www.youtube.com/c/FriendlyCosmonaut)
+
+- [PixelatedPope](https://www.youtube.com/c/PixelatedPope)
+
+- [Xor](https://www.youtube.com/c/XorDev)
+
+- [GamingEngineer](https://www.youtube.com/c/GamingEngineer)
+
+- [TheSnidr](https://www.youtube.com/c/TheSnidr)
+
+- [Peyton Burnham](https://www.youtube.com/channel/UCfh2Q3TsvlxM1S2GvXQ4eeQ)
+
+- [Gaming Reverends](https://www.youtube.com/channel/UC7fkptPD1FHQyDc9Fnm9S_A)
+
+- [Let's Learn This Together](https://www.youtube.com/c/LetsLearnThisTogether)
+
+- [Matharoo](https://www.youtube.com/c/GameMakerStationMatharoo)
+
+- [GravityShift Games](https://www.youtube.com/c/SlasherXGAMES/)
+
+- [Slyddar](https://www.youtube.com/c/Slyddar/)
 
 ## Community
 
