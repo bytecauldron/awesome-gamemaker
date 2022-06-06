@@ -540,33 +540,33 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 ## YouTube
 
-- [Jordan Guillou](https://www.youtube.com/channel/UCBmOLRTaPrfOxnTqpCLrwdQ)
+[Jordan Guillou](https://www.youtube.com/channel/UCBmOLRTaPrfOxnTqpCLrwdQ)
 
-- [DragoniteSpam](https://www.youtube.com/c/DragoniteSpam)
+[DragoniteSpam](https://www.youtube.com/c/DragoniteSpam)
 
-- [Shaun Spalding](https://www.youtube.com/c/ShaunSpalding)
+[Shaun Spalding](https://www.youtube.com/c/ShaunSpalding)
 
-- [FriendlyCosmonaut](https://www.youtube.com/c/FriendlyCosmonaut)
+[FriendlyCosmonaut](https://www.youtube.com/c/FriendlyCosmonaut)
 
-- [PixelatedPope](https://www.youtube.com/c/PixelatedPope)
+[PixelatedPope](https://www.youtube.com/c/PixelatedPope)
 
-- [Xor](https://www.youtube.com/c/XorDev)
+[Xor](https://www.youtube.com/c/XorDev)
 
-- [GamingEngineer](https://www.youtube.com/c/GamingEngineer)
+[GamingEngineer](https://www.youtube.com/c/GamingEngineer)
 
-- [TheSnidr](https://www.youtube.com/c/TheSnidr)
+[TheSnidr](https://www.youtube.com/c/TheSnidr)
 
-- [Peyton Burnham](https://www.youtube.com/channel/UCfh2Q3TsvlxM1S2GvXQ4eeQ)
+[Peyton Burnham](https://www.youtube.com/channel/UCfh2Q3TsvlxM1S2GvXQ4eeQ)
 
-- [Gaming Reverends](https://www.youtube.com/channel/UC7fkptPD1FHQyDc9Fnm9S_A)
+[Gaming Reverends](https://www.youtube.com/channel/UC7fkptPD1FHQyDc9Fnm9S_A)
 
-- [Let's Learn This Together](https://www.youtube.com/c/LetsLearnThisTogether)
+[Let's Learn This Together](https://www.youtube.com/c/LetsLearnThisTogether)
 
-- [Matharoo](https://www.youtube.com/c/GameMakerStationMatharoo)
+[Matharoo](https://www.youtube.com/c/GameMakerStationMatharoo)
 
-- [GravityShift Games](https://www.youtube.com/c/SlasherXGAMES/)
+[GravityShift Games](https://www.youtube.com/c/SlasherXGAMES/)
 
-- [Slyddar](https://www.youtube.com/c/Slyddar/)
+[Slyddar](https://www.youtube.com/c/Slyddar/)
 
 ## Community
 

@@ -26,5 +26,3 @@ Suggestions for new categories, links, and better descriptions are also encourag
 ## Additional Feedback
 
 If you have a better way to organize the list information or other ideas, please share them by opening up a new issue.
-
-Thank you!
