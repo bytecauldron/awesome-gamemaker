@@ -212,6 +212,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [NotificationSystem](https://github.com/babaganosch/NotificationSystem) - Notifications in GameMaker.
 
+[YUI](https://github.com/shdwcat/YUI) - A UI system with live reloading, template system, data binding, and a drag and drop feature.
+
 [Stream](https://github.com/OmegaX1000/StreamUI) - An efficient Framework for Creating UI.
 
 [Bento](https://github.com/JujuAdams/bento) - Not released yet, but keeping an eye on it. It's Juju, so it's going to be good.
@@ -229,6 +231,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 [Pause Menu](https://jasontomlee.itch.io/pause-menu-gamemaker-1-2) - Another smaller implementation but has a cool animation between menu options.
 
 [Shampoo](https://zackbanack.itch.io/shampoo)💸 - GUIs using a markup-like language.
+
+[Magpie](https://dragonite.itch.io/magpie) - Generic Inventory System.
 
 [ImGuiGML](https://rousr.itch.io/imguigml) - DLL/GML wrapper of Dear ImGui.
 
@@ -293,6 +297,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 [wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
 
 [SoLoud](https://github.com/jarikomppa/soloud) - Portable audio engine that "can" work with GMS with some limitations. See [here.](http://sol.gfxile.net/soloud/gamemaker_api.html)
+
+[audioExt](https://github.com/tabularelf/audioExt) - Sound External Loader/Unloader Manager.
 
 [ExternalAudio](https://github.com/NuxiiGit/ExternalAudio) - Load external .wav files at runtime.
 
@@ -366,6 +372,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 
 [Outline Shader](https://github.com/Grisgram/gml-outline-shader-drawer) - Outline shader.
 
+[Chameleon](https://github.com/Lojemiru/Chameleon) - Palette Swapper
+
 [Xpanda](https://github.com/GameMakerDiscord/Xpanda) - Include code from external files in your shaders.
 
 [Shader Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=ch4BYqkL1w8&list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P) - Gaming Reverends
@@ -393,6 +401,8 @@ Here are some recommendations when using GMS. You don't have to follow them but 
 [Terrain Editor](https://dragonite.itch.io/terrain) - Terrain editor. Exports to gm models, obj, or vertex buffers.
 
 [Cardboard](https://github.com/JujuAdams/Cardboard) - Isometric 3D Renderer
+
+[Snowy Snow](https://dragonite.itch.io/snowy-snow) - 3D Snow Shader.
 
 [3D GameMaker Playlist ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V) - DragoniteSpam
 
