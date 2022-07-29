@@ -246,7 +246,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [lexicon](https://github.com/tabularelf/lexicon) - Another localization solution focused on simplifying implementation.
 
-[GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) - Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file.
+- [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) - Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file.
 
 - [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) - Similar export tool to GMLocalize but exports to a csv.
 
