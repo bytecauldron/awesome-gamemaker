@@ -16,7 +16,7 @@ Thank you for showing interest in contributing to this list! Before submitting n
 
 3. Include the following format:
    
-   `- 💸 [Awesome Example](https://github.com/username/gamemaker_library) - A short description.`
+   `- [Awesome Example](https://github.com/username/gamemaker_library)💸 - A short description.`
 
 4. Submit the pull request.
 
