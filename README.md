@@ -435,7 +435,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [GMNest](https://github.com/TimVN/GMNest) - Socket.IO extension for HTML5 games.
 
-- [Multiplayer Networking Tutorial](https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626) - Wizirdi
+- [Multiplayer Networking Tutorial](https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626) - Wizirdi.
 
 ## Integrations
 
