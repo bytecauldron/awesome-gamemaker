@@ -33,6 +33,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 - [Blogs](#blogs)
 - [YouTube](#youtube)
 - [Community](#community)
+- [Special Thanks](#special-thanks)
 
 ## Getting Started
 
@@ -44,7 +45,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [Beginner GameMaker Tutorials](https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP) - Tutorials from Shaun Spalding. A comprehensive introduction to basic features of the IDE. Highly recommended to check out the full playlist if you're a complete beginner.
 
-- [Advanced GameMaker Tutorials](https://www.youtube.com/watch?v=n8-MuIuOQFE&list=PL_hT--4HOvrfuDcYrTufdpgwoALAczPR2) - DragoniteSpam's tutorials dive into more advanced topics related to the GML language. They also have comprehensive 3D and shader introduction videos.
+- [Advanced GameMaker Tutorials](https://www.youtube.com/watch?v=n8-MuIuOQFE&list=PL_hT--4HOvrfuDcYrTufdpgwoALAczPR2) - Tutorials from DragoniteSpam that dive into more advanced topics related to the GML language. They also have comprehensive 3D and shader introduction videos.
 
 ### General Recommendations
 
@@ -84,7 +85,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [Timer](https://github.com/nommiin/Timers) - Timer methods based on setTimeout and setInterval from JS.
 
-- [Broadcast](https://github.com/JulianDicken/Broadcast) - Event Handling Library
+- [Broadcast](https://github.com/JulianDicken/Broadcast) - Event handling library.
 
 - [EventGML](https://github.com/Soves/EventGML) - Lightweight and fast Node.js style Events Library.
 
@@ -154,7 +155,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [Autoframer](https://github.com/mstop4/auto-framer) - Automatically handles resizing the game view across different display and window sizes.
 
-- [GML+](https://xgasoft.itch.io/gmlp) - a script collection with a goal to "fill the gaps" in GML. 💸
+- [GML+](https://xgasoft.itch.io/gmlp) - A script collection with a goal to "fill the gaps" in GML. 💸
 
 - [GMLive](https://yellowafterlife.itch.io/gamemaker-live) - Livecoding / interactive programming. 💸
 
@@ -238,9 +239,9 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [GUI Framework](https://niris.itch.io/gui-framework) - GUI implementation from Niris Games.
 
-- [Menu Tutorial ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=1ITZOrI2qkA&list=PLSFMekK0JFgx2vmcCnttxxhrNVTjUB8R1) - FriendlyCosmonaut.
+- [Menu Tutorial](https://www.youtube.com/watch?v=1ITZOrI2qkA&list=PLSFMekK0JFgx2vmcCnttxxhrNVTjUB8R1) - FriendlyCosmonaut.
 
-- [Smart Clickable GUI ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RbBgE3cUShc) - PixelatedPope.
+- [Smart Clickable GUI](https://www.youtube.com/watch?v=RbBgE3cUShc) - PixelatedPope.
 
 - [RTS Selection Tool](https://gentoogames.itch.io/rts-selection-tool) - Mouse dragging feature to select pawns in an real-time strategy game.
 
@@ -292,7 +293,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [WWiseGMS2](https://github.com/alessandrofama/wwise-gms2) - Bindings for the WWise API. Windows only.
 
-- [Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2)💸 - Optimized delay effect.
+- [Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2) - Optimized delay effect. 💸
 
 - [wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
 
@@ -338,7 +339,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [GameMaker Lighting Engine](https://github.com/bilouw/Gamemaker-Lighting-Engine) - Tile-based Lighting Engine that projects shadows.
 
-- [Lighting Systems ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) - Very fast dynamic 2D lighting implementation from GrizzliusMaximus using shadow casting.
+- [Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) - Very fast dynamic 2D lighting implementation from GrizzliusMaximus using shadow casting.
 
 - [3D Fragment Point Lights](https://danieldavis.itch.io/ddg-point-light-shader-system) - 3D point lights using shaders. 💸
 
@@ -346,7 +347,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [TransFX](https://short-bread.itch.io/transfx) - Transition Library.
 
-- [BJRTFX](https://zikbakguru.itch.io/bjrtfx) - Zik's CRT Utility Shader
+- [BJRTFX](https://zikbakguru.itch.io/bjrtfx) - Zik's CRT Utility Shader.
 
 - [bktGlitch](https://odditica.itch.io/bktglitch) - Glitch shader.
 
@@ -376,9 +377,9 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [Xpanda](https://github.com/GameMakerDiscord/Xpanda) - Include code from external files in your shaders.
 
-- [Shader Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=ch4BYqkL1w8&list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P) - Gaming Reverends.
+- [Shader Tutorials](https://www.youtube.com/watch?v=ch4BYqkL1w8&list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P) - Gaming Reverends.
 
-- [Shader Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa) - DragoniteSpam.
+- [Shader Tutorials](https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa) - DragoniteSpam.
 
 ## 3D
 
@@ -400,15 +401,15 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [Terrain Editor](https://dragonite.itch.io/terrain) - Terrain editor. Exports to gm models, obj, or vertex buffers.
 
-- [Cardboard](https://github.com/JujuAdams/Cardboard) - Isometric 3D Renderer
+- [Cardboard](https://github.com/JujuAdams/Cardboard) - Isometric 3D Renderer.
 
 - [Snowy Snow](https://dragonite.itch.io/snowy-snow) - 3D Snow Shader.
 
-- [3D GameMaker Playlist ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V) - DragoniteSpam.
+- [3D GameMaker Playlist](https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V) - DragoniteSpam.
 
-- [3D Collisions Playlist ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC) - DragoniteSpam.
+- [3D Collisions Playlist](https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC) - DragoniteSpam.
 
-- [3D Optimization Playlist ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) - DragoniteSpam.
+- [3D Optimization Playlist](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) - DragoniteSpam.
 
 ## Sprite Stacking
 
@@ -416,7 +417,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [Fauxton3D](https://gizmo199.itch.io/fauxton3d) - Sprite stacking engine.
 
-- [Sprite Stacking Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=VIDN-nG3EOU&list=PL3Kbpztq9qwT9MbW_k4yyJU__or1r8P2j) - Gizmo199.
+- [Sprite Stacking Tutorials](https://www.youtube.com/watch?v=VIDN-nG3EOU&list=PL3Kbpztq9qwT9MbW_k4yyJU__or1r8P2j) - Gizmo199.
 
 ## Networking
 
@@ -434,7 +435,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [GMNest](https://github.com/TimVN/GMNest) - Socket.IO extension for HTML5 games.
 
-- [Multiplayer Networking Tutorial ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626) - Wizirdi
+- [Multiplayer Networking Tutorial](https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626) - Wizirdi
 
 ## Integrations
 
@@ -466,9 +467,9 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 ## Sequences
 
-- [Sequences Tutorial ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=WO6gzhrx5b8) - Shaun Spalding.
+- [Sequences Tutorial](https://www.youtube.com/watch?v=WO6gzhrx5b8) - Shaun Spalding.
 
-- [Making Splash Screen Sequences ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=hTh5UpFxx1E) - Mash Arcade.
+- [Making Splash Screen Sequences](https://www.youtube.com/watch?v=hTh5UpFxx1E) - Mash Arcade.
 
 ## State Machines
 
@@ -532,13 +533,13 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [GameMaker Discord Community GitHub](https://github.com/GameMakerDiscord) - Have you made a gamemaker tool you want to share? Consider submitting it to the official Discord's GitHub.
 
-- [Source Control with Git & GameMaker ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=UZG-P68xWio&list=PLSFMekK0JFgzmyDxVxj5Cctafu5UX_vUC) - FriendlyCosmonaut.
+- [Source Control with Git & GameMaker](https://www.youtube.com/watch?v=UZG-P68xWio&list=PLSFMekK0JFgzmyDxVxj5Cctafu5UX_vUC) - FriendlyCosmonaut.
 
 - [Game Resolution & Aspect Ratio Management](https://www.youtube.com/watch?v=_g1LQ6aIJFk&list=PLXkVsacazW2qvdnKNzgBLkUwlgi3FU-VO) - PixelatedPope.
 
 - [Setting up a Virtual Machine for GameMaker](https://www.youtube.com/watch?v=cK5k1_zN4eM) - MicahTheManiac.
 
-- [Making Attacks Feel Good ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish.
+- [Making Attacks Feel Good](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish.
 
 ## Blogs
 
@@ -584,6 +585,10 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/gamemaker/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gamemaker)
 
+## Special Thanks
+
+JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick Ver Voort, PixelatedPope, Tony Strømsnæs, HeartBeast, Xor, Gaming Reverends, Matharoo, YellowAfterlife, Gizmo199, Avis, Josh Wilson, Lojemiru
+
 ## Footnotes
 
 This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) and from Gleb Tsereteli's [Google Doc](https://docs.google.com/document/d/1wUm8FZPm8AKLZgC-P76TPJAMXs0EN2s5mJGvvUFwycw/edit). I just categorized it and added some additional links/details. If you need more general game development resources, check out [Awesome Gamedev](https://notabug.org/Calinou/awesome-gamedev) or [MagicTools](https://github.com/ellisonleao/magictools#readme).
@@ -593,9 +598,5 @@ This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunc
 ## Contributing
 
 Have something awesome to share? Check out the [Contributing Guidelines](https://github.com/bytecauldron/awesome-gamemaker/blob/main/CONTRIBUTING.md).
-
-## Special Thanks
-
-JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick Ver Voort, PixelatedPope, Tony Strømsnæs, HeartBeast, Xor, Gaming Reverends, Matharoo, YellowAfterlife, Gizmo199, Avis, Josh Wilson, Lojemiru
 
 ![Keybindings](https://github.com/bytecauldron/awesome-gamemaker/raw/main/images/keybindings.png)
