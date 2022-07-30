@@ -3,51 +3,61 @@
 </p>
 
 # Awesome GameMaker [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Made with GameMaker](https://img.shields.io/badge/Made%20with-GameMaker-000000.svg?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC)](https://www.yoyogames.com/gamemaker)
+
 An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker Studio. 😎
 
 ## Contents
 
-  - [🔥 Getting Started](#getting-started)
-  - [🛠️ Utilities](#utilities)
-  - [🐛 Debugging](#debugging)
-  - [🕹️ Input Handling](#input-handling)
-  - [📜 User Interface](#user-interface)
-  - [💬 Localization](#localization)
-  - [☄️ Physics](#physics)
-  - [👾 Sprites](#sprites)
-  - [🎵 Audio](#audio)
-  - [🏔️ Levels](#levels)
-  - [✨ Particles](#particles)
-  - [💡 Lighting](#lighting)
-  - [💎 Shaders](#shaders)
-  - [👽 3D](#3d)
-  - [⏫ Sprite Stacking](#sprite-stacking)
-  - [🌐 Networking](#networking)
-  - [🔌 Integrations](#integrations)
-  - [🎥 Camera](#camera)
-  - [⏰ Sequences](#sequences)
-  - [🧠 State Machines](#state-machines)
-  - [🧭 Pathing](#pathing)
-  - [⚗️ Useful Extras](#useful-extras)
-  - [📝 Blogs](#blogs)
-  - [📺 YouTube](#youtube)
-  - [🌎 Community](#community)
+- [Getting Started](#getting-started)
+- [Utilities](#utilities)
+- [Debugging](#debugging)
+- [Input Handling](#input-handling)
+- [User Interface](#user-interface)
+- [Localization](#localization)
+- [Physics](#physics)
+- [Sprites](#sprites)
+- [Audio](#audio)
+- [Levels](#levels)
+- [Particles](#particles)
+- [Lighting](#lighting)
+- [Shaders](#shaders)
+- [3D](#3d)
+- [Sprite Stacking](#sprite-stacking)
+- [Networking](#networking)
+- [Integrations](#integrations)
+- [Camera](#camera)
+- [Sequences](#sequences)
+- [State Machines](#state-machines)
+- [Pathing](#pathing)
+- [Useful Extras](#useful-extras)
+- [Blogs](#blogs)
+- [YouTube](#youtube)
+- [Community](#community)
 
 ## Getting Started
 
 - [GameMaker Manual](https://manual.yoyogames.com/#t=Content.htm)
+
 - [GameMaker Release Notes](https://gms.yoyogames.com/ReleaseNotes.html)
+
 - [GameMaker Marketplace](https://marketplace.yoyogames.com/)
-- [Beginner GameMaker Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP) - Tutorials from Shaun Spalding. A comprehensive introduction to basic features of the IDE. Highly recommended to check out the full playlist if you're a complete beginner.
-- [Advanced GameMaker Tutorials ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=n8-MuIuOQFE&list=PL_hT--4HOvrfuDcYrTufdpgwoALAczPR2) - DragoniteSpam's tutorials dive into more advanced topics related to the GML language. They also have comprehensive 3D and shader introduction videos.
+
+- [Beginner GameMaker Tutorials](https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP) - Tutorials from Shaun Spalding. A comprehensive introduction to basic features of the IDE. Highly recommended to check out the full playlist if you're a complete beginner.
+
+- [Advanced GameMaker Tutorials](https://www.youtube.com/watch?v=n8-MuIuOQFE&list=PL_hT--4HOvrfuDcYrTufdpgwoALAczPR2) - DragoniteSpam's tutorials dive into more advanced topics related to the GML language. They also have comprehensive 3D and shader introduction videos.
 
 ### General Recommendations
 
 - Avoid the GameMaker Visual (Drag and Drop) feature. Learn the GameMaker Language (GML) instead.
+
 - The native sprite editor is not very robust. Try [AESprite](https://www.aseprite.org/)💸.
+
 - Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
+
 - Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
+
 - Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
+
 - Schedule routine backups for projects. If you are dealing with larger media files in your repo, try [Git LFS](https://git-lfs.github.com/).
 
 ## Utilities
@@ -144,9 +154,9 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [Autoframer](https://github.com/mstop4/auto-framer) - Automatically handles resizing the game view across different display and window sizes.
 
-- [GML+](https://xgasoft.itch.io/gmlp)💸 - a script collection with a goal to "fill the gaps" in GML.
+- [GML+](https://xgasoft.itch.io/gmlp) - a script collection with a goal to "fill the gaps" in GML. 💸
 
-- [GMLive](https://yellowafterlife.itch.io/gamemaker-live)💸 - Livecoding / interactive programming.
+- [GMLive](https://yellowafterlife.itch.io/gamemaker-live) - Livecoding / interactive programming. 💸
 
 - [GMEdit](https://github.com/YellowAfterlife/GMEdit) - Code editor to use in conjunction with GameMaker.
 
@@ -186,13 +196,13 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [Mouse Queue](https://github.com/YAL-GameMaker/window_mouse_queue) - Tracks the Windows mouse pointer with high precision.
 
-- [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors)💸 - System-level custom cursors.
+- [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) - System-level custom cursors. 💸
 
 ## User Interface
 
 - [Scribble](https://github.com/JujuAdams/scribble) - Efficient multi-effects text renderer.
 
-- [Scripture](https://pixelatedpope.itch.io/scripture)💸 - Another easy to use, highly compatible text renderer.
+- [Scripture](https://pixelatedpope.itch.io/scripture) - Another easy to use, highly compatible text renderer. 💸
 
 - [Chatterbox](https://github.com/JujuAdams/chatterbox) - Narrative scripting tool.
 
@@ -220,7 +230,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [Pause Menu](https://jasontomlee.itch.io/pause-menu-gamemaker-1-2) - Another smaller implementation but has a cool animation between menu options.
 
-- [Shampoo](https://zackbanack.itch.io/shampoo)💸 - GUIs using a markup-like language.
+- [Shampoo](https://zackbanack.itch.io/shampoo) - GUIs using a markup-like language. 💸
 
 - [Magpie](https://dragonite.itch.io/magpie) - Generic Inventory System.
 
@@ -260,7 +270,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) - Verlet integration example used for visuals.
 
-- [Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles)💸 - Robust object-based collision system from the pope.
+- [Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles) - Robust object-based collision system from the pope. 💸
 
 ## Sprites
 
@@ -330,7 +340,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [Lighting Systems ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) - Very fast dynamic 2D lighting implementation from GrizzliusMaximus using shadow casting.
 
-- [3D Fragment Point Lights](https://danieldavis.itch.io/ddg-point-light-shader-system)💸 - 3D point lights using shaders.
+- [3D Fragment Point Lights](https://danieldavis.itch.io/ddg-point-light-shader-system) - 3D point lights using shaders. 💸
 
 ## Shaders
 
@@ -410,7 +420,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 ## Networking
 
-- [Warp](https://github.com/evolutionleo/Warp) - A feature-rich framework for multiplayer games, written in GMS and NodeJS.
+- [Warp](https://github.com/evolutionleo/Warp) - A feature-rich framework for multiplayer games, written in GameMaker and Node.js.
 
 - [EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) - Host/client implementation with a chat feature.
 
@@ -452,7 +462,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [Dynamic Splitscreen](https://maddestudios.itch.io/gms2-project-dynamic-splitscreen) - Local multiplayer split screen implementation that merges the camera when players are close.
 
-- [Camera All-In-One](https://jasontomlee.itch.io/allinone-camera)💸 - Editor, screenshake, view-resizing, follow modes, screen effects, etc.
+- [Camera All-In-One](https://jasontomlee.itch.io/allinone-camera) - Editor, screenshake, view-resizing, follow modes, screen effects, etc. 💸
 
 ## Sequences
 
@@ -466,7 +476,7 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [wFSM](https://mors-games.itch.io/wfsm) - Another Easy-to-use Finite State Machine library.
 
-- [True State](https://pixelatedpope.itch.io/truestate)💸 - Feature-rich finite state machine to handle complex objects.
+- [True State](https://pixelatedpope.itch.io/truestate) - Feature-rich finite state machine to handle complex objects. 💸
 
 - [Pinocchio](https://github.com/JujuAdams/Pinocchio) - State-based animation system.
 
@@ -520,13 +530,13 @@ An awesome list of 100+ libraries, snippets, guides, and projects for GameMaker 
 
 - [GameMaker Repo Badges](https://github.com/matthiaszarzecki/MadeWithGameMakerStudioBadges) - Fancy badges to add to your README files.
 
-- [GameMaker Discord Community Github](https://github.com/GameMakerDiscord) - Have you made a gamemaker tool you want to share? Consider submitting it to the official Discord's GitHub.
+- [GameMaker Discord Community GitHub](https://github.com/GameMakerDiscord) - Have you made a gamemaker tool you want to share? Consider submitting it to the official Discord's GitHub.
 
 - [Source Control with Git & GameMaker ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=UZG-P68xWio&list=PLSFMekK0JFgzmyDxVxj5Cctafu5UX_vUC) - FriendlyCosmonaut.
 
-- [Game Resolution & Aspect Ratio Management ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=_g1LQ6aIJFk&list=PLXkVsacazW2qvdnKNzgBLkUwlgi3FU-VO) - PixelatedPope.
+- [Game Resolution & Aspect Ratio Management](https://www.youtube.com/watch?v=_g1LQ6aIJFk&list=PLXkVsacazW2qvdnKNzgBLkUwlgi3FU-VO) - PixelatedPope.
 
-- [Setting up a Virtual Machine for GameMaker ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=cK5k1_zN4eM) - MicahTheManiac.
+- [Setting up a Virtual Machine for GameMaker](https://www.youtube.com/watch?v=cK5k1_zN4eM) - MicahTheManiac.
 
 - [Making Attacks Feel Good ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish.
 
