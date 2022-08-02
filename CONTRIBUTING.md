@@ -5,20 +5,24 @@ Thank you for showing interest in contributing to this list! Before submitting n
 ## Pull Requests
 
 - New links **need to be related to the latest GameMaker version in some reasonable way.** This includes compatible libraries, guides, blog posts, etc.
-- Avoid GMS1-exclusive content.
+- Avoid GMS1-exclusive (or pre-2.3) content.
+- Avoid asset packs for sprites and audio. Typically, most assets are GameMaker-agnostic and do not need to be on this list.
 - For extensions or GameMaker projects, please link an official Itch.io or repository (Github/Gitlab/etc). (For example, avoid project dumps on Google Drive that have zero version control.)
-- Make sure it isn't a duplicate.
+- Make sure it isn't already on the list.
 - [Optional] If you are releasing an library/extension, It's recommend to build an importable `.yymps` file and keep everything in one folder if possible.
+- Provide a succinct description for each linked resource.
 
-1. Place your link(s) at the bottom of the respective category it belongs to. (If you are unsure, place it in `Useful Extras`.)
+1. Fork a new branch of the repo.
 
-2. Specify if it's a paid asset by including 💸.
+2. **Place your link(s) at the bottom of the respective category it belongs to.** (If you are unsure, place it in `Useful Extras`.)
 
-3. Include the following format:
+3. Specify if it's a paid asset by including 💸 at the end of your link.
+
+4. Include the following format:
    
    `- [Awesome Example](https://github.com/username/gamemaker_library)💸 - A short description.`
 
-4. Submit the pull request.
+5. Submit the pull request to merge back to `main`.
 
 ## Creating Issues
 
