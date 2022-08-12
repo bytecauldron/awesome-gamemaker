@@ -165,6 +165,8 @@
 
 - [Rubber](https://github.com/GameMakerDiscord/Rubber) - Compile GameMaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
 
+- [gml-highscorer](https://github.com/Grisgram/gml-highscorer) - Highscore and trophy system.
+
 ## Debugging
 
 - [rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc.
@@ -283,6 +285,8 @@
 
 - [ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
 
+- [conveyorbelt](https://github.com/imissmyfriends/conveyorbelt) - Similar to ASESync. Export Aesprite files to GameMaker sprites.
+
 ## Audio
 
 - [FMODGMS](https://github.com/mstop4/FMODGMS) - Supposedly this doesn't support everything FMOD has to offer and the project itself has been put on-hold. Keep in mind that GameMaker may be getting native FMOD support soon.
@@ -298,6 +302,8 @@
 - [audioExt](https://github.com/tabularelf/audioExt) - Sound External Loader/Unloader Manager.
 
 - [ExternalAudio](https://github.com/NuxiiGit/ExternalAudio) - Load external .wav files at runtime.
+
+- [Phonix](https://github.com/Andre-404/Phonix/) - Compact audio system. Great for dynamic music!
 
 ## Levels
 
@@ -323,6 +329,8 @@
 
 ## Particles
 
+- [Particle Editor](https://gamemakercasts.itch.io/particle-editor) - Create particles with an easy UI and export into GML code.
+
 - [Particles Wrapper](https://github.com/GamemakerCasts/particles) - A simplistic particle system wrapper that is designed to make creating particles fun and easy.
 
 - [Advanced Particles](https://limekys.itch.io/advanced-particle-system) - A particle implementation that comes with it's own delta timing methods.
@@ -342,6 +350,8 @@
 ## Shaders
 
 - [TransFX](https://short-bread.itch.io/transfx) - Transition Library.
+
+- [Post Processing Effects](https://foxyofjungle.itch.io/post-processing-fx) - 36 high-quality, customizable effects 💸
 
 - [BJRTFX](https://zikbakguru.itch.io/bjrtfx) - Zik's CRT Utility Shader.
 
@@ -443,6 +453,8 @@
 
 - [Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) - Various expansions to Steamworks SDK support in GameMaker: Studio.
 
+- [Parworks](https://github.com/nkrapivin/Parworks) - Additional functionality for the YYG Steamworks extension.
+
 - [GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) - A native extension for GOG.com SDK support.
 
 - [GMTwitch](https://github.com/GameMakerDiscord/GMTwitch) - Twitch integration.
@@ -468,6 +480,8 @@
 ## State Machines
 
 - [SnowState](https://github.com/sohomsahaun/SnowState) - Robust finite state machine.
+
+- [FastSM](https://github.com/JulianDicken/FastSM) - Lightweight alternative to SnowState.
 
 - [wFSM](https://mors-games.itch.io/wfsm) - Another Easy-to-use Finite State Machine library.
 
@@ -515,7 +529,9 @@
 
 - [obj_podcast](https://objpodcast.com/) - Gamedev-centered podcast featuring members of the GameMaker community.
 
-- [Dracula Theme](https://github.com/dracula/gamemaker-studio) - Dark theme for the IDE.
+- [Dracula Theme](https://github.com/dracula/gamemaker-studio) - A dark theme for the IDE.
+
+- [Gruvbox Theme](https://github.com/heygleeson/Gruvbox-GMTheme) - A retro groove theme for the IDE.
 
 - [2.3 Syntax in Detail](https://yal.cc/gamemaker-2-3-syntax-in-details/) - A full guide of the syntax features/changes in GML from Yal.
 
