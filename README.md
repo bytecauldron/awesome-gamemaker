@@ -139,6 +139,8 @@
 
 - [Cottonwool](https://github.com/JujuAdams/Cottonwool) - Safe surfaces without memory leaks.
 
+- [Canvas](https://github.com/tabularelf/Canvas) - Another great solution for surface management.
+
 - [zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) - Simple compression/decompression functions.
 
 - [Window Taskbar](https://yellowafterlife.itch.io/gamemaker-window-taskbar) - Windows only. Flash the game window border and/or its taskbar button.
@@ -287,6 +289,8 @@
 
 - [conveyorbelt](https://github.com/imissmyfriends/conveyorbelt) - Similar to ASESync. Export Aesprite files to GameMaker sprites.
 
+- [Collage](https://github.com/tabularelf/Collage) - Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility.
+
 ## Audio
 
 - [FMODGMS](https://github.com/mstop4/FMODGMS) - Supposedly this doesn't support everything FMOD has to offer and the project itself has been put on-hold. Keep in mind that GameMaker may be getting native FMOD support soon.
@@ -371,6 +375,8 @@
 
 - [Dual-Kawase](https://github.com/XorDev/Dual-Kawase/wiki) - Blur Shader that limits radius but is very efficient.
 
+- [Xor's Halftone](https://xordev.itch.io/halftone) - A wonderful, versitile halftone shader. Lots of tweakable settings.
+
 - [Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels) - Sampled pixels on a Voronoi diagram.
 
 - [Fire-Fun](https://github.com/XorDev/Fire-Fun/wiki) - Some fun magic fireballs.
@@ -383,11 +389,15 @@
 
 - [Xpanda](https://github.com/GameMakerDiscord/Xpanda) - Include code from external files in your shaders.
 
+- [Shadertoy to GameMaker](https://iarri.github.io/Shadertoy2GM/) - Convert shadertoy.com GLSL shaders to run in GameMaker.
+
 - [Shader Tutorials](https://www.youtube.com/watch?v=ch4BYqkL1w8&list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P) - Gaming Reverends. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
 - [Shader Tutorials](https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
 ## 3D
+
+- [3D-2D](https://github.com/YoYoGames/3D-2D) - Official tool to turn 3D models into 2D sprites.
 
 - [BBMOD](https://github.com/blueburn-cz/BBMOD) - 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more.
 
