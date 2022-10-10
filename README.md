@@ -245,6 +245,8 @@
 
 - [RTS Selection Tool](https://gentoogames.itch.io/rts-selection-tool) - Mouse dragging feature to select pawns in an real-time strategy game.
 
+- [zitk](https://github.com/TandyRum1024/zitk) - Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on.
+
 ## Localization
 
 - [polyglot](https://github.com/daikon-games/polyglot) - Localization library.
@@ -411,6 +413,8 @@
 
 - [Blender to GameMaker](https://github.cm/blender-to-gmstudio) - A collection of scripts to export and import Blender models to and from GameMaker.
 
+- [Penguin](https://dragonite.itch.io/penguin) - 3D model conversion tool.
+
 - [Three Mice In a Trench Coat](https://github.com/XorDev/ThreeMiceInaTrenchcoat) - Source for a GameMaker 3D game.
 
 - [sPart](https://marketplace.yoyogames.com/assets/7299/spart-3d-particle-system) - 3D Particle System from TheSnidr.
@@ -448,6 +452,8 @@
 - [HTTP GML](https://github.com/Sidorakh/http.gml) - Recieve GET requests and upload files in GML.
 
 - [GMNest](https://github.com/TimVN/GMNest) - Socket.IO extension for HTML5 games.
+
+- [MultiClient](https://github.com/tabularelf/MultiClient) - Non-dll, multiple client launcher for network development.
 
 - [Multiplayer Networking Tutorial](https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626) - Wizirdi. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
