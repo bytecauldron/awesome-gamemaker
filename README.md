@@ -73,6 +73,8 @@
 
 - [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor.
 
+- [handytools](https://github.com/JujuAdams/handytools/) - A collection of Juju's libraries in one convenient project.
+
 - [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library.
 
 - [Stopwatch](https://github.com/Lojemiru/Stopwatch) - GameMaker alarm replacement.
@@ -168,6 +170,8 @@
 - [Rubber](https://github.com/GameMakerDiscord/Rubber) - Compile GameMaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
 
 - [gml-highscorer](https://github.com/Grisgram/gml-highscorer) - Highscore and trophy system.
+
+- [SSave](https://github.com/stoozey/SSave) - Simple file saving system.
 
 ## Debugging
 
@@ -568,6 +572,8 @@
 - [Making Attacks Feel Good](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
 - [vim-GML](https://github.com/JafarDakhan/vim-gml) - High quality Vim syntax highlighting for GameMaker.
+
+- [List of GameMaker Games](https://steamdb.info/tech/Engine/GameMaker/) - A list of published Steam games using GameMaker.
 
 ## Blogs
 
