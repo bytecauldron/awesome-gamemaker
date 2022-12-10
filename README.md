@@ -51,7 +51,7 @@
 
 - If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 
-- [AESprite](https://www.aseprite.org/)💸 is a popular alternative to the native sprite editor.
+- [AESprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
 
 - Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 
@@ -363,7 +363,7 @@
 
 - [TransFX](https://short-bread.itch.io/transfx) - Transition Library.
 
-- [Post Processing Effects](https://foxyofjungle.itch.io/post-processing-fx) - 36 high-quality, customizable effects 💸
+- [Post Processing Effects](https://foxyofjungle.itch.io/post-processing-fx) - 36 high-quality, customizable effects. 💸
 
 - [BJRTFX](https://zikbakguru.itch.io/bjrtfx) - Zik's CRT Utility Shader.
 
