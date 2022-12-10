@@ -51,7 +51,7 @@
 
 - If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 
-- [AESprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
+- For pixel art, [AESprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
 
 - Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 
