@@ -71,7 +71,6 @@
 - [Polarca](https://github.com/VitorEstevam/polarca) - Interpolation functions.
 - [Twerp](https://pixelatedpope.itch.io/twerp) - Easing function similar to lerp().
 - [Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker.
-- [gm-cadence](https://github.com/daikon-games/gm-cadence) - Schedule code to run at certain times and for certain durations, similar to Coroutines.
 - [GML-OOP](https://github.com/Mtax-Development/GML-OOP) - A constructor library for operating the primary functionalities of GameMaker.
 - [GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) - Another project that adds OOP functionality to GameMaker.
 - [Map](https://github.com/GameMakerDiscord/Map.gml) - Hash table implementations.
@@ -84,7 +83,7 @@
 - [LWO](https://github.com/tabularelf/lwo) - Lightweight objects using structs.
 - [Gumshoe](https://github.com/JujuAdams/Gumshoe) - Simple deep file search function.
 - [Lock And Key](https://github.com/AlubJ/Lock-And-Key) - String and file encryption.
-- [Mathematical Scripts](https://adam-rumpf.itch.io/gamemaker-studio-2-mathematical-scripts) - A collection of math scripts.
+- [Mathematical Scripts](https://github.com/adam-rumpf/game-maker-scripts) - A collection of math scripts.
 - [Seedpod](https://github.com/daikon-games/gm-seedpod) - A collection of scripts to improve the GML programming experience.
 - [Trixscript](https://trixelized.itch.io/trixscript) - Juices up your game with useful functions.
 - [CoreExtension](https://github.com/blueburncz/CoreExtension) - A collection of CC0 programming libraries.
@@ -99,7 +98,6 @@
 - [GMSDLL](https://github.com/YAL-GameMaker/GMSDLL) - A template project for building DLLs for GameMaker.
 - [Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection) - A suite of various extensions.
 - [GMLodash](https://github.com/DatZach/GMLodash) - Functional programming in GML.
-- [GML-Prelude](https://github.com/NuxiiGit/gml-prelude) - Another functional programming library for GML.
 - [Wraptor](https://github.com/Gizmo199/Wraptor) - A library of wrapper functions.
 - [Autoframer](https://github.com/mstop4/auto-framer) - Automatically handles resizing the game view across different display and window sizes.
 - [gameframe](https://github.com/YAL-GameMaker/gameframe) - Custom window caption and border for Windows.
@@ -205,7 +203,6 @@
 - [Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Collects room data and stores it into a JSON for later use. 
 - [Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) - Combines user-defined chambers to create a dungeon.
 - [Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2) - A random level generation example (similar to Nuclear Throne) using GameMaker.
-- [World Generator](https://github.com/kirillzhosul/world-generation) - 2D "Top Down" world generation / visualization.
 - [Wave Function Collapse](https://quadolorgames.itch.io/wfc-gml-demo) - Generates a random tile map but not production ready in its current state.
 - [Draw A Dungeon](https://gentoogames.itch.io/draw-a-dungeon-gamemaker) - Converts your room layouts into a randomized dungeon.
 - [Destructible Terrain](https://github.com/niksudan/gms2-destructible-terrain) - An example of collidable, destructible terrain in GameMaker Studio using surfaces and grids.
@@ -223,7 +220,6 @@
 - [Lighting System 2D](https://github.com/borup3/Lighting-System-2D) - Requires GameMaker 2.2+ according to the repo.
 - [GameMaker Lighting Engine](https://github.com/bilouw/Gamemaker-Lighting-Engine) - Tile-based Lighting Engine that projects shadows.
 - [Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) - Very fast dynamic 2D lighting implementation from GrizzliusMaximus using shadow casting. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-- [3D Fragment Point Lights](https://danieldavis.itch.io/ddg-point-light-shader-system) - 3D point lights using shaders. 💸
 
 ## Shaders
 
@@ -265,6 +261,7 @@
 - [Terrain Editor](https://dragonite.itch.io/terrain) - Terrain editor. Exports to gm models, obj, or vertex buffers.
 - [Cardboard](https://github.com/JujuAdams/Cardboard) - Isometric 3D Renderer.
 - [Snowy Snow](https://dragonite.itch.io/snowy-snow) - 3D Snow Shader.
+- [3D Fragment Point Lights](https://danieldavis.itch.io/ddg-point-light-shader-system) - 3D point lights using shaders. 💸
 - [3D GameMaker Playlist](https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [3D Collisions Playlist](https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [3D Optimization Playlist](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
@@ -360,7 +357,7 @@
 
 - [RefresherTowel](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
 - [Tony Str](https://tonystr.net/articles) - Some great articles on working with json, regular expressions, and drawing circles in gml.
-- [Katsaii](https://nuxiigit.github.io/content/blog/posts.html) - Some articles on more advanced gml topics.
+- [Katsaii](https://www.katsaii.com/content/blog/posts.html) - Some articles on more advanced gml topics.
 
 ## YouTube
 
