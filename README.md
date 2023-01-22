@@ -57,7 +57,6 @@
 - [gm-core](https://github.com/gm-core) - Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.
 - [FAST](https://github.com/Hyomoto/FAST) - Flexible Assistant Toolkit. Similar to gm-core but comes with input and resolution handling.
 - [Stitch](https://www.npmjs.com/package/@bscotch/stitch) - Pipeline Development Kit. Includes cross-project imports, batch-creating/updating sprites and sounds, texture page management, and more. Tested on Windows only.
-- [Outside the Box](https://rousr.itch.io/outsidethebox) - More system-level utility tools. Includes saving/loading files outside of the GameMaker sandbox, toggling borderless/windowed modes at runtime, and querying detailed memory usage information.
 - [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor.
 - [handytools](https://github.com/JujuAdams/handytools/) - A collection of Juju's libraries in one convenient project.
 - [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library.
@@ -188,10 +187,8 @@
 ## Audio
 
 - [FMODGMS](https://github.com/mstop4/FMODGMS) - Supposedly this doesn't support everything FMOD has to offer and the project itself has been put on-hold.
-- [WWiseGMS2](https://github.com/alessandrofama/wwise-gms2) - Bindings for the WWise API. Windows only.
 - [Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2) - Optimized delay effect. 💸
 - [wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
-- [SoLoud](https://github.com/jarikomppa/soloud) - Portable audio engine that "can" work with GMS with some limitations. See [here.](http://sol.gfxile.net/soloud/gamemaker_api.html)
 - [audioExt](https://github.com/tabularelf/audioExt) - Sound External Loader/Unloader Manager.
 - [ExternalAudio](https://github.com/NuxiiGit/ExternalAudio) - Load external .wav files at runtime.
 - [Phonix](https://github.com/Andre-404/Phonix/) - Compact audio system. Great for dynamic music!
@@ -288,7 +285,6 @@
 - [DHook](https://github.com/tabularelf/DHook) - Discord integration.
 - [GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) - Another Discord integration.
 - [NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) - Oops, all Discord integration.
-- [Dissonance](https://rousr.itch.io/dissonance) - Knock knock. Who's there? Discord integration.
 - [Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) - Various expansions to Steamworks SDK support in GameMaker: Studio.
 - [Parworks](https://github.com/nkrapivin/Parworks) - Additional functionality for the YYG Steamworks extension.
 - [GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) - A native extension for GOG.com SDK support.
@@ -352,6 +348,7 @@
 - [Making Attacks Feel Good](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [vim-GML](https://github.com/JafarDakhan/vim-gml) - High quality Vim syntax highlighting for GameMaker.
 - [List of GameMaker Games](https://steamdb.info/tech/Engine/GameMaker/) - A list of published Steam games using GameMaker.
+- [Rousr Release](https://gitlab.com/rousr-release/) - Unmaintained projects from the Rousr team (in case anyone asks where OutsideTheBox/Dissonance went).
 
 ## Blogs
 
