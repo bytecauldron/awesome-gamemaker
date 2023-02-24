@@ -6,7 +6,7 @@
 
 > A curated list of awesome libraries, snippets, guides, and projects for GameMaker. 😎
 
-GameMaker is a user-friendly, cross-platform game engine by YoYo Games that allows both beginner and advanced game developers to create 2D and 3D games for desktop, HTML5, and console platforms.
+[GameMaker](https://gamemaker.io/) is a user-friendly, cross-platform game engine by YoYo Games that allows both beginner and advanced game developers to create 2D and 3D games for desktop, HTML5, and console platforms.
 
 ## Contents
 
