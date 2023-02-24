@@ -6,6 +6,8 @@
 
 > A curated list of awesome libraries, snippets, guides, and projects for GameMaker. 😎
 
+GameMaker is a user-friendly, cross-platform game engine by YoYo Games that allows both beginner and advanced game developers to create 2D and 3D games for desktop, HTML5, and console platforms.
+
 ## Contents
 
 - [Getting Started](#getting-started)
@@ -109,6 +111,7 @@
 - [SSave](https://github.com/stoozey/SSave) - Simple file saving system.
 - [GMD3D11](https://github.com/blueburncz/GMD3D11) - A DLL for interfacing with Windows Direct3D.
 - [GMTimeLine](https://github.com/TimVN/GMTimeLine) - A pure code alternative to GameMaker timelines.
+- [Catspeak](https://github.com/katsaii/catspeak-lang) - Cross-platform programming language for modding support.
 
 ## Debugging
 
@@ -192,6 +195,7 @@
 - [audioExt](https://github.com/tabularelf/audioExt) - Sound External Loader/Unloader Manager.
 - [ExternalAudio](https://github.com/NuxiiGit/ExternalAudio) - Load external .wav files at runtime.
 - [Phonix](https://github.com/Andre-404/Phonix/) - Compact audio system. Great for dynamic music!
+- [Vinyl](https://github.com/JujuAdams/Vinyl) - Live updating audio system.
 
 ## Levels
 
