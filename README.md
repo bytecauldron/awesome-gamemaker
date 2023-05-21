@@ -61,6 +61,7 @@
 - [Stitch](https://www.npmjs.com/package/@bscotch/stitch) - Pipeline Development Kit. Includes cross-project imports, batch-creating/updating sprites and sounds, texture page management, and more. Tested on Windows only.
 - [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor.
 - [handytools](https://github.com/JujuAdams/handytools/) - A collection of Juju's libraries in one convenient project.
+- [GameMaker Scaffolding](https://github.com/babaganosch/GameMakerScaffolding) - Another cool all-encompassing template with a focus on building low-res, tile-based games.
 - [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library.
 - [Stopwatch](https://github.com/Lojemiru/Stopwatch) - GameMaker alarm replacement.
 - [wTimer](https://mors-games.itch.io/wtimer) - Robust alternative for alarms.
@@ -112,6 +113,8 @@
 - [GMD3D11](https://github.com/blueburncz/GMD3D11) - A DLL for interfacing with Windows Direct3D.
 - [GMTimeLine](https://github.com/TimVN/GMTimeLine) - A pure code alternative to GameMaker timelines.
 - [Catspeak](https://github.com/katsaii/catspeak-lang) - Cross-platform programming language for modding support.
+- [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
+- [Agenda](https://github.com/benal20/Agenda.gml) - Schedule and delay the execution of callbacks.
 
 ## Debugging
 
@@ -157,6 +160,7 @@
 - [Smart Clickable GUI](https://www.youtube.com/watch?v=RbBgE3cUShc) - PixelatedPope. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [RTS Selection Tool](https://gentoogames.itch.io/rts-selection-tool) - Mouse dragging feature to select pawns in an real-time strategy game.
 - [zitk](https://github.com/TandyRum1024/zitk) - Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on.
+- [gooey](https://manta-ray.itch.io/gooey) - Sprite-based UI Library for GameMaker LTS.
 
 ## Localization
 
@@ -189,13 +193,16 @@
 
 ## Audio
 
-- [FMODGMS](https://github.com/mstop4/FMODGMS) - Supposedly this doesn't support everything FMOD has to offer and the project itself has been put on-hold.
+- [FML](https://github.com/Nikkilae/fml) - GameMaker bindings for the FMOD Studio API.
+- [FMODGMS](https://github.com/mstop4/FMODGMS) - This doesn't support everything FMOD has to offer and the project itself has been put on-hold.
 - [Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2) - Optimized delay effect. 💸
 - [wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
 - [audioExt](https://github.com/tabularelf/audioExt) - Sound External Loader/Unloader Manager.
 - [ExternalAudio](https://github.com/NuxiiGit/ExternalAudio) - Load external .wav files at runtime.
 - [Phonix](https://github.com/Andre-404/Phonix/) - Compact audio system. Great for dynamic music!
 - [Vinyl](https://github.com/JujuAdams/Vinyl) - Live updating audio system.
+- [LineAudio](https://github.com/WangleLine/LineAudio) - Audio helper functions.
+- [Bard](https://github.com/gl326/bard-audio) - An engine for desiging and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects.
 
 ## Levels
 
@@ -251,6 +258,7 @@
 - [3D-2D](https://github.com/YoYoGames/3D-2D) - Official tool to turn 3D models into 2D sprites.
 - [BBMOD](https://github.com/blueburn-cz/BBMOD) - 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more.
 - [ColMesh](https://forum.yoyogames.com/index.php?threads/colmesh-3d-collisions-made-easy.82765/) - 3D Collision Library from TheSnidr.
+- [BSP 4 GMS](https://cdlegasse.itch.io/ozarq-bsp-4-gms) - Import BSP files into GameMaker. Currently just a demo but worth keeping an eye on.
 - [dotobj](https://github.com/JujuAdams/dotobj) - Lightweight .obj/.mtl 3D model loader written in native GML.
 - [Bronze Box](https://github.com/cicadian/Bronze-Box) - Example of how to build 3D world models from a 2D grid.
 - [Camera3D](https://gizmo199.itch.io/camera3d) - Simple 3D camera setup.
@@ -283,6 +291,7 @@
 - [GMNest](https://github.com/TimVN/GMNest) - Socket.IO extension for HTML5 games.
 - [MultiClient](https://github.com/tabularelf/MultiClient) - Non-dll, multiple client launcher for network development.
 - [Multiplayer Networking Tutorial](https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626) - Wizirdi. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+- [Good GameMaker Rollback](https://springrollgames.itch.io/ggmr) - Rollback netcode library.
 
 ## Integrations
 
@@ -362,20 +371,20 @@
 
 ## YouTube
 
-- [Jordan Guillou](https://www.youtube.com/channel/UCBmOLRTaPrfOxnTqpCLrwdQ)
-- [DragoniteSpam](https://www.youtube.com/c/DragoniteSpam)
-- [Shaun Spalding](https://www.youtube.com/c/ShaunSpalding)
-- [FriendlyCosmonaut](https://www.youtube.com/c/FriendlyCosmonaut)
-- [PixelatedPope](https://www.youtube.com/c/PixelatedPope)
-- [Xor](https://www.youtube.com/c/XorDev)
-- [GamingEngineer](https://www.youtube.com/c/GamingEngineer)
-- [TheSnidr](https://www.youtube.com/c/TheSnidr)
-- [Peyton Burnham](https://www.youtube.com/channel/UCfh2Q3TsvlxM1S2GvXQ4eeQ)
-- [Gaming Reverends](https://www.youtube.com/channel/UC7fkptPD1FHQyDc9Fnm9S_A)
-- [Let's Learn This Together](https://www.youtube.com/c/LetsLearnThisTogether)
-- [Matharoo](https://www.youtube.com/c/GameMakerStationMatharoo)
-- [GravityShift Games](https://www.youtube.com/c/SlasherXGAMES/)
-- [Slyddar](https://www.youtube.com/c/Slyddar/)
+- [Jordan Guillou](https://www.youtube.com/channel/UCBmOLRTaPrfOxnTqpCLrwdQ) - Hobbyist indie dev with a few GameMaker-related tutorials.
+- [DragoniteSpam](https://www.youtube.com/c/DragoniteSpam) - Covers highly technical elements of GameMaker with a focus on 3D.
+- [Shaun Spalding](https://www.youtube.com/c/ShaunSpalding) - Previous community manager at YoYo Games. Has a wide variety of beginner-friendly GameMaker tutorials and helpful updates on new GameMaker features.
+- [FriendlyCosmonaut](https://www.youtube.com/c/FriendlyCosmonaut) - Great playlist on building a farming RPG in GameMaker with several other tutorials.
+- [PixelatedPope](https://www.youtube.com/c/PixelatedPope) - Guides on GameMaker resolution management, cameras, GUI, and more.
+- [Xor](https://www.youtube.com/c/XorDev) - Tons of shader demonstrations with a focus on 3D.
+- [GamingEngineer](https://www.youtube.com/c/GamingEngineer) - A GameMaker developer that has been in the community for many years. They have a wide variety videos showcasing what GameMaker is capable of, with a focus on 3D.
+- [TheSnidr](https://www.youtube.com/c/TheSnidr) - A lot of awesome 3D showcases and tutorials for GameMaker.
+- [Peyton Burnham](https://www.youtube.com/channel/UCfh2Q3TsvlxM1S2GvXQ4eeQ) - GameMaker tutorials for top-down shooters and RPGs.
+- [Gaming Reverends](https://www.youtube.com/channel/UC7fkptPD1FHQyDc9Fnm9S_A) - If you want to learn foundational material regarding GameMaker shaders, the "Shaders for Hobby-Programmers" playlist is definitely worth checking out.
+- [Let's Learn This Together](https://www.youtube.com/c/LetsLearnThisTogether) - Small indie dev company with a focus on providing GameMaker guides.
+- [Matharoo](https://www.youtube.com/c/GameMakerStationMatharoo) - Tons of free GameMaker tutorials and news about GameMaker.
+- [GravityShift Games](https://www.youtube.com/c/SlasherXGAMES/) - A couple of genre-specific GameMaker tutorials, integrating databases into GameMaker, and more.
+- [Slyddar](https://www.youtube.com/c/Slyddar/) - A channel dedicated to both DnD and GML tutorials.
 
 ## Community
 
