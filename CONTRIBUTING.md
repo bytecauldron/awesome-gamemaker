@@ -16,13 +16,17 @@ Thank you for showing interest in contributing to this list! Before submitting n
 
 2. **Place your link(s) at the bottom of the respective category it belongs to.** (If you are unsure, place it in `Useful Extras`.)
 
-3. Specify if it's a paid asset by including 💸 at the end of your link.
+3. Specify if it's a paid asset by including 💸 at the end of your description.
 
-4. Include the following format:
+4. When adding a YouTube link outside of the YouTube category, include ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) at the end of your description using this markdown:
+
+   `![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)`
+
+5. Include the following format:
    
    `- [Awesome Example](https://github.com/username/gamemaker_library) - A short description. 💸`
 
-5. Submit the pull request to merge back to `main`.
+6. Submit the pull request to merge back to `main`.
 
 ## Creating Issues
 
