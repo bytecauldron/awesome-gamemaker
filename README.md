@@ -339,8 +339,6 @@
 - [Smile](https://github.com/zbanack/smile) - Sentiment analysis.
 - [Danmaku Project](https://github.com/OmegaX1000/DanmakuProject) - Bullet hell engine.
 - [OrbinautFramework](https://github.com/TrianglyRU/OrbinautFramework) - Accurate framework to make classic Sonic games.
-- [Dynamic Turn System](https://gentoogames.itch.io/turn-based-combat-system-for-gamemaker) - Great to use as a base for building turn based combat/gameplay.
-- [Isometric Tactical RPG Framework](https://gentoogames.itch.io/isometric-tactical-rpg-framework) - Provides starter assets to create an isometric board game. Dynamic Turn System is included.
 - [Mouse Trail Effect](https://all-x.itch.io/gms2-mouse-trail-effect) - Shows how to trace a line with primitives to create a colorful trail.
 - [Starfield Generator](https://github.com/PixelProphecy/gml_starfield_generator) - A script to generate starfields in GameMaker's GML language.
 - [CleanShapes](https://github.com/JujuAdams/Clean-Shapes) - Antialiased primitives library for GameMaker.
