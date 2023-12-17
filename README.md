@@ -156,7 +156,6 @@
 - [Emu UI](https://github.com/DragoniteSpam/Emu) - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
 - [Easy And Fast Menu](https://pkgames.itch.io/easy-and-fast-menus-for-gms-23) - Simple implementation to have a menu up and running in seconds. Seems like a great fit if you're not looking for a bigger solution like GMUI.
 - [Pause Menu](https://jasontomlee.itch.io/pause-menu-gamemaker-1-2) - Another smaller implementation but has a cool animation between menu options.
-- [Shampoo](https://zackbanack.itch.io/shampoo) - GUIs using a markup-like language. 💸
 - [Magpie](https://dragonite.itch.io/magpie) - Generic Inventory System.
 - [ImGuiGML](https://rousr.itch.io/imguigml) - DLL/GML wrapper of Dear ImGui.
 - [GUI Framework](https://niris.itch.io/gui-framework) - GUI implementation from Niris Games.
