@@ -367,6 +367,7 @@
 - [RefresherTowel](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
 - [Tony Str](https://tonystr.net/articles) - Some great articles on working with json, regular expressions, and drawing circles in gml.
 - [Katsaii](https://www.katsaii.com/content/blog/posts.html) - Some articles on more advanced gml topics.
+- [Meseta on Game Dev](https://meseta.dev/) - Seasoned GameMaker dev's thoughts on GameMaker concepts and libraries.
 
 ## YouTube
 
