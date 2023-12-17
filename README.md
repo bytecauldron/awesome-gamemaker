@@ -42,9 +42,9 @@
 
 ## Getting Started
 
-- [GameMaker Manual](https://manual.yoyogames.com/#t=Content.htm)
+- [GameMaker Manual](https://manual.gamemaker.io/)
 - [GameMaker Release Notes](https://gms.yoyogames.com/ReleaseNotes.html)
-- [GameMaker Marketplace](https://marketplace.yoyogames.com/)
+- [GameMaker Marketplace](https://marketplace.gamemaker.io/)
 - [Beginner GameMaker Tutorials](https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP) - Tutorials from Shaun Spalding. A comprehensive introduction to basic features of the IDE. Highly recommended to check out the full playlist if you're a complete beginner. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Advanced GameMaker Tutorials](https://www.youtube.com/watch?v=n8-MuIuOQFE&list=PL_hT--4HOvrfuDcYrTufdpgwoALAczPR2) - Tutorials from DragoniteSpam that dive into more advanced topics related to the GML language. They also have comprehensive 3D and shader introduction videos. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
