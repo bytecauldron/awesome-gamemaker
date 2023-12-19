@@ -36,9 +36,6 @@
 - [YouTube](#youtube)
 - [Community](#community)
 - [Special Thanks](#special-thanks)
-- [Footnotes](#footnotes)
-- [Contributing](#contributing)
-- [GameMaker Keybindings](#gamemaker-keybindings)
 
 ## Getting Started
 

@@ -11,6 +11,7 @@ Thank you for showing interest in contributing to this list! Before submitting n
 - Make sure it isn't already on the list.
 - [Optional] If you are releasing an library/extension, It's recommend to build an importable `.yymps` file and keep everything in one folder if possible.
 - Provide a succinct description for each linked resource.
+- Check the official [awesome pull request requirements](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md#requirements-for-your-awesome-list) to ensure your changes are consistent with their guidelines. You usually don't need to worry about this if you're just adding or removing a couple links.
 
 1. Fork a new branch of the repo.
 
