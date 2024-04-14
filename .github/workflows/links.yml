@@ -24,4 +24,4 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          args: --verbose --no-progress './**/README.md' --max-concurrency 8 # Max concurrency is set low to deal with rate limit errors.
+          args: --verbose --no-progress './**/README.md' --max-concurrency 1 # Max concurrency is set low to deal with rate limit errors.
