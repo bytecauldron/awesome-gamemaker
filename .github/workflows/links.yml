@@ -1,8 +1,6 @@
-# This workflow is set to look at all the links in the readme.md every six months. If there are any links that spit out a 404 or other error, it will get listed in the linkChecker summary, and the badge on the readme will state whether it's "passing" or "failing".
+# This workflow is set to look at all the links in the README.md every six months. If there are any links that spit out a 404 or other error, it will get listed in the Links workflow summary, and the badge on the README will state whether it's "passing" or "failing".
 
 # If it is failing, you will need to access the latest Links action that was ran, remove/replace any links that return an error, and then manually run the workflow again.
-
-# Any links that need to be ignored is in .lycheeignore. This includes repo-specific media like badges and images.
 
 name: Links
 
@@ -10,7 +8,7 @@ on:
   repository_dispatch:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 1 */6 *" # Run every 6 months.
+    - cron: "0 0 1 */6 *" # Runs every 6 months.
 
 jobs:
   linkChecker:
@@ -24,4 +22,4 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          args: --verbose --no-progress './**/README.md' --max-concurrency 1 # Max concurrency is set low to deal with rate limit errors.
+          args: --verbose --no-progress './**/README.md' --exclude itch.io --max-concurrency 1
