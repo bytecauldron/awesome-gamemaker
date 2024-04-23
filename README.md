@@ -102,7 +102,6 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [GMSDLL](https://github.com/YAL-GameMaker/GMSDLL) - A template project for building DLLs for GameMaker.
 - [Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection) - A suite of various extensions.
 - [GMLodash](https://github.com/DatZach/GMLodash) - Functional programming in GML.
-- [Wraptor](https://github.com/Gizmo199/Wraptor) - A library of wrapper functions.
 - [Autoframer](https://github.com/mstop4/auto-framer) - Automatically handles resizing the game view across different display and window sizes.
 - [gameframe](https://github.com/YAL-GameMaker/gameframe) - Custom window caption and border for Windows.
 - [GML+](https://xgasoft.itch.io/gmlp) - A script collection with a goal to "fill the gaps" in GML. 💸
@@ -247,7 +246,6 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [BJRTFX](https://zikbakguru.itch.io/bjrtfx) - Zik's CRT Utility Shader.
 - [bktGlitch](https://odditica.itch.io/bktglitch) - Glitch shader.
 - [H O R R I - F I](https://gizmo199.itch.io/horri-fi) - VHS Shader.
-- [Cyberpunk Hologram Effect](https://gentoogames.itch.io/cyberpunk-hologram-effect) - Create and customize your own holographic effect using this easy-to-implement asset.
 - [Depth Sorted Sillouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example) - Example project to demonstrate shader-based depth sorting sillouettes. Tested on PC, Mac, HTML5, and Android.
 - [GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com".
 - [1PassBlur](https://github.com/XorDev/1PassBlur/wiki) - Blur Shader with adjustable radius.
@@ -379,7 +377,6 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Katsaii](https://www.katsaii.com/content/blog/posts.html) - Some articles on more advanced GML topics.
 - [Meseta on Game Dev](https://meseta.dev/) - Seasoned GameMaker dev's thoughts on GameMaker concepts and libraries.
 - [Thoughts On GameMaker](https://github.com/JujuAdams/ThoughtsOnGameMaker) - Not a traditional blog but has great info on different GML techniques.
-- [ApathyHill](https://apathyhill.com/blog/category/gamemaker) - Some articles on GameMaker 3D, noise, sprite trails, and a few others.
 
 ## YouTube
 
