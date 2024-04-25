@@ -302,7 +302,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Multiplayer Networking Tutorial](https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626) - Wizirdi. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Good GameMaker Rollback](https://springrollgames.itch.io/ggmr) - Rollback netcode library.
 - [GM Networking](https://github.com/gmclan-org/gm_networking) - Very simple network code demonstration.
-- [Boomers Networking](https://github.com/gmclan-org/gm_boomers_networking) - Network library which mimics pre-GM:Studio faviourite networking extension 39dll using GM native functions.
+- [Boomers Networking](https://github.com/gmclan-org/gm_boomers_networking) - Network library which mimics pre-GM:Studio favorite networking extension 39dll using GM native functions.
 
 ## Integrations
 
@@ -344,7 +344,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Aquila](https://dragonite.itch.io/aquila) - A* Pathfinding implementation.
 - [A-Star-Pathing](https://github.com/helloalbertdang/A-Star-Pathing) - Another A* pathfinding implementation.
 - [Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 different algorithms.
-- [Pathfinding in graph](https://github.com/gmclan-org/dijkstra-graph) - Shortest path fiding system in (weighted) graph, using Dijkstra alghoritm.
+- [Pathfinding in graph](https://github.com/gmclan-org/dijkstra-graph) - Shortest pathfinding system in (weighted) graph, using Dijkstra algorithm.
 
 ## Useful Extras
 
@@ -376,7 +376,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Tome](https://github.com/chesrowe/Tome/) - Automatically generate documentation sites from GameMaker projects.
 - [Piano example](https://github.com/gmclan-org/piano_example) - Example of playing intrument notes by changing pitch, using only one audio file.
 - [Compatibility scripts](https://github.com/gmclan-org/compatibility-scripts) - Scripts that are used by GM when importing GM:S 1.4 projects, taken directly from runtime files.
-- [Pause example](https://github.com/gmclan-org/pause_no_surface) - Simple example of pause screen, without using surfaces.
+- [Pause example](https://github.com/gmclan-org/pause_no_surface) - Simple example of a pause screen without using surfaces.
 
 ## Blogs
 
