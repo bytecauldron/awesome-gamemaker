@@ -215,6 +215,14 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Vinyl](https://github.com/JujuAdams/Vinyl) - Live updating audio system.
 - [LineAudio](https://github.com/WangleLine/LineAudio) - Audio helper functions.
 - [Bard](https://github.com/gl326/bard-audio) - An engine for desiging and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects.
+- [SynthEngine](https://topherlicious.itch.io/synthengine) - A fully-featured musical synthesizer for GameMaker.
+- [MusicTheoryLib](https://topherlicious.itch.io/musictheorylib) - Convenient music theory utilities for GameMaker.
+- [WaveForm](https://topherlicious.itch.io/waveform) - Render audio wave forms from audio buffers in GameMaker.
+- [WaveWrite](https://topherlicious.itch.io/wavewrite) - Read and write WAV files in GameMaker.
+- [GMMidi](https://topherlicious.itch.io/gmmidi) - Read and write MIDI files in GameMaker.
+- [EZAFX](https://topherlicious.itch.io/ezafx) - Instant preset audio effects for GameMaker.
+- [GMSync](https://topherlicious.itch.io/gmsync) - Perfectly sync game elements to the rhythm of your music.
+- [MicVol](https://topherlicious.itch.io/micvol) - Easily monitor microphone volume in real time in GameMaker. 💸
 
 ## Levels
 
