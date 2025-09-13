@@ -17,6 +17,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Native Extensions](#native-extensions)
 - [Timing](#timing)
 - [Utilities](#utilities)
+- [Tools](#tools)
 - [Debugging](#debugging)
 - [Input Handling](#input-handling)
 - [User Interface](#user-interface)
@@ -97,6 +98,7 @@ These work on specific platform(s) and enable the games to do something that wou
 - [GM Sysinfo](https://github.com/SpikeHD/gm-sysinfo) - Cross-platform extension for getting system information and resource usage.
 - [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos. However, the latest version of GMS has video support.
 - [GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) - Webcam capture.
+- [Rousr Release](https://gitlab.com/rousr-release/) - Unmaintained projects from the Rousr team (in case anyone asks where OutsideTheBox/Dissonance went).
 
 ## Timing
 
@@ -115,7 +117,6 @@ Custom timers, timelines, and task scheduling.
 
 - [gm-core](https://github.com/gm-core) - Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.
 - [FAST](https://github.com/Hyomoto/FAST) - Flexible Assistant Toolkit. Similar to gm-core but comes with input and resolution handling.
-- [Stitch](https://www.npmjs.com/package/@bscotch/stitch) - Pipeline Development Kit. Includes cross-project imports, batch-creating/updating sprites and sounds, texture page management, and more. Tested on Windows only.
 - [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor.
 - [handytools](https://github.com/JujuAdams/handytools/) - A collection of Juju's libraries in one convenient project.
 - [GameMaker Scaffolding](https://github.com/babaganosch/GameMakerScaffolding) - Another cool all-encompassing template with a focus on building low-res, tile-based games.
@@ -136,15 +137,22 @@ Custom timers, timelines, and task scheduling.
 - [Autoframer](https://github.com/mstop4/auto-framer) - Automatically handles resizing the game view across different display and window sizes.
 - [GML+](https://xgasoft.itch.io/gmlp) - A script collection with a goal to "fill the gaps" in GML. 💸
 - [GMLive](https://yellowafterlife.itch.io/gamemaker-live) - Livecoding / interactive programming. 💸
-- [GMEdit](https://github.com/YellowAfterlife/GMEdit) - Code editor to use in conjunction with GameMaker.
-- [YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes `.yyp` files for you.
-- [Rubber](https://github.com/GameMakerDiscord/Rubber) - Compile GameMaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
 - [gml-highscorer](https://github.com/Grisgram/gml-highscorer) - Highscore and trophy system.
 - [SSave](https://github.com/stoozey/SSave) - Simple file saving system.
 - [Catspeak](https://github.com/katsaii/catspeak-lang) - Cross-platform programming language for modding support.
 - [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
-- [GMSnip](https://manta-ray.itch.io/gmsnip) - Experimental tool to define unlimited code snippets in the IDE.
 - [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) - A proof of concept for multiprocessing.
+
+## Tools
+
+Things that work with project files or GameMaker itself rather than being something that's used in-game.
+
+- [Stitch](https://www.npmjs.com/package/@bscotch/stitch) - Pipeline Development Kit. Includes cross-project imports, batch-creating/updating sprites and sounds, texture page management, a VS Code integration, and more.
+- [GMEdit](https://github.com/YellowAfterlife/GMEdit) - Code editor to use in conjunction with GameMaker.
+- [YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes `.yyp` files for you.
+- [Rubber](https://github.com/GameMakerDiscord/Rubber) - Compile GameMaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
+- [GMSnip](https://manta-ray.itch.io/gmsnip) - Experimental tool to define unlimited code snippets in the IDE.
+- [vim-GML](https://github.com/JafarDakhan/vim-gml) - High quality Vim syntax highlighting for GameMaker.
 
 ## Debugging
 
@@ -396,8 +404,6 @@ Custom timers, timelines, and task scheduling.
 - [Game Resolution & Aspect Ratio Management](https://www.youtube.com/watch?v=_g1LQ6aIJFk&list=PLXkVsacazW2qvdnKNzgBLkUwlgi3FU-VO) - Pixelated Pope. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Setting up a Virtual Machine for GameMaker](https://www.youtube.com/watch?v=cK5k1_zN4eM) - MicahTheManiac. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Making Attacks Feel Good](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-- [vim-GML](https://github.com/JafarDakhan/vim-gml) - High quality Vim syntax highlighting for GameMaker.
-- [Rousr Release](https://gitlab.com/rousr-release/) - Unmaintained projects from the Rousr team (in case anyone asks where OutsideTheBox/Dissonance went).
 - [Tome](https://github.com/chesrowe/Tome/) - Automatically generate documentation sites from GameMaker projects.
 - [Piano example](https://github.com/gmclan-org/piano_example) - Example of playing intrument notes by changing pitch, using only one audio file.
 - [Compatibility scripts](https://github.com/gmclan-org/compatibility-scripts) - Scripts that are used by GM when importing GM:S 1.4 projects, taken directly from runtime files.
