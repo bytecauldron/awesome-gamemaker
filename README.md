@@ -15,6 +15,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Getting Started](#getting-started)
 - [Data Manipulation](#data-manipulation)
 - [Native Extensions](#native-extensions)
+- [Timing](#timing)
 - [Utilities](#utilities)
 - [Debugging](#debugging)
 - [Input Handling](#input-handling)
@@ -97,6 +98,19 @@ These work on specific platform(s) and enable the games to do something that wou
 - [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos. However, the latest version of GMS has video support.
 - [GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) - Webcam capture.
 
+## Timing
+
+Custom timers, timelines, and task scheduling.
+
+- [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library.
+- [Stopwatch](https://github.com/Lojemiru/Stopwatch) - GameMaker alarm replacement.
+- [wTimer](https://mors-games.itch.io/wtimer) - Robust alternative for alarms.
+- [FrogAlarm](https://github.com/colmeye/FrogAlarms) - Another easy alternative to GameMaker alarms.
+- [fuwafuwa](https://github.com/kemonologic/fuwafuwa) - Easy-to-use timer system.
+- [Timer](https://github.com/nommiin/Timers) - Timer methods based on setTimeout and setInterval from JS.
+- [GMTimeLine](https://github.com/TimVN/GMTimeLine) - A pure code alternative to GameMaker timelines.
+- [Agenda](https://github.com/benal20/Agenda.gml) - Schedule and delay the execution of callbacks.
+
 ## Utilities
 
 - [gm-core](https://github.com/gm-core) - Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.
@@ -105,12 +119,6 @@ These work on specific platform(s) and enable the games to do something that wou
 - [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor.
 - [handytools](https://github.com/JujuAdams/handytools/) - A collection of Juju's libraries in one convenient project.
 - [GameMaker Scaffolding](https://github.com/babaganosch/GameMakerScaffolding) - Another cool all-encompassing template with a focus on building low-res, tile-based games.
-- [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library.
-- [Stopwatch](https://github.com/Lojemiru/Stopwatch) - GameMaker alarm replacement.
-- [wTimer](https://mors-games.itch.io/wtimer) - Robust alternative for alarms.
-- [FrogAlarm](https://github.com/colmeye/FrogAlarms) - Another easy alternative to GameMaker alarms.
-- [fuwafuwa](https://github.com/kemonologic/fuwafuwa) - Easy-to-use timer system.
-- [Timer](https://github.com/nommiin/Timers) - Timer methods based on setTimeout and setInterval from JS.
 - [Broadcast](https://github.com/JulianDicken/Broadcast) - Event handling library.
 - [Polarca](https://github.com/VitorEstevam/polarca) - Interpolation functions.
 - [Twerp](https://pixelatedpope.itch.io/twerp) - Easing function similar to lerp().
@@ -133,10 +141,8 @@ These work on specific platform(s) and enable the games to do something that wou
 - [Rubber](https://github.com/GameMakerDiscord/Rubber) - Compile GameMaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
 - [gml-highscorer](https://github.com/Grisgram/gml-highscorer) - Highscore and trophy system.
 - [SSave](https://github.com/stoozey/SSave) - Simple file saving system.
-- [GMTimeLine](https://github.com/TimVN/GMTimeLine) - A pure code alternative to GameMaker timelines.
 - [Catspeak](https://github.com/katsaii/catspeak-lang) - Cross-platform programming language for modding support.
 - [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
-- [Agenda](https://github.com/benal20/Agenda.gml) - Schedule and delay the execution of callbacks.
 - [GMSnip](https://manta-ray.itch.io/gmsnip) - Experimental tool to define unlimited code snippets in the IDE.
 - [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) - A proof of concept for multiprocessing.
 
