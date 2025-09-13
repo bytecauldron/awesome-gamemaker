@@ -13,6 +13,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 ## Contents
 
 - [Getting Started](#getting-started)
+- [Data manipulation](#data-manipulation)
 - [Utilities](#utilities)
 - [Debugging](#debugging)
 - [Input Handling](#input-handling)
@@ -57,6 +58,30 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
 - Schedule routine backups for projects. If you are dealing with larger media files in your repo, try [Git LFS](https://git-lfs.github.com/).
 
+## Data manipulation
+
+This includes data structures and file formats that do not fit into a more specific category.
+
+- [GML-OOP](https://github.com/Mtax-Development/GML-OOP) - A constructor library for operating the primary functionalities of GameMaker.
+- [GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) - Another project that adds OOP functionality to GameMaker.
+- [Destructors](https://github.com/DatZach/Destructors) - Allows you to use ds_* types such as lists and maps inside of structs.
+- [SNAP](https://github.com/JujuAdams/SNAP) - Easy data format saving and loading. Please note that newer versions of GameMaker contain `json_parse` and `json_stringify`. However, if you are converting csv, ini, xml, etc, you may find this very useful.
+- [LWO](https://github.com/tabularelf/lwo) - Lightweight objects using structs.
+- [Lock And Key](https://github.com/AlubJ/Lock-And-Key) - String and file encryption.
+- [Map](https://github.com/GameMakerDiscord/Map.gml) - Hash table implementations.
+- [Matrices](https://github.com/JujuAdams/matrices) - A collection of matrix handling scripts.
+- [gm-stream](https://github.com/daikon-games/gm-stream) - Data structure manipulation.
+- [Promises](https://github.com/YAL-GameMaker/Promise.gml) - An adaptation of JavaScript Promises.
+- [ForEach](https://github.com/KeeVeeGames/foreach.gml) - Adds a foreach implementation for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.
+- [DeepCopy](https://github.com/KeeVeeGames/DeepCopy.gml) - Deep clone class instances / constructed structs, anonymous structs and arrays nested in any order!
+- [Cottonwool](https://github.com/JujuAdams/Cottonwool) - Safe surfaces without memory leaks.
+- [BSONGML](https://github.com/LAGameStudio/BSONGML) - Save and load GML structured data in binary files, skirting memory and performance concerns associated with loading JSON as a string.
+- [Binder](https://github.com/Homunculus84/Binder) - A binary search library for efficient lookups on large datasets.
+- [Airkiver](https://github.com/AlubJ/Airkiver) - Game file archive tool.
+- [OKColor](https://github.com/KeeVeeGames/OKColor.gml) - An okay color manager for implementing OKLab/OKLCH colors.
+- [Exception](https://github.com/KeeVeeGames/Exception.gml) - A base class for custom exceptions.
+- [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) - The most complete list class. Garbage collected, fast sort function, [] accessor and referencing as an array.
+
 ## Utilities
 
 - [gm-core](https://github.com/gm-core) - Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.
@@ -75,27 +100,14 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Polarca](https://github.com/VitorEstevam/polarca) - Interpolation functions.
 - [Twerp](https://pixelatedpope.itch.io/twerp) - Easing function similar to lerp().
 - [Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker.
-- [GML-OOP](https://github.com/Mtax-Development/GML-OOP) - A constructor library for operating the primary functionalities of GameMaker.
-- [GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) - Another project that adds OOP functionality to GameMaker.
-- [Map](https://github.com/GameMakerDiscord/Map.gml) - Hash table implementations.
-- [Matrices](https://github.com/JujuAdams/matrices) - A collection of matrix handling scripts.
-- [gm-stream](https://github.com/daikon-games/gm-stream) - Data structure manipulation.
-- [Promises](https://github.com/YAL-GameMaker/Promise.gml) - An adaptation of JavaScript Promises.
-- [Destructors](https://github.com/DatZach/Destructors) - Allows you to use ds_* types such as lists and maps inside of structs.
-- [SNAP](https://github.com/JujuAdams/SNAP) - Easy data format saving and loading. Please note that newer versions of GameMaker contain `json_parse` and `json_stringify`. However, if you are converting csv, ini, xml, etc, you may find this very useful.
 - [Dynamo](https://github.com/JujuAdams/Dynamo) - Dynamic data loader.
-- [LWO](https://github.com/tabularelf/lwo) - Lightweight objects using structs.
 - [Gumshoe](https://github.com/JujuAdams/Gumshoe) - Simple deep file search function.
-- [Lock And Key](https://github.com/AlubJ/Lock-And-Key) - String and file encryption.
 - [Mathematical Scripts](https://github.com/adam-rumpf/game-maker-scripts) - A collection of math scripts.
 - [Seedpod](https://github.com/daikon-games/gm-seedpod) - A collection of scripts to improve the GML programming experience.
 - [Trixscript](https://trixelized.itch.io/trixscript) - Juices up your game with useful functions.
 - [CoreExtension](https://github.com/blueburncz/CoreExtension) - A collection of CC0 programming libraries. (archived)
 - [Voxeledphoton's FreeGMScripts](https://github.com/vphoton/FreeGMScripts) - Additional GML helper functions. Some may be out of date with 2.3+ syntax.
-- [ForEach](https://github.com/KeeVeeGames/foreach.gml) - Adds a foreach implementation for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.
-- [DeepCopy](https://github.com/KeeVeeGames/DeepCopy.gml) - Deep clone class instances / constructed structs, anonymous structs and arrays nested in any order!
 - [Motion Scripts](https://avis.itch.io/motion-scripts) - Provides replacement methods for built-in motion variables.
-- [Cottonwool](https://github.com/JujuAdams/Cottonwool) - Safe surfaces without memory leaks.
 - [Canvas](https://github.com/tabularelf/Canvas) - Another great solution for surface management.
 - [zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) - Simple compression/decompression functions.
 - [Window Taskbar](https://yellowafterlife.itch.io/gamemaker-window-taskbar) - Windows only. Flash the game window border and/or its taskbar button.
@@ -117,14 +129,8 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
 - [Agenda](https://github.com/benal20/Agenda.gml) - Schedule and delay the execution of callbacks.
 - [GMSnip](https://manta-ray.itch.io/gmsnip) - Experimental tool to define unlimited code snippets in the IDE.
-- [Airkiver](https://github.com/AlubJ/Airkiver) - Game file archive tool.
-- [OKColor](https://github.com/KeeVeeGames/OKColor.gml) - An okay color manager for implementing OKLab/OKLCH colors.
-- [Exception](https://github.com/KeeVeeGames/Exception.gml) - A base class for custom exceptions.
-- [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) - The most complete list class. Garbage collected, fast sort function, [] accessor and referencing as an array.
 - [GM Sysinfo](https://github.com/SpikeHD/gm-sysinfo) - Cross-platform extension for getting system information and resource usage.
-- [BSONGML](https://github.com/LAGameStudio/BSONGML) - Save and load GML structured data in binary files, skirting memory and performance concerns associated with loading JSON as a string.
 - [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) - A proof of concept for multiprocessing.
-- [Binder](https://github.com/Homunculus84/Binder) - A binary search library for efficient lookups on large datasets.
 
 ## Debugging
 
