@@ -84,6 +84,8 @@ This includes data structures and file formats that do not fit into a more speci
 - [OKColor](https://github.com/KeeVeeGames/OKColor.gml) - An okay color manager for implementing OKLab/OKLCH colors.
 - [Exception](https://github.com/KeeVeeGames/Exception.gml) - A base class for custom exceptions.
 - [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) - The most complete list class. Garbage collected, fast sort function, [] accessor and referencing as an array.
+- [Bit Buffers](https://yellowafterlife.itch.io/gamemaker-bit-buffers) - Read and write buffers with per-bit granularity.
+- [sprite_add_gif](https://yellowafterlife.itch.io/gamemaker-sprite-add-gif) - Dynamically load animated GIFs as sprites.
 
 ## Native Extensions
 
@@ -99,6 +101,16 @@ These work on specific platform(s) and enable the games to do something that wou
 - [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos. However, the latest version of GMS has video support.
 - [GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) - Webcam capture.
 - [Rousr Release](https://gitlab.com/rousr-release/) - Unmaintained projects from the Rousr team (in case anyone asks where OutsideTheBox/Dissonance went).
+- [window_shape](https://yellowafterlife.itch.io/gamemaker-window-shape) - Custom-shaped windows on Windows. 💸
+- [Windows' windows](https://yellowafterlife.itch.io/gamemaker-winwin) - Multiple windows on Windows. 💸
+- [winMenu](https://yellowafterlife.itch.io/gamemaker-winmenu) - Native menus on Windows. 💸
+- [window_set_icon](https://yellowafterlife.itch.io/window-set-icon) - Change window and/or taskbar icons on Windows.
+- [file_dropper](https://yellowafterlife.itch.io/gamemaker-file-dropper) - Accept drag-and-dropping files onto a game window on Windows.
+- [file_dragger](https://github.com/YAL-GameMaker/file_dragger) - Drag-and-drop files *out* of the game window on Windows.
+- [Window Commands](https://yellowafterlife.itch.io/gamemaker-window-commands) - Dispatch/intercept window controls like Minimize (and other window-related functions).
+- [wasm-bridge](https://github.com/Sidorakh/wasm-bridge) - A way to use JS extensions in GX/WASM games.
+- [Web Dynamic Textures](https://yellowafterlife.itch.io/gamemaker-web-dyn-textures) - A dynamic texture page loading system for HTML5.
+- [GMWinBackdrop](https://topherlicious.itch.io/gmwinbackdrop) - Windows 11 backdrop materials.
 
 ## Timing
 
@@ -153,6 +165,9 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Rubber](https://github.com/GameMakerDiscord/Rubber) - Compile GameMaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
 - [GMSnip](https://manta-ray.itch.io/gmsnip) - Experimental tool to define unlimited code snippets in the IDE.
 - [vim-GML](https://github.com/JafarDakhan/vim-gml) - High quality Vim syntax highlighting for GameMaker.
+- [sfGML](https://yellowafterlife.itch.io/gamemaker-haxe) - Generate GML code from strongly-typed Haxe.
+- [Win7 patcher for GM2024.11+](https://yellowafterlife.itch.io/gm2024-win7-patcher) - Makes games made in new GM versions run on Windows 7.
+- [RerouteAudio](https://yellowafterlife.itch.io/gamemaker-reroute-audio) - Organizes audio files compiled games into subdirectories. 💸
 
 ## Debugging
 
@@ -167,6 +182,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Duck](https://github.com/imlazyeye/duck) - A fast GML analyzer to enforce code styling and detect errors.
 - [Gobo](https://github.com/Pizzaandy/Gobo/) - An opinionated code formatter for GML.
 - [Inspectron](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
+- [GMPulse](https://topherlicious.itch.io/gmpulse) - A runtime inspector and control panel. 💸
 
 ## Input Handling
 
@@ -176,6 +192,8 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration.
 - [Mouse Queue](https://github.com/YAL-GameMaker/window_mouse_queue) - Tracks the Windows mouse pointer with high precision.
 - [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) - System-level custom cursors. 💸
+- [Native Mouselock](https://yellowafterlife.itch.io/gamemaker-native-mouselock) - System-level mouse locking. 💸
+- [Raw Input](https://yellowafterlife.itch.io/gamemaker-raw-input) - Use multiple mice and keyboards. 💸
 
 ## User Interface
 
@@ -209,6 +227,8 @@ Things that work with project files or GameMaker itself rather than being someth
 - [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) - Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file.
 - [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) - Similar export tool to GMLocalize but exports to a csv.
 - [gms2-mofile](https://github.com/pmarincak/gms2-mofile) - Mofile reader used for localization.
+- [cmnLoc](https://yellowafterlife.itch.io/gamemaker-cmn-loc) - Localization library with a text extractor, short syntax, and ICU/pluralization support. 💸
+- [MythLoco](https://mythloco.co.uk) - A localization system with a web-based strings editor.
 
 ## Physics
 
@@ -316,6 +336,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [3D GameMaker Playlist](https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [3D Collisions Playlist](https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [3D Optimization Playlist](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+- [glTF parser](https://bitbucket.org/tijit/gltf-parser-for-gamemaker-lts/src/main/) - A model loader with support for animations.
 
 ## Sprite Stacking
 
