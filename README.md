@@ -112,6 +112,7 @@ These work on specific platform(s) and enable the games to do something that wou
 - [wasm-bridge](https://github.com/Sidorakh/wasm-bridge) - A way to use JS extensions in GX/WASM games.
 - [Web Dynamic Textures](https://yellowafterlife.itch.io/gamemaker-web-dyn-textures) - A dynamic texture page loading system for HTML5.
 - [GMWinBackdrop](https://topherlicious.itch.io/gmwinbackdrop) - Windows 11 backdrop materials.
+- [GMSDLL.rs](https://github.com/YAL-GameMaker/GMSDLL.rs?) - Example on how to make native DLL extensions in Rust.
 
 ## Timing
 
@@ -228,6 +229,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [zitk](https://github.com/TandyRum1024/zitk) - Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on.
 - [gooey](https://manta-ray.itch.io/gooey) - Sprite-based UI Library for GameMaker LTS.
 - [SimpleUI](https://github.com/evolutionleo/SimpleUI) - Minimalistic UI framework.
+- [LimeUI](https://github.com/Limekys/LimeUI) - Flexpanel system for modern, touch-friendly interfaces.
 
 ## Localization
 
@@ -262,6 +264,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
 - [conveyorbelt](https://github.com/imissmyfriends/conveyorbelt) - Similar to ASESync. Export Aesprite files to GameMaker sprites.
 - [Collage](https://github.com/tabularelf/Collage) - Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility.
+- [GM Animate](https://github.com/KormexGit/GM-Animate) - Sprite animation manager.
 
 ## Audio
 
@@ -356,6 +359,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [sPart](https://marketplace.yoyogames.com/assets/7299/spart-3d-particle-system) - 3D Particle System from TheSnidr.
 - [Terrain Editor](https://dragonite.itch.io/terrain) - Terrain editor. Exports to gm models, obj, or vertex buffers.
 - [Snowy Snow](https://dragonite.itch.io/snowy-snow) - 3D Snow Shader.
+- [Collisions](https://dragonite.itch.io/collisions) - 3D collision system that works with native GML.
 - [3D Fragment Point Lights](https://danieldavis.itch.io/ddg-point-light-shader-system) - 3D point lights using shaders. 💸
 - [3D GameMaker Playlist](https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [3D Collisions Playlist](https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
@@ -426,6 +430,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [A-Star-Pathing](https://github.com/helloalbertdang/A-Star-Pathing) - Another A* pathfinding implementation.
 - [Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 different algorithms.
 - [Pathfinding in graph](https://github.com/gmclan-org/dijkstra-graph) - Shortest pathfinding system in (weighted) graph, using Dijkstra algorithm.
+- [PathPlus](https://delfos1.itch.io/pathplus-for-gamemaker/devlog/1115089/pathplus-220-follower-and-spriter) - Enhance GameMaker Paths with CatmullRom and Bezier Interpolations.
 
 ## Useful Extras
 
