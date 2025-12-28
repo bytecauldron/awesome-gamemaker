@@ -160,8 +160,6 @@ Custom timers, timelines, and task scheduling.
 - [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) - A proof of concept for multiprocessing.
 - [Figgy](https://github.com/glebtsereteli/Figgy) - Centralized and persistent live configs for seamless game tuning and balancing.
 - [RenderStack](https://github.com/FoxyOfJungle/RenderStack) - Organize your game's rendering into a customizable order.
-- [Rezol](https://foxyofjungle.itch.io/rezol) - Powerful, feature-rich screen manager 💸
-- [Managix](https://foxyofjungle.itch.io/managix) - Memory and resource manager. 💸
 
 ## Tools
 
