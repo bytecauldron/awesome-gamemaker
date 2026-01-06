@@ -22,4 +22,4 @@ jobs:
         uses: lycheeverse/lychee-action@v2.0.2
         with:
           fail: true
-          args: --verbose --no-progress './**/README.md' --exclude itch.io --max-concurrency 1
+          args: --verbose --no-progress './**/README.md' --exclude itch.io --exclude patreon.com --exclude reddit.com --exclude medium.com --exclude steamdb.info --max-concurrency 1
