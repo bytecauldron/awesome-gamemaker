@@ -188,6 +188,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
 - [Duck](https://github.com/imlazyeye/duck) - A fast GML analyzer to enforce code styling and detect errors.
 - [Gobo](https://github.com/Pizzaandy/Gobo/) - An opinionated code formatter for GML.
+- [Gobo (EttyKitty fork)](https://github.com/EttyKitty/Gobo/) - A bit less opinionated code formatter for GML, with more options and functionality.
 - [Inspectron](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
 - [GMPulse](https://topherlicious.itch.io/gmpulse) - A runtime inspector and control panel. 💸
 - [Lookout](https://github.com/glebtsereteli/Lookout) - Helpful debug overlay views.
