@@ -235,7 +235,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 - [polyglot](https://github.com/daikon-games/polyglot) - Localization library.
 - [gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) - Internationalization of texts simply and quickly, using JSON files.
-- [lexicon](https://github.com/tabularelf/lexicon) - Another localization solution focused on simplifying implementation.
+- [Lexicon](https://github.com/tabularelf/lexicon) - Another localization solution focused on simplifying implementation.
 - [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) - Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file.
 - [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) - Similar export tool to GMLocalize but exports to a csv.
 - [gms2-mofile](https://github.com/pmarincak/gms2-mofile) - Mofile reader used for localization.
@@ -261,8 +261,8 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Disarm](https://github.com/NuxiiGit/disarm) - A spriter skeletal animation at runtime.
 - [SpriteSource](https://github.com/bscotch/stitch/tree/develop/packages/sprite-source) - Utilities for creating art asset pipelines.
 - [PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) - Pixel art upscaling shader for awkward resolutions for GameMaker.
-- [ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
-- [conveyorbelt](https://github.com/imissmyfriends/conveyorbelt) - Similar to ASESync. Export Aesprite files to GameMaker sprites.
+- [ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aseprite files in GameMaker.
+- [conveyorbelt](https://github.com/imissmyfriends/conveyorbelt) - Similar to ASESync. Export Aseprite files to GameMaker sprites.
 - [Collage](https://github.com/tabularelf/Collage) - Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility.
 - [GM Animate](https://github.com/KormexGit/GM-Animate) - Sprite animation manager.
 
@@ -277,7 +277,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Phonix](https://github.com/Andre-404/Phonix/) - Compact audio system. Great for dynamic music!
 - [Vinyl](https://github.com/JujuAdams/Vinyl) - Live updating audio system.
 - [LineAudio](https://github.com/WangleLine/LineAudio) - Audio helper functions.
-- [Bard](https://github.com/gl326/bard-audio) - An engine for desiging and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects.
+- [Bard](https://github.com/gl326/bard-audio) - An engine for designing and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects.
 - [SynthEngine](https://topherlicious.itch.io/synthengine) - A fully-featured musical synthesizer for GameMaker.
 - [MusicTheoryLib](https://topherlicious.itch.io/musictheorylib) - Convenient music theory utilities for GameMaker.
 - [WaveForm](https://topherlicious.itch.io/waveform) - Render audio wave forms from audio buffers in GameMaker.
@@ -303,7 +303,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 - [Particle Editor](https://gamemakercasts.itch.io/particle-editor) - Create particles with an easy UI and export into GML code.
 - [Particles Wrapper](https://github.com/GamemakerCasts/particles) - A simplistic particle system wrapper that is designed to make creating particles fun and easy.
-- [Advanced Particles](https://limekys.itch.io/advanced-particle-system) - A particle implementation that comes with it's own delta timing methods.
+- [Advanced Particles](https://limekys.itch.io/advanced-particle-system) - A particle implementation that comes with its own delta timing methods.
 - [Pulse](https://github.com/Delfos1/Pulse) - A library to create more complex particle emitters, systems and particles.
 - [Burrn](https://github.com/FoxyOfJungle/Burrn) - Built-in particle system that uses the particle asset built into the IDE.
 
@@ -326,12 +326,12 @@ Things that work with project files or GameMaker itself rather than being someth
 - [BJRTFX](https://zikbakguru.itch.io/bjrtfx) - Zik's CRT Utility Shader.
 - [bktGlitch](https://odditica.itch.io/bktglitch) - Glitch shader.
 - [H O R R I - F I](https://gizmo199.itch.io/horri-fi) - VHS Shader.
-- [Depth Sorted Sillouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example) - Example project to demonstrate shader-based depth sorting sillouettes. Tested on PC, Mac, HTML5, and Android.
+- [Depth Sorted Silhouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example) - Example project to demonstrate shader-based depth sorting silhouettes. Tested on PC, Mac, HTML5, and Android.
 - [GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com".
 - [1PassBlur](https://github.com/XorDev/1PassBlur/wiki) - Blur Shader with adjustable radius.
 - [Bokeh Blur](https://github.com/XorDev/Bokeh/wiki) - Extension of the 1PassBlur which provides a different look. Similar to a real lens blur. Although it's much slower than 1Pass or Dual-Kawase.
 - [Dual-Kawase](https://github.com/XorDev/Dual-Kawase/wiki) - Blur Shader that limits radius but is very efficient.
-- [Xor's Halftone](https://xordev.itch.io/halftone) - A wonderful, versitile halftone shader. Lots of tweakable settings.
+- [Xor's Halftone](https://xordev.itch.io/halftone) - A wonderful, versatile halftone shader. Lots of tweakable settings.
 - [Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels) - Sampled pixels on a Voronoi diagram.
 - [Fire-Fun](https://github.com/XorDev/Fire-Fun/wiki) - Some fun magic fireballs.
 - [Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) - Jump Flooding Algorithm for GameMaker made with shaders.
@@ -379,7 +379,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) - Host/client implementation with a chat feature.
 - [Patchwire-GM](https://github.com/gm-core/patchwire-gm) - The network library from gm-core if you want to use this implementation without the entire gm-core suite.
 - [GMHandshake](https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8) - A Gist demonstrating a network handshake.
-- [HTTP GML](https://github.com/Sidorakh/http.gml) - Recieve GET requests and upload files in GML.
+- [HTTP GML](https://github.com/Sidorakh/http.gml) - Receive GET requests and upload files in GML.
 - [GMNest](https://github.com/TimVN/GMNest) - Socket.IO extension for HTML5 games.
 - [MultiClient](https://github.com/tabularelf/MultiClient) - Non-dll, multiple client launcher for network development.
 - [Multiplayer Networking Tutorial](https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626) - Wizirdi. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
@@ -457,7 +457,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Setting up a Virtual Machine for GameMaker](https://www.youtube.com/watch?v=cK5k1_zN4eM) - MicahTheManiac. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Making Attacks Feel Good](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Tome](https://github.com/chesrowe/Tome/) - Automatically generate documentation sites from GameMaker projects.
-- [Piano example](https://github.com/gmclan-org/piano_example) - Example of playing intrument notes by changing pitch, using only one audio file.
+- [Piano example](https://github.com/gmclan-org/piano_example) - Example of playing instrument notes by changing pitch, using only one audio file.
 - [Compatibility scripts](https://github.com/gmclan-org/compatibility-scripts) - Scripts that are used by GM when importing GM:S 1.4 projects, taken directly from runtime files.
 - [Pause example](https://github.com/gmclan-org/pause_no_surface) - Simple example of a pause screen without using surfaces.
 - [Build Automation, CI/CD](https://gist.github.com/shichen85/887d237cdc4338fa3f4e4749a14990db) - Tutorial on using GitHub Actions as a CI/CD pipeline to automate building games.
