@@ -160,6 +160,7 @@ Custom timers, timelines, and task scheduling.
 - [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) - A proof of concept for multiprocessing.
 - [Figgy](https://github.com/glebtsereteli/Figgy) - Centralized and persistent live configs for seamless game tuning and balancing.
 - [RenderStack](https://github.com/FoxyOfJungle/RenderStack) - Organize your game's rendering into a customizable order.
+- [GMLiteSearch](https://github.com/erkan612/GMLiteSearch) - Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence.
 
 ## Tools
 
