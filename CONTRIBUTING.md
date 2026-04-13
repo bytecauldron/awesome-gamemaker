@@ -37,3 +37,7 @@ Authors can also ask for the removal of their content, if requested. Suggestions
 ## Additional Feedback
 
 If you have a better way to organize the list information or other ideas, please share them by opening up a new issue.
+
+## Regarding AI Submissions
+
+Due to the rise of agents, I'm not interested in the vibecoded SaaS product you made a few days ago on the topic of game design. It's disrespectful to my time (a human maintainer) to review an theoretically unlimited amount of low-quality, AI-generated resources. These pull requests are often self-evident and will be treated as spam.
