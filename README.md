@@ -231,6 +231,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [gooey](https://manta-ray.itch.io/gooey) - Sprite-based UI Library for GameMaker LTS.
 - [SimpleUI](https://github.com/evolutionleo/SimpleUI) - Minimalistic UI framework.
 - [LimeUI](https://github.com/Limekys/LimeUI) - Flexpanel system for modern, touch-friendly interfaces.
+- [RustySDF](https://ainerond.itch.io/rusty-sdf-gms) - High-performance native MSDF and Rich Text engine. Features asynchronous glyph generation, BiDi/RTL, and fallback fonts. 💸
 
 ## Localization
 
