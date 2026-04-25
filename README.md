@@ -232,6 +232,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [gooey](https://manta-ray.itch.io/gooey) - Sprite-based UI Library for GameMaker LTS.
 - [SimpleUI](https://github.com/evolutionleo/SimpleUI) - Minimalistic UI framework.
 - [LimeUI](https://github.com/Limekys/LimeUI) - Flexpanel system for modern, touch-friendly interfaces.
+- [RustySDF](https://ainerond.itch.io/rusty-sdf-gms) - High-performance native MSDF and Rich Text engine. Features asynchronous glyph generation, BiDi/RTL, and fallback fonts. 💸
 
 ## Localization
 
@@ -389,6 +390,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [GM Networking](https://github.com/gmclan-org/gm_networking) - Very simple network code demonstration.
 - [Boomers Networking](https://github.com/gmclan-org/gm_boomers_networking) - Network library which mimics pre-GM:Studio favorite networking extension 39dll using GM native functions.
 - [Rocket Networking Engine](https://marketplace.gamemaker.io/assets/11424/rocket-networking-engine) - Easy low-code multiplayer engine.
+- [SpacetimeDB SDK](https://ainerond.itch.io/spacetimedb-gamemaker-studio-sdk) - A native extension to connect GameMaker to SpacetimeDB for real-time multiplayer, featuring WebSocket v2 and automatic BSATN parsing. 💸
 
 ## Integrations
 
