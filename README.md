@@ -233,6 +233,8 @@ Things that work with project files or GameMaker itself rather than being someth
 - [SimpleUI](https://github.com/evolutionleo/SimpleUI) - Minimalistic UI framework.
 - [LimeUI](https://github.com/Limekys/LimeUI) - Flexpanel system for modern, touch-friendly interfaces.
 - [Bento](https://github.com/JujuAdams/Bento) - Cross-platform UI framework.
+- [InteractiveBooks](https://marketplace.gamemaker.io/assets/4858/now-free-interactive-books) - Highly flexible, interactable books.
+- [SimpleBook](https://github.com/Gizmo199/SimpleBook) - Simple book rendering framework.
 
 ## Localization
 
