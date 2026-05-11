@@ -133,8 +133,8 @@ Custom timers, timelines, and task scheduling.
 - [Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker.
 - [SimThreads](https://github.com/tabularelf/SimThreads) - Simulated threads for GameMaker.
 - [MultiProcessing](https://github.com/tinkerer-red/MultiProcessing) - A proof of concept for multiprocessing in GameMaker.
-- [GML Promise](https://github.com/tinkerer-red/GML-Promise) - Another JS style promises added to GML
 - [Promises](https://github.com/YAL-GameMaker/Promise.gml) - An adaptation of JavaScript Promises.
+- [GML Promise](https://github.com/tinkerer-red/GML-Promise) - Another JS-style promise library.
 
 ## Utilities
 
