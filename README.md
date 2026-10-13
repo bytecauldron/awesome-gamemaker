@@ -93,6 +93,7 @@ This includes data structures and file formats that do not fit into a more speci
 
 These work on specific platform(s) and enable the games to do something that would be impossible, impractical, or inefficient to do in GML alone. Native extensions related to a specific task (e.g. input handling) can be found in those sections.
 
+- [GameMaker-Save](https://github.com/NiZaMinius/GameMaker-Save) - High‑performance, secure save system for GameMaker via a Rust cdylib (XChaCha20‑Poly1305). Supports GMS 2.3+
 - [GM-ExtensionGenerator](https://github.com/YoYoGames/GM-ExtensionGenerator) - Official, schema-driven code generator for native extensions.
 - [zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) - Simple compression/decompression functions.
 - [Window Taskbar](https://yellowafterlife.itch.io/gamemaker-window-taskbar) - Windows only. Flash the game window border and/or its taskbar button.
