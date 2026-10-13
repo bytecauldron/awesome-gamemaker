@@ -174,6 +174,7 @@ Custom timers, timelines, and task scheduling.
 - [GMVex](https://github.com/erkan612/GMVex) - Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering.
 - [RunGML](https://github.com/sdelaughter/RunGML) - A runtime scripting language with a Lisp-like syntax.  Facilitates modding support via included JSON files, and debugging/live coding via an in-game console.
 - [Tweeny](https://github.com/Kruger0/Tweeny) - A fire-and-forget tweening library with support for animation curves and ease functions
+- [GMSmartAgent](https://github.com/erkan612/GMSmartAgent) - Decision-weighting AI for GameMaker. Utility scoring with response curves, per-target options, commitment, a frame-budget scheduler with priority tiers, and agents that learn from player choices: habit and preference models, re-ranking and prediction. Pure GML.
 
 ## Tools
 
